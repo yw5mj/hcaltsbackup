@@ -1,4 +1,10 @@
 #! /bin/bash
+runbkp(){
+    .runscp -D 
+    git add *
+    git commit -a -m update
+    git push origin master
+}
 sttime=`date -d 23:59 +%s`
 nwtime=`date +%s`
 declare -i sltime=$(($sttime-$nwtime))
@@ -11,6 +17,6 @@ echo '>> back up script is now active'
 while :
 do
     date
-    .runscp -D &
+    runbkp &
     sleep 1d
 done
