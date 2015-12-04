@@ -1,0 +1,28 @@
+#! /bin/env python
+from optparse import OptionParser
+from pexpect import *
+import datetime
+psw="Megati1e"
+parser = OptionParser()
+parser.add_option("-D", "--dump",
+                  action="store_true", dest="dump", default=False,
+                  help="dump sql database file")
+(options, args) = parser.parse_args()
+
+log='hcalts backup log\n{0}'.format(datetime.datetime.now()).split('.')[0]
+if options.dump:
+    print "\nexporting sql file..."
+    p=spawn("ssh webmaster@hcalts.cern.ch 'mysqldump -u root -pMegati1e eportage > eportage_bk.sql'")
+    p.expect('assword:')
+    p.sendline(psw)
+    p.expect(EOF)
+    log+='\n\n>>> SQL export'+p.before
+    print "exporting is done"
+print '\nbacking up files...'
+p=spawn('scp -r webmaster@hcalts.cern.ch:\"eportage_bk.sql /var/www/html/ePortageArchive /var/www/cgi-bin\" .')
+p.expect('assword:')
+p.sendline(psw)
+p.expect(EOF)
+log+='\n\n>>> File backup'+p.before
+print 'backup is done'
+open('backup.log','w').write(log)
