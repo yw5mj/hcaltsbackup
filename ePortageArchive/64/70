@@ -1,0 +1,4572 @@
+
+Running the reg acceptance test ...
+	QIE card: ID = 0x67000000 0x9b32c370 (FE Crate 2, Slot 2)
+	uHTR: Links = [12, 13, 14, 15, 16, 17] (BE Crate 53, Slot 1)
+Fetching FW version information ...
+	[OK] QIE card: FW = ['03.04', '03.04', '01.11.0000']
+	[OK] uHTR: FW = ['fws']
+	[OK] ngCCM: FW = 02.08, ID = 0x644d 0x5520326f 0x6f6c6769
+Checking the unique ID ...
+	[OK]
+
+--------------------------------
+REGISTER: HF2-2-QIE1_Lvds
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE1_Trim
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE1_DiscOn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE1_TGain
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE1_TimingThresholdDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE1_TimingIref
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE1_PedestalDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE1_CapID0pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE1_CapID1pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE1_CapID2pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE1_CapID3pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE1_FixRange
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE1_RangeSet
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE1_ChargeInjectDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE1_RinSel
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE1_Idcset
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE1_CalMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE1_CkOutEn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE1_TDCMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-Qie1_ck_ph
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE2_Lvds
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE2_Trim
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE2_DiscOn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE2_TGain
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE2_TimingThresholdDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE2_TimingIref
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE2_PedestalDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE2_CapID0pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE2_CapID1pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE2_CapID2pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE2_CapID3pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE2_FixRange
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE2_RangeSet
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE2_ChargeInjectDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE2_RinSel
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE2_Idcset
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE2_CalMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE2_CkOutEn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE2_TDCMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-Qie2_ck_ph
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE3_Lvds
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE3_Trim
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE3_DiscOn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE3_TGain
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE3_TimingThresholdDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE3_TimingIref
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE3_PedestalDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE3_CapID0pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE3_CapID1pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE3_CapID2pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE3_CapID3pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE3_FixRange
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE3_RangeSet
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE3_ChargeInjectDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE3_RinSel
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE3_Idcset
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE3_CalMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE3_CkOutEn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE3_TDCMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-Qie3_ck_ph
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE4_Lvds
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE4_Trim
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE4_DiscOn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE4_TGain
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE4_TimingThresholdDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE4_TimingIref
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE4_PedestalDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE4_CapID0pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE4_CapID1pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE4_CapID2pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE4_CapID3pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE4_FixRange
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE4_RangeSet
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE4_ChargeInjectDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE4_RinSel
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE4_Idcset
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE4_CalMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE4_CkOutEn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE4_TDCMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-Qie4_ck_ph
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE5_Lvds
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE5_Trim
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE5_DiscOn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE5_TGain
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE5_TimingThresholdDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE5_TimingIref
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE5_PedestalDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE5_CapID0pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE5_CapID1pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE5_CapID2pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE5_CapID3pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE5_FixRange
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE5_RangeSet
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE5_ChargeInjectDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE5_RinSel
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE5_Idcset
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE5_CalMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE5_CkOutEn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE5_TDCMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-Qie5_ck_ph
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE6_Lvds
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE6_Trim
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE6_DiscOn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE6_TGain
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE6_TimingThresholdDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE6_TimingIref
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE6_PedestalDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE6_CapID0pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE6_CapID1pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE6_CapID2pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE6_CapID3pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE6_FixRange
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE6_RangeSet
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE6_ChargeInjectDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE6_RinSel
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE6_Idcset
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE6_CalMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE6_CkOutEn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE6_TDCMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-Qie6_ck_ph
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE7_Lvds
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE7_Trim
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE7_DiscOn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE7_TGain
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE7_TimingThresholdDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE7_TimingIref
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE7_PedestalDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE7_CapID0pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE7_CapID1pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE7_CapID2pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE7_CapID3pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE7_FixRange
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE7_RangeSet
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE7_ChargeInjectDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE7_RinSel
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE7_Idcset
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE7_CalMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE7_CkOutEn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE7_TDCMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-Qie7_ck_ph
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE8_Lvds
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE8_Trim
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE8_DiscOn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE8_TGain
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE8_TimingThresholdDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE8_TimingIref
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE8_PedestalDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE8_CapID0pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE8_CapID1pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE8_CapID2pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE8_CapID3pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE8_FixRange
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE8_RangeSet
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE8_ChargeInjectDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE8_RinSel
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE8_Idcset
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE8_CalMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE8_CkOutEn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE8_TDCMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-Qie8_ck_ph
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE9_Lvds
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE9_Trim
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE9_DiscOn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE9_TGain
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE9_TimingThresholdDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE9_TimingIref
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE9_PedestalDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE9_CapID0pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE9_CapID1pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE9_CapID2pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE9_CapID3pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE9_FixRange
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE9_RangeSet
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE9_ChargeInjectDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE9_RinSel
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE9_Idcset
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE9_CalMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE9_CkOutEn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE9_TDCMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-Qie9_ck_ph
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE10_Lvds
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE10_Trim
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE10_DiscOn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE10_TGain
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE10_TimingThresholdDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE10_TimingIref
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE10_PedestalDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE10_CapID0pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE10_CapID1pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE10_CapID2pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE10_CapID3pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE10_FixRange
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE10_RangeSet
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE10_ChargeInjectDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE10_RinSel
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE10_Idcset
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE10_CalMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE10_CkOutEn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE10_TDCMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-Qie10_ck_ph
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE11_Lvds
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE11_Trim
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE11_DiscOn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE11_TGain
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE11_TimingThresholdDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE11_TimingIref
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE11_PedestalDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE11_CapID0pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE11_CapID1pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE11_CapID2pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE11_CapID3pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE11_FixRange
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE11_RangeSet
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE11_ChargeInjectDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE11_RinSel
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE11_Idcset
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE11_CalMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE11_CkOutEn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE11_TDCMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-Qie11_ck_ph
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE12_Lvds
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE12_Trim
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE12_DiscOn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE12_TGain
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE12_TimingThresholdDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE12_TimingIref
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE12_PedestalDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE12_CapID0pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE12_CapID1pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE12_CapID2pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE12_CapID3pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE12_FixRange
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE12_RangeSet
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE12_ChargeInjectDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE12_RinSel
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE12_Idcset
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE12_CalMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE12_CkOutEn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE12_TDCMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-Qie12_ck_ph
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE13_Lvds
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE13_Trim
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE13_DiscOn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE13_TGain
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE13_TimingThresholdDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE13_TimingIref
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE13_PedestalDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE13_CapID0pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE13_CapID1pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE13_CapID2pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE13_CapID3pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE13_FixRange
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE13_RangeSet
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE13_ChargeInjectDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE13_RinSel
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE13_Idcset
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE13_CalMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE13_CkOutEn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE13_TDCMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-Qie13_ck_ph
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE14_Lvds
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE14_Trim
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE14_DiscOn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE14_TGain
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE14_TimingThresholdDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE14_TimingIref
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE14_PedestalDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE14_CapID0pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE14_CapID1pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE14_CapID2pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE14_CapID3pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE14_FixRange
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE14_RangeSet
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE14_ChargeInjectDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE14_RinSel
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE14_Idcset
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE14_CalMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE14_CkOutEn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE14_TDCMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-Qie14_ck_ph
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE15_Lvds
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE15_Trim
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE15_DiscOn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE15_TGain
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE15_TimingThresholdDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE15_TimingIref
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE15_PedestalDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE15_CapID0pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE15_CapID1pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE15_CapID2pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE15_CapID3pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE15_FixRange
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE15_RangeSet
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE15_ChargeInjectDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE15_RinSel
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE15_Idcset
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE15_CalMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE15_CkOutEn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE15_TDCMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-Qie15_ck_ph
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE16_Lvds
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE16_Trim
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE16_DiscOn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE16_TGain
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE16_TimingThresholdDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE16_TimingIref
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE16_PedestalDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE16_CapID0pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE16_CapID1pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE16_CapID2pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE16_CapID3pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE16_FixRange
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE16_RangeSet
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE16_ChargeInjectDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE16_RinSel
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE16_Idcset
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE16_CalMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE16_CkOutEn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE16_TDCMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-Qie16_ck_ph
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE17_Lvds
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE17_Trim
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE17_DiscOn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE17_TGain
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE17_TimingThresholdDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE17_TimingIref
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE17_PedestalDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE17_CapID0pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE17_CapID1pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE17_CapID2pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE17_CapID3pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE17_FixRange
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE17_RangeSet
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE17_ChargeInjectDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE17_RinSel
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE17_Idcset
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE17_CalMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE17_CkOutEn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE17_TDCMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-Qie17_ck_ph
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE18_Lvds
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE18_Trim
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE18_DiscOn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE18_TGain
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE18_TimingThresholdDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE18_TimingIref
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE18_PedestalDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE18_CapID0pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE18_CapID1pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE18_CapID2pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE18_CapID3pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE18_FixRange
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE18_RangeSet
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE18_ChargeInjectDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE18_RinSel
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE18_Idcset
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE18_CalMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE18_CkOutEn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE18_TDCMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-Qie18_ck_ph
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE19_Lvds
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE19_Trim
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE19_DiscOn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE19_TGain
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE19_TimingThresholdDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE19_TimingIref
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE19_PedestalDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE19_CapID0pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE19_CapID1pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE19_CapID2pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE19_CapID3pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE19_FixRange
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE19_RangeSet
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE19_ChargeInjectDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE19_RinSel
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE19_Idcset
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE19_CalMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE19_CkOutEn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE19_TDCMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-Qie19_ck_ph
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE20_Lvds
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE20_Trim
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE20_DiscOn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE20_TGain
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE20_TimingThresholdDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE20_TimingIref
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE20_PedestalDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE20_CapID0pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE20_CapID1pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE20_CapID2pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE20_CapID3pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE20_FixRange
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE20_RangeSet
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE20_ChargeInjectDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE20_RinSel
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE20_Idcset
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE20_CalMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE20_CkOutEn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE20_TDCMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-Qie20_ck_ph
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE21_Lvds
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE21_Trim
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE21_DiscOn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE21_TGain
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE21_TimingThresholdDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE21_TimingIref
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE21_PedestalDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE21_CapID0pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE21_CapID1pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE21_CapID2pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE21_CapID3pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE21_FixRange
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE21_RangeSet
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE21_ChargeInjectDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE21_RinSel
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE21_Idcset
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE21_CalMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE21_CkOutEn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE21_TDCMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-Qie21_ck_ph
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE22_Lvds
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE22_Trim
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE22_DiscOn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE22_TGain
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE22_TimingThresholdDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE22_TimingIref
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE22_PedestalDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE22_CapID0pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE22_CapID1pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE22_CapID2pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE22_CapID3pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE22_FixRange
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE22_RangeSet
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE22_ChargeInjectDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE22_RinSel
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE22_Idcset
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE22_CalMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE22_CkOutEn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE22_TDCMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-Qie22_ck_ph
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE23_Lvds
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE23_Trim
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE23_DiscOn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE23_TGain
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE23_TimingThresholdDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE23_TimingIref
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE23_PedestalDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE23_CapID0pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE23_CapID1pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE23_CapID2pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE23_CapID3pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE23_FixRange
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE23_RangeSet
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE23_ChargeInjectDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE23_RinSel
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE23_Idcset
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE23_CalMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE23_CkOutEn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE23_TDCMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-Qie23_ck_ph
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE24_Lvds
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE24_Trim
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE24_DiscOn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE24_TGain
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE24_TimingThresholdDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE24_TimingIref
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE24_PedestalDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE24_CapID0pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE24_CapID1pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE24_CapID2pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE24_CapID3pedestal
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE24_FixRange
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE24_RangeSet
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE24_ChargeInjectDAC
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE24_RinSel
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE24_Idcset
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE24_CalMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE24_CkOutEn
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-QIE24_TDCMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-Qie24_ck_ph
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-iTop_CntrReg_CImode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-iTop_CntrReg_InternalQIER
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-iTop_CntrReg_OrbHistoClear
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-iTop_CntrReg_OrbHistoRun
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-iTop_CntrReg_WrEn_InputSpy
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-iTop_AddrToSERDES
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-iTop_CtrlToSERDES_i2c_go
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-iTop_CtrlToSERDES_i2c_write
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-iTop_DataToSERDES
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-iTop_LinkTestMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-iTop_LinkTestPattern
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-iTop_scratch
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-iTop_UniqueID
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-iBot_CntrReg_CImode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-iBot_CntrReg_InternalQIER
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-iBot_CntrReg_OrbHistoClear
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-iBot_CntrReg_OrbHistoRun
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-iBot_CntrReg_WrEn_InputSpy
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-iBot_AddrToSERDES
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-iBot_CtrlToSERDES_i2c_go
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-iBot_CtrlToSERDES_i2c_write
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-iBot_DataToSERDES
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-iBot_LinkTestMode
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-iBot_LinkTestPattern
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-iBot_scratch
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+--------------------------------
+REGISTER: HF2-2-iBot_UniqueID
+--------------------------------
+errors: 0
+execution errors: 0
+Success rate: 100.0 %
+Execution error rate: 0.0 %
+
+
+====== SUMMARY ============================
+Teststand: 904at
+QIE card: 0x67000000 0x9b32c370 (FE Crate 2, Slot 2)
+[OK] There were no errors!
+===========================================
+Saving output to /nfshome0/elhughes/public/data/at_results/0x67000000_0x9b32c370/at_reg/151001_133442 ...
+	[OK]

@@ -1,0 +1,35 @@
+
+Running the lnk acceptance test ...
+	QIE card: ID = 0x62000000 0xba034070 (FE Crate 2, Slot 2)
+	uHTR: Links = [12, 13, 14, 15, 16, 17] (BE Crate 53, Slot 2)
+Fetching FW version information ...
+	[OK] QIE card: FW = ['03.04', '03.04', '01.11.0000']
+	[OK] uHTR: FW = [('HF-4800.41', '000.017.050'), ('HF-4800.41', '000.018.000')]
+	[OK] ngCCM: FW = 02.08, ID = 0x644d 0x5520326f 0x6f6c6769
+	[OK] AMC13: FW = [4037, 2], SW = 38957
+	[OK] FC7: FW = 07.03.07 (14, 9, 10)
+Checking the unique ID ...
+	[OK]
+(1) Reading link error rates from the uHTR ...
+{12: 0.0, 13: 0.0, 14: 0.0, 15: 0.0, 16: 0.0, 17: 0.0}
+(2) Performing a link pattern test ...
+	1/3: Reading link pattern data ...
+	2/3: Reading link pattern data ...
+	3/3: Reading link pattern data ...
+Saving output to /nfshome0/elhughes/public/data/at_results/0x62000000_0xba034070/at_lnk/151109_154904 ...
+	[OK]
+
+====== SUMMARY ============================
+Teststand: 904at
+QIE card: 0x62000000 0xba034070 (crate 2, slot 2)
+
+(1) uHTR link test:
+BXs read out: 300
+[OK] There were no errors!
+
+(2) Link pattern test:
+BXs read out: 300
+[!!] Errors:
+	* Link 13: error rate = [0.51, 0.50]
+	* Link 14: error rate = [0.51, 0.50]
+===========================================

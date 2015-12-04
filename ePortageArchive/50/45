@@ -1,0 +1,91 @@
+
+Running the lnk acceptance test ...
+	QIE card: ID = 0x67000000 0x9b32c370 (FE Crate 2, Slot 2)
+	uHTR: Links = [18, 19, 20, 21, 22, 23] (BE Crate 53, Slot 1)
+Skipping fetching FW version information ...
+(1) Performing a link pattern test ...
+	1/1: Reading link pattern data ...
+		==== Link 18
+		['038BC', '08AD4', '0BEEF', '08AD4', '0FEED', '08AD4']
+		['038BC', '08AD5', '0BEEF', '08AD5', '0FEED', '08AD5']
+		['038BC', '08AD6', '0BEEF', '08AD6', '0FEED', '08AD6']
+		['038BC', '08AD7', '0BEEF', '08AD7', '0FEED', '08AD7']
+		['038BC', '08AD8', '0BEEF', '08AD8', '0FEED', '08AD8']
+		['038BC', '08AD9', '0BEEF', '08AD9', '0FEED', '08AD9']
+		['038BC', '08ADA', '0BEEF', '08ADA', '0FEED', '08ADA']
+		['038BC', '08ADB', '0BEEF', '08ADB', '0FEED', '08ADB']
+		['038BC', '08ADC', '0BEEF', '08ADC', '0FEED', '08ADC']
+		['038BC', '08ADD', '0BEEF', '08ADD', '0FEED', '08ADD']
+		==== Link 19
+		['03ABC', '0E546', '0BEEF', '0E546', '0FEED', '0E546']
+		['03ABC', '0E547', '0BEEF', '0E547', '0FEED', '0E547']
+		['03ABC', '0E548', '0BEEF', '0E548', '0FEED', '0E548']
+		['03ABC', '0E549', '0BEEF', '0E549', '0FEED', '0E549']
+		['03ABC', '0E54A', '0BEEF', '0E54A', '0FEED', '0E54A']
+		['03ABC', '0E54B', '0BEEF', '0E54B', '0FEED', '0E54B']
+		['03ABC', '0E54C', '0BEEF', '0E54C', '0FEED', '0E54C']
+		['03ABC', '0E54D', '0BEEF', '0E54D', '0FEED', '0E54D']
+		['03ABC', '0E54E', '0BEEF', '0E54E', '0FEED', '0E54E']
+		['03ABC', '0E54F', '0BEEF', '0E54F', '0FEED', '0E54F']
+		==== Link 20
+		['03CBC', '0D6C3', '0BEEF', '0D6C3', '0FEED', '0D6C3']
+		['03CBC', '0D6C4', '0BEEF', '0D6C4', '0FEED', '0D6C4']
+		['03CBC', '0D6C5', '0BEEF', '0D6C5', '0FEED', '0D6C5']
+		['03CBC', '0D6C6', '0BEEF', '0D6C6', '0FEED', '0D6C6']
+		['03CBC', '0D6C7', '0BEEF', '0D6C7', '0FEED', '0D6C7']
+		['03CBC', '0D6C8', '0BEEF', '0D6C8', '0FEED', '0D6C8']
+		['03CBC', '0D6C9', '0BEEF', '0D6C9', '0FEED', '0D6C9']
+		['03CBC', '0D6CA', '0BEEF', '0D6CA', '0FEED', '0D6CA']
+		['03CBC', '0D6CB', '0BEEF', '0D6CB', '0FEED', '0D6CB']
+		['03CBC', '0D6CC', '0BEEF', '0D6CC', '0FEED', '0D6CC']
+		==== Link 21
+		['0B5B5', '0B5B5', '0B5B5', '0B5B5', '0B5B5', '0B5B5']
+		['0B5B5', '0B5B5', '0B5B5', '0B5B5', '0B5B5', '0B5B5']
+		['0B5B5', '0B5B5', '0B5B5', '0B5B5', '0B5B5', '0B5B5']
+		['0B5B5', '0B5B5', '0B5B5', '0B5B5', '0B5B5', '0B5B5']
+		['0B5B5', '0B5B5', '0B5B5', '0B5B5', '0B5B5', '0B5B5']
+		['0B5B5', '0B5B5', '0B5B5', '0B5B5', '0B5B5', '0B5B5']
+		['0B5B5', '0B5B5', '0B5B5', '0B5B5', '0B5B5', '0B5B5']
+		['0B5B5', '0B5B5', '0B5B5', '0B5B5', '0B5B5', '0B5B5']
+		['0B5B5', '0B5B5', '0B5B5', '0B5B5', '0B5B5', '0B5B5']
+		['0B5B5', '0B5B5', '0B5B5', '0B5B5', '0B5B5', '0B5B5']
+		==== Link 22
+		['032BC', '0F47C', '0BEEF', '0F47C', '0FEED', '0F47C']
+		['032BC', '0F47D', '0BEEF', '0F47D', '0FEED', '0F47D']
+		['032BC', '0F47E', '0BEEF', '0F47E', '0FEED', '0F47E']
+		['032BC', '0F47F', '0BEEF', '0F47F', '0FEED', '0F47F']
+		['032BC', '0F480', '0BEEF', '0F480', '0FEED', '0F480']
+		['032BC', '0F481', '0BEEF', '0F481', '0FEED', '0F481']
+		['032BC', '0F482', '0BEEF', '0F482', '0FEED', '0F482']
+		['032BC', '0F483', '0BEEF', '0F483', '0FEED', '0F483']
+		['032BC', '0F484', '0BEEF', '0F484', '0FEED', '0F484']
+		['032BC', '0F485', '0BEEF', '0F485', '0FEED', '0F485']
+		==== Link 23
+		['034BC', '0EB26', '0BEEF', '0EB26', '0FEED', '0EB26']
+		['034BC', '0EB27', '0BEEF', '0EB27', '0FEED', '0EB27']
+		['034BC', '0EB28', '0BEEF', '0EB28', '0FEED', '0EB28']
+		['034BC', '0EB29', '0BEEF', '0EB29', '0FEED', '0EB29']
+		['034BC', '0EB2A', '0BEEF', '0EB2A', '0FEED', '0EB2A']
+		['034BC', '0EB2B', '0BEEF', '0EB2B', '0FEED', '0EB2B']
+		['034BC', '0EB2C', '0BEEF', '0EB2C', '0FEED', '0EB2C']
+		['034BC', '0EB2D', '0BEEF', '0EB2D', '0FEED', '0EB2D']
+		['034BC', '0EB2E', '0BEEF', '0EB2E', '0FEED', '0EB2E']
+		['034BC', '0EB2F', '0BEEF', '0EB2F', '0FEED', '0EB2F']
+(2) Reading link error rates from the uHTR ...
+Saving output to data/at_results/0x67000000_0x9b32c370/at_lnk/150923_222327 ...
+	[OK]
+
+====== SUMMARY ============================
+Teststand: 904at
+QIE card: 0x67000000 0x9b32c370 (crate 2, slot 2)
+
+(1) Link pattern test:
+BXs read out: 100
+[!!] Errors:
+	* Link 21: error rate = [0.90, 0.89]
+
+(2) uHTR link test:
+BXs read out: 100
+[!!] Errors:
+	* Link 18: error rate = 4.9e-07
+===========================================

@@ -1,0 +1,37 @@
+
+Running the ped acceptance test ...
+	QIE card: ID = 0xa9000000 0xb9fe8970 (FE Crate 2, Slot 5)
+	uHTR: Links = [12, 13, 14, 15, 16, 17] (BE Crate 53, Slot 2)
+Fetching FW version information ...
+	[OK] QIE card: FW = ['03.04', '03.04', '01.11.0000']
+	[OK] uHTR: FW = [('HF-4800.41', '000.017.050'), ('HF-4800.41', '000.018.000')]
+	[OK] ngCCM: FW = 02.08, ID = 0x644d 0x5520326f 0x6f6c6769
+	[OK] AMC13: FW = [4033, 27], SW = 38957
+	[OK] FC7: FW = 07.03.07 (14, 9, 10)
+Checking the unique ID ...
+	[OK]
+Saving output to /nfshome0/elhughes/public/data/at_results/0xa9000000_0xb9fe8970/at_ped/151021_102558 ...
+	[OK]
+
+====== SUMMARY ============================
+Teststand: 904at
+QIE card: 0xa9000000 0xb9fe8970 (FE Crate 2, Slot 5)
+[!!] Errors:
+	* Link 13, Channel 0, QIE 5, Cap ID 0: Mean 0.0
+	* Link 13, Channel 0, QIE 5, Cap ID 1: Mean 0.0
+	* Link 13, Channel 0, QIE 5, Cap ID 2: Mean 0.0
+	* Link 13, Channel 0, QIE 5, Cap ID 3: Mean 0.0
+	* Link 13, Channel 1, QIE 6, Cap ID 0: Mean 0.0
+	* Link 13, Channel 1, QIE 6, Cap ID 1: Mean 0.0
+	* Link 13, Channel 1, QIE 6, Cap ID 2: Mean 0.0
+	* Link 13, Channel 1, QIE 6, Cap ID 3: Mean 0.0
+	* Link 13, Channel 2, QIE 7, Cap ID 0: Mean 0.0
+	* Link 13, Channel 2, QIE 7, Cap ID 1: Mean 0.0
+	* Link 13, Channel 2, QIE 7, Cap ID 2: Mean 0.0
+	* Link 13, Channel 2, QIE 7, Cap ID 3: Mean 0.0
+	* Link 13, Channel 3, QIE 8, Cap ID 0: Mean 0.0
+	* Link 13, Channel 3, QIE 8, Cap ID 1: Mean 0.0
+	* Link 13, Channel 3, QIE 8, Cap ID 2: Mean 0.0
+	* Link 13, Channel 3, QIE 8, Cap ID 3: Mean 0.0
+===========================================
+

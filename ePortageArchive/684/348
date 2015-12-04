@@ -1,0 +1,27 @@
+
+Running the lnk acceptance test ...
+	QIE card: ID = 0x87000000 0xba1d2b70 (FE Crate 2, Slot 2)
+	uHTR: Links = [12, 13, 14, 15, 16, 17] (BE Crate 53, Slot 2)
+Skipping fetching FW version information ...
+(1) Reading link error rates from the uHTR ...
+['X', 'X', 'X', 'X', 'X', 'X', 'X', 'X', 'X', 'X', 'X', 'X', 'ON', 'ON', 'ON', 'ON', 'ON', 'ON', 'X', 'X', 'X', 'X', 'X', 'X']
+{12: 0.0, 13: 0.0, 14: 0.0, 15: 0.0, 16: 0.0, 17: 0.0}
+(2) Performing a link pattern test ...
+	1/3: Reading link pattern data ...
+	2/3: Reading link pattern data ...
+	3/3: Reading link pattern data ...
+Saving output to /nfshome0/elhughes/public/data/at_results/0x87000000_0xba1d2b70/at_lnk/151109_142735 ...
+	[OK]
+
+====== SUMMARY ============================
+Teststand: 904at
+QIE card: 0x87000000 0xba1d2b70 (crate 2, slot 2)
+
+(1) uHTR link test:
+BXs read out: 300
+[OK] There were no errors!
+
+(2) Link pattern test:
+BXs read out: 300
+[OK] There were no errors!
+===========================================

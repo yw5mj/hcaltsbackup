@@ -1,0 +1,4575 @@
+
+Running the reg acceptance test ...
+	QIE card: ID = 0xab000000 0xba0aae70 (FE Crate 4, Slot 2)
+	uHTR: Links = [12, 13, 14, 15, 16, 17] (BE Crate 53, Slot 1)
+Fetching FW version information ...
+	[OK] QIE card: FW = ['03.04', '03.04', '01.11.0000']
+	[OK] uHTR: FW = [('HF-4800.41', '000.017.050'), ('HF-4800.41', '000.018.000')]
+	[OK] ngCCM: FW = 02.08, ID = 0x644d 0x5520326f 0x6f6c6769
+	[OK] AMC13: FW = [4037, 2], SW = 38957
+	[OK] FC7: FW = 07.03.07 (14, 9, 10)
+Checking the unique ID ...
+	[OK]
+
+		HF4-2-QIE1_Lvds
+		HF4-2-QIE1_Lvds
+		HF4-2-QIE1_Lvds
+		HF4-2-QIE1_Lvds
+		HF4-2-QIE1_Lvds
+		HF4-2-QIE1_Lvds
+		HF4-2-QIE1_Trim
+		HF4-2-QIE1_Trim
+		HF4-2-QIE1_Trim
+		HF4-2-QIE1_Trim
+		HF4-2-QIE1_Trim
+		HF4-2-QIE1_Trim
+		HF4-2-QIE1_DiscOn
+		HF4-2-QIE1_DiscOn
+		HF4-2-QIE1_DiscOn
+		HF4-2-QIE1_DiscOn
+		HF4-2-QIE1_DiscOn
+		HF4-2-QIE1_DiscOn
+		HF4-2-QIE1_TGain
+		HF4-2-QIE1_TGain
+		HF4-2-QIE1_TGain
+		HF4-2-QIE1_TGain
+		HF4-2-QIE1_TGain
+		HF4-2-QIE1_TGain
+		HF4-2-QIE1_TimingThresholdDAC
+		HF4-2-QIE1_TimingThresholdDAC
+		HF4-2-QIE1_TimingThresholdDAC
+		HF4-2-QIE1_TimingThresholdDAC
+		HF4-2-QIE1_TimingThresholdDAC
+		HF4-2-QIE1_TimingThresholdDAC
+		HF4-2-QIE1_TimingIref
+		HF4-2-QIE1_TimingIref
+		HF4-2-QIE1_TimingIref
+		HF4-2-QIE1_TimingIref
+		HF4-2-QIE1_TimingIref
+		HF4-2-QIE1_TimingIref
+		HF4-2-QIE1_PedestalDAC
+		HF4-2-QIE1_PedestalDAC
+		HF4-2-QIE1_PedestalDAC
+		HF4-2-QIE1_PedestalDAC
+		HF4-2-QIE1_PedestalDAC
+		HF4-2-QIE1_PedestalDAC
+		HF4-2-QIE1_CapID0pedestal
+		HF4-2-QIE1_CapID0pedestal
+		HF4-2-QIE1_CapID0pedestal
+		HF4-2-QIE1_CapID0pedestal
+		HF4-2-QIE1_CapID0pedestal
+		HF4-2-QIE1_CapID0pedestal
+		HF4-2-QIE1_CapID1pedestal
+		HF4-2-QIE1_CapID1pedestal
+		HF4-2-QIE1_CapID1pedestal
+		HF4-2-QIE1_CapID1pedestal
+		HF4-2-QIE1_CapID1pedestal
+		HF4-2-QIE1_CapID1pedestal
+		HF4-2-QIE1_CapID2pedestal
+		HF4-2-QIE1_CapID2pedestal
+		HF4-2-QIE1_CapID2pedestal
+		HF4-2-QIE1_CapID2pedestal
+		HF4-2-QIE1_CapID2pedestal
+		HF4-2-QIE1_CapID2pedestal
+		HF4-2-QIE1_CapID3pedestal
+		HF4-2-QIE1_CapID3pedestal
+		HF4-2-QIE1_CapID3pedestal
+		HF4-2-QIE1_CapID3pedestal
+		HF4-2-QIE1_CapID3pedestal
+		HF4-2-QIE1_CapID3pedestal
+		HF4-2-QIE1_FixRange
+		HF4-2-QIE1_FixRange
+		HF4-2-QIE1_FixRange
+		HF4-2-QIE1_FixRange
+		HF4-2-QIE1_FixRange
+		HF4-2-QIE1_FixRange
+		HF4-2-QIE1_RangeSet
+		HF4-2-QIE1_RangeSet
+		HF4-2-QIE1_RangeSet
+		HF4-2-QIE1_RangeSet
+		HF4-2-QIE1_RangeSet
+		HF4-2-QIE1_RangeSet
+		HF4-2-QIE1_ChargeInjectDAC
+		HF4-2-QIE1_ChargeInjectDAC
+		HF4-2-QIE1_ChargeInjectDAC
+		HF4-2-QIE1_ChargeInjectDAC
+		HF4-2-QIE1_ChargeInjectDAC
+		HF4-2-QIE1_ChargeInjectDAC
+		HF4-2-QIE1_RinSel
+		HF4-2-QIE1_RinSel
+		HF4-2-QIE1_RinSel
+		HF4-2-QIE1_RinSel
+		HF4-2-QIE1_RinSel
+		HF4-2-QIE1_RinSel
+		HF4-2-QIE1_Idcset
+		HF4-2-QIE1_Idcset
+		HF4-2-QIE1_Idcset
+		HF4-2-QIE1_Idcset
+		HF4-2-QIE1_Idcset
+		HF4-2-QIE1_Idcset
+		HF4-2-QIE1_CalMode
+		HF4-2-QIE1_CalMode
+		HF4-2-QIE1_CalMode
+		HF4-2-QIE1_CalMode
+		HF4-2-QIE1_CalMode
+		HF4-2-QIE1_CalMode
+		HF4-2-QIE1_CkOutEn
+		HF4-2-QIE1_CkOutEn
+		HF4-2-QIE1_CkOutEn
+		HF4-2-QIE1_CkOutEn
+		HF4-2-QIE1_CkOutEn
+		HF4-2-QIE1_CkOutEn
+		HF4-2-QIE1_TDCMode
+		HF4-2-QIE1_TDCMode
+		HF4-2-QIE1_TDCMode
+		HF4-2-QIE1_TDCMode
+		HF4-2-QIE1_TDCMode
+		HF4-2-QIE1_TDCMode
+		HF4-2-Qie1_ck_ph
+		HF4-2-Qie1_ck_ph
+		HF4-2-Qie1_ck_ph
+		HF4-2-Qie1_ck_ph
+		HF4-2-Qie1_ck_ph
+		HF4-2-Qie1_ck_ph
+		HF4-2-QIE2_Lvds
+		HF4-2-QIE2_Lvds
+		HF4-2-QIE2_Lvds
+		HF4-2-QIE2_Lvds
+		HF4-2-QIE2_Lvds
+		HF4-2-QIE2_Lvds
+		HF4-2-QIE2_Trim
+		HF4-2-QIE2_Trim
+		HF4-2-QIE2_Trim
+		HF4-2-QIE2_Trim
+		HF4-2-QIE2_Trim
+		HF4-2-QIE2_Trim
+		HF4-2-QIE2_DiscOn
+		HF4-2-QIE2_DiscOn
+		HF4-2-QIE2_DiscOn
+		HF4-2-QIE2_DiscOn
+		HF4-2-QIE2_DiscOn
+		HF4-2-QIE2_DiscOn
+		HF4-2-QIE2_TGain
+		HF4-2-QIE2_TGain
+		HF4-2-QIE2_TGain
+		HF4-2-QIE2_TGain
+		HF4-2-QIE2_TGain
+		HF4-2-QIE2_TGain
+		HF4-2-QIE2_TimingThresholdDAC
+		HF4-2-QIE2_TimingThresholdDAC
+		HF4-2-QIE2_TimingThresholdDAC
+		HF4-2-QIE2_TimingThresholdDAC
+		HF4-2-QIE2_TimingThresholdDAC
+		HF4-2-QIE2_TimingThresholdDAC
+		HF4-2-QIE2_TimingIref
+		HF4-2-QIE2_TimingIref
+		HF4-2-QIE2_TimingIref
+		HF4-2-QIE2_TimingIref
+		HF4-2-QIE2_TimingIref
+		HF4-2-QIE2_TimingIref
+		HF4-2-QIE2_PedestalDAC
+		HF4-2-QIE2_PedestalDAC
+		HF4-2-QIE2_PedestalDAC
+		HF4-2-QIE2_PedestalDAC
+		HF4-2-QIE2_PedestalDAC
+		HF4-2-QIE2_PedestalDAC
+		HF4-2-QIE2_CapID0pedestal
+		HF4-2-QIE2_CapID0pedestal
+		HF4-2-QIE2_CapID0pedestal
+		HF4-2-QIE2_CapID0pedestal
+		HF4-2-QIE2_CapID0pedestal
+		HF4-2-QIE2_CapID0pedestal
+		HF4-2-QIE2_CapID1pedestal
+		HF4-2-QIE2_CapID1pedestal
+		HF4-2-QIE2_CapID1pedestal
+		HF4-2-QIE2_CapID1pedestal
+		HF4-2-QIE2_CapID1pedestal
+		HF4-2-QIE2_CapID1pedestal
+		HF4-2-QIE2_CapID2pedestal
+		HF4-2-QIE2_CapID2pedestal
+		HF4-2-QIE2_CapID2pedestal
+		HF4-2-QIE2_CapID2pedestal
+		HF4-2-QIE2_CapID2pedestal
+		HF4-2-QIE2_CapID2pedestal
+		HF4-2-QIE2_CapID3pedestal
+		HF4-2-QIE2_CapID3pedestal
+		HF4-2-QIE2_CapID3pedestal
+		HF4-2-QIE2_CapID3pedestal
+		HF4-2-QIE2_CapID3pedestal
+		HF4-2-QIE2_CapID3pedestal
+		HF4-2-QIE2_FixRange
+		HF4-2-QIE2_FixRange
+		HF4-2-QIE2_FixRange
+		HF4-2-QIE2_FixRange
+		HF4-2-QIE2_FixRange
+		HF4-2-QIE2_FixRange
+		HF4-2-QIE2_RangeSet
+		HF4-2-QIE2_RangeSet
+		HF4-2-QIE2_RangeSet
+		HF4-2-QIE2_RangeSet
+		HF4-2-QIE2_RangeSet
+		HF4-2-QIE2_RangeSet
+		HF4-2-QIE2_ChargeInjectDAC
+		HF4-2-QIE2_ChargeInjectDAC
+		HF4-2-QIE2_ChargeInjectDAC
+		HF4-2-QIE2_ChargeInjectDAC
+		HF4-2-QIE2_ChargeInjectDAC
+		HF4-2-QIE2_ChargeInjectDAC
+		HF4-2-QIE2_RinSel
+		HF4-2-QIE2_RinSel
+		HF4-2-QIE2_RinSel
+		HF4-2-QIE2_RinSel
+		HF4-2-QIE2_RinSel
+		HF4-2-QIE2_RinSel
+		HF4-2-QIE2_Idcset
+		HF4-2-QIE2_Idcset
+		HF4-2-QIE2_Idcset
+		HF4-2-QIE2_Idcset
+		HF4-2-QIE2_Idcset
+		HF4-2-QIE2_Idcset
+		HF4-2-QIE2_CalMode
+		HF4-2-QIE2_CalMode
+		HF4-2-QIE2_CalMode
+		HF4-2-QIE2_CalMode
+		HF4-2-QIE2_CalMode
+		HF4-2-QIE2_CalMode
+		HF4-2-QIE2_CkOutEn
+		HF4-2-QIE2_CkOutEn
+		HF4-2-QIE2_CkOutEn
+		HF4-2-QIE2_CkOutEn
+		HF4-2-QIE2_CkOutEn
+		HF4-2-QIE2_CkOutEn
+		HF4-2-QIE2_TDCMode
+		HF4-2-QIE2_TDCMode
+		HF4-2-QIE2_TDCMode
+		HF4-2-QIE2_TDCMode
+		HF4-2-QIE2_TDCMode
+		HF4-2-QIE2_TDCMode
+		HF4-2-Qie2_ck_ph
+		HF4-2-Qie2_ck_ph
+		HF4-2-Qie2_ck_ph
+		HF4-2-Qie2_ck_ph
+		HF4-2-Qie2_ck_ph
+		HF4-2-Qie2_ck_ph
+		HF4-2-QIE3_Lvds
+		HF4-2-QIE3_Lvds
+		HF4-2-QIE3_Lvds
+		HF4-2-QIE3_Lvds
+		HF4-2-QIE3_Lvds
+		HF4-2-QIE3_Lvds
+		HF4-2-QIE3_Trim
+		HF4-2-QIE3_Trim
+		HF4-2-QIE3_Trim
+		HF4-2-QIE3_Trim
+		HF4-2-QIE3_Trim
+		HF4-2-QIE3_Trim
+		HF4-2-QIE3_DiscOn
+		HF4-2-QIE3_DiscOn
+		HF4-2-QIE3_DiscOn
+		HF4-2-QIE3_DiscOn
+		HF4-2-QIE3_DiscOn
+		HF4-2-QIE3_DiscOn
+		HF4-2-QIE3_TGain
+		HF4-2-QIE3_TGain
+		HF4-2-QIE3_TGain
+		HF4-2-QIE3_TGain
+		HF4-2-QIE3_TGain
+		HF4-2-QIE3_TGain
+		HF4-2-QIE3_TimingThresholdDAC
+		HF4-2-QIE3_TimingThresholdDAC
+		HF4-2-QIE3_TimingThresholdDAC
+		HF4-2-QIE3_TimingThresholdDAC
+		HF4-2-QIE3_TimingThresholdDAC
+		HF4-2-QIE3_TimingThresholdDAC
+		HF4-2-QIE3_TimingIref
+		HF4-2-QIE3_TimingIref
+		HF4-2-QIE3_TimingIref
+		HF4-2-QIE3_TimingIref
+		HF4-2-QIE3_TimingIref
+		HF4-2-QIE3_TimingIref
+		HF4-2-QIE3_PedestalDAC
+		HF4-2-QIE3_PedestalDAC
+		HF4-2-QIE3_PedestalDAC
+		HF4-2-QIE3_PedestalDAC
+		HF4-2-QIE3_PedestalDAC
+		HF4-2-QIE3_PedestalDAC
+		HF4-2-QIE3_CapID0pedestal
+		HF4-2-QIE3_CapID0pedestal
+		HF4-2-QIE3_CapID0pedestal
+		HF4-2-QIE3_CapID0pedestal
+		HF4-2-QIE3_CapID0pedestal
+		HF4-2-QIE3_CapID0pedestal
+		HF4-2-QIE3_CapID1pedestal
+		HF4-2-QIE3_CapID1pedestal
+		HF4-2-QIE3_CapID1pedestal
+		HF4-2-QIE3_CapID1pedestal
+		HF4-2-QIE3_CapID1pedestal
+		HF4-2-QIE3_CapID1pedestal
+		HF4-2-QIE3_CapID2pedestal
+		HF4-2-QIE3_CapID2pedestal
+		HF4-2-QIE3_CapID2pedestal
+		HF4-2-QIE3_CapID2pedestal
+		HF4-2-QIE3_CapID2pedestal
+		HF4-2-QIE3_CapID2pedestal
+		HF4-2-QIE3_CapID3pedestal
+		HF4-2-QIE3_CapID3pedestal
+		HF4-2-QIE3_CapID3pedestal
+		HF4-2-QIE3_CapID3pedestal
+		HF4-2-QIE3_CapID3pedestal
+		HF4-2-QIE3_CapID3pedestal
+		HF4-2-QIE3_FixRange
+		HF4-2-QIE3_FixRange
+		HF4-2-QIE3_FixRange
+		HF4-2-QIE3_FixRange
+		HF4-2-QIE3_FixRange
+		HF4-2-QIE3_FixRange
+		HF4-2-QIE3_RangeSet
+		HF4-2-QIE3_RangeSet
+		HF4-2-QIE3_RangeSet
+		HF4-2-QIE3_RangeSet
+		HF4-2-QIE3_RangeSet
+		HF4-2-QIE3_RangeSet
+		HF4-2-QIE3_ChargeInjectDAC
+		HF4-2-QIE3_ChargeInjectDAC
+		HF4-2-QIE3_ChargeInjectDAC
+		HF4-2-QIE3_ChargeInjectDAC
+		HF4-2-QIE3_ChargeInjectDAC
+		HF4-2-QIE3_ChargeInjectDAC
+		HF4-2-QIE3_RinSel
+		HF4-2-QIE3_RinSel
+		HF4-2-QIE3_RinSel
+		HF4-2-QIE3_RinSel
+		HF4-2-QIE3_RinSel
+		HF4-2-QIE3_RinSel
+		HF4-2-QIE3_Idcset
+		HF4-2-QIE3_Idcset
+		HF4-2-QIE3_Idcset
+		HF4-2-QIE3_Idcset
+		HF4-2-QIE3_Idcset
+		HF4-2-QIE3_Idcset
+		HF4-2-QIE3_CalMode
+		HF4-2-QIE3_CalMode
+		HF4-2-QIE3_CalMode
+		HF4-2-QIE3_CalMode
+		HF4-2-QIE3_CalMode
+		HF4-2-QIE3_CalMode
+		HF4-2-QIE3_CkOutEn
+		HF4-2-QIE3_CkOutEn
+		HF4-2-QIE3_CkOutEn
+		HF4-2-QIE3_CkOutEn
+		HF4-2-QIE3_CkOutEn
+		HF4-2-QIE3_CkOutEn
+		HF4-2-QIE3_TDCMode
+		HF4-2-QIE3_TDCMode
+		HF4-2-QIE3_TDCMode
+		HF4-2-QIE3_TDCMode
+		HF4-2-QIE3_TDCMode
+		HF4-2-QIE3_TDCMode
+		HF4-2-Qie3_ck_ph
+		HF4-2-Qie3_ck_ph
+		HF4-2-Qie3_ck_ph
+		HF4-2-Qie3_ck_ph
+		HF4-2-Qie3_ck_ph
+		HF4-2-Qie3_ck_ph
+		HF4-2-QIE4_Lvds
+		HF4-2-QIE4_Lvds
+		HF4-2-QIE4_Lvds
+		HF4-2-QIE4_Lvds
+		HF4-2-QIE4_Lvds
+		HF4-2-QIE4_Lvds
+		HF4-2-QIE4_Trim
+		HF4-2-QIE4_Trim
+		HF4-2-QIE4_Trim
+		HF4-2-QIE4_Trim
+		HF4-2-QIE4_Trim
+		HF4-2-QIE4_Trim
+		HF4-2-QIE4_DiscOn
+		HF4-2-QIE4_DiscOn
+		HF4-2-QIE4_DiscOn
+		HF4-2-QIE4_DiscOn
+		HF4-2-QIE4_DiscOn
+		HF4-2-QIE4_DiscOn
+		HF4-2-QIE4_TGain
+		HF4-2-QIE4_TGain
+		HF4-2-QIE4_TGain
+		HF4-2-QIE4_TGain
+		HF4-2-QIE4_TGain
+		HF4-2-QIE4_TGain
+		HF4-2-QIE4_TimingThresholdDAC
+		HF4-2-QIE4_TimingThresholdDAC
+		HF4-2-QIE4_TimingThresholdDAC
+		HF4-2-QIE4_TimingThresholdDAC
+		HF4-2-QIE4_TimingThresholdDAC
+		HF4-2-QIE4_TimingThresholdDAC
+		HF4-2-QIE4_TimingIref
+		HF4-2-QIE4_TimingIref
+		HF4-2-QIE4_TimingIref
+		HF4-2-QIE4_TimingIref
+		HF4-2-QIE4_TimingIref
+		HF4-2-QIE4_TimingIref
+		HF4-2-QIE4_PedestalDAC
+		HF4-2-QIE4_PedestalDAC
+		HF4-2-QIE4_PedestalDAC
+		HF4-2-QIE4_PedestalDAC
+		HF4-2-QIE4_PedestalDAC
+		HF4-2-QIE4_PedestalDAC
+		HF4-2-QIE4_CapID0pedestal
+		HF4-2-QIE4_CapID0pedestal
+		HF4-2-QIE4_CapID0pedestal
+		HF4-2-QIE4_CapID0pedestal
+		HF4-2-QIE4_CapID0pedestal
+		HF4-2-QIE4_CapID0pedestal
+		HF4-2-QIE4_CapID1pedestal
+		HF4-2-QIE4_CapID1pedestal
+		HF4-2-QIE4_CapID1pedestal
+		HF4-2-QIE4_CapID1pedestal
+		HF4-2-QIE4_CapID1pedestal
+		HF4-2-QIE4_CapID1pedestal
+		HF4-2-QIE4_CapID2pedestal
+		HF4-2-QIE4_CapID2pedestal
+		HF4-2-QIE4_CapID2pedestal
+		HF4-2-QIE4_CapID2pedestal
+		HF4-2-QIE4_CapID2pedestal
+		HF4-2-QIE4_CapID2pedestal
+		HF4-2-QIE4_CapID3pedestal
+		HF4-2-QIE4_CapID3pedestal
+		HF4-2-QIE4_CapID3pedestal
+		HF4-2-QIE4_CapID3pedestal
+		HF4-2-QIE4_CapID3pedestal
+		HF4-2-QIE4_CapID3pedestal
+		HF4-2-QIE4_FixRange
+		HF4-2-QIE4_FixRange
+		HF4-2-QIE4_FixRange
+		HF4-2-QIE4_FixRange
+		HF4-2-QIE4_FixRange
+		HF4-2-QIE4_FixRange
+		HF4-2-QIE4_RangeSet
+		HF4-2-QIE4_RangeSet
+		HF4-2-QIE4_RangeSet
+		HF4-2-QIE4_RangeSet
+		HF4-2-QIE4_RangeSet
+		HF4-2-QIE4_RangeSet
+		HF4-2-QIE4_ChargeInjectDAC
+		HF4-2-QIE4_ChargeInjectDAC
+		HF4-2-QIE4_ChargeInjectDAC
+		HF4-2-QIE4_ChargeInjectDAC
+		HF4-2-QIE4_ChargeInjectDAC
+		HF4-2-QIE4_ChargeInjectDAC
+		HF4-2-QIE4_RinSel
+		HF4-2-QIE4_RinSel
+		HF4-2-QIE4_RinSel
+		HF4-2-QIE4_RinSel
+		HF4-2-QIE4_RinSel
+		HF4-2-QIE4_RinSel
+		HF4-2-QIE4_Idcset
+		HF4-2-QIE4_Idcset
+		HF4-2-QIE4_Idcset
+		HF4-2-QIE4_Idcset
+		HF4-2-QIE4_Idcset
+		HF4-2-QIE4_Idcset
+		HF4-2-QIE4_CalMode
+		HF4-2-QIE4_CalMode
+		HF4-2-QIE4_CalMode
+		HF4-2-QIE4_CalMode
+		HF4-2-QIE4_CalMode
+		HF4-2-QIE4_CalMode
+		HF4-2-QIE4_CkOutEn
+		HF4-2-QIE4_CkOutEn
+		HF4-2-QIE4_CkOutEn
+		HF4-2-QIE4_CkOutEn
+		HF4-2-QIE4_CkOutEn
+		HF4-2-QIE4_CkOutEn
+		HF4-2-QIE4_TDCMode
+		HF4-2-QIE4_TDCMode
+		HF4-2-QIE4_TDCMode
+		HF4-2-QIE4_TDCMode
+		HF4-2-QIE4_TDCMode
+		HF4-2-QIE4_TDCMode
+		HF4-2-Qie4_ck_ph
+		HF4-2-Qie4_ck_ph
+		HF4-2-Qie4_ck_ph
+		HF4-2-Qie4_ck_ph
+		HF4-2-Qie4_ck_ph
+		HF4-2-Qie4_ck_ph
+		HF4-2-QIE5_Lvds
+		HF4-2-QIE5_Lvds
+		HF4-2-QIE5_Lvds
+		HF4-2-QIE5_Lvds
+		HF4-2-QIE5_Lvds
+		HF4-2-QIE5_Lvds
+		HF4-2-QIE5_Trim
+		HF4-2-QIE5_Trim
+		HF4-2-QIE5_Trim
+		HF4-2-QIE5_Trim
+		HF4-2-QIE5_Trim
+		HF4-2-QIE5_Trim
+		HF4-2-QIE5_DiscOn
+		HF4-2-QIE5_DiscOn
+		HF4-2-QIE5_DiscOn
+		HF4-2-QIE5_DiscOn
+		HF4-2-QIE5_DiscOn
+		HF4-2-QIE5_DiscOn
+		HF4-2-QIE5_TGain
+		HF4-2-QIE5_TGain
+		HF4-2-QIE5_TGain
+		HF4-2-QIE5_TGain
+		HF4-2-QIE5_TGain
+		HF4-2-QIE5_TGain
+		HF4-2-QIE5_TimingThresholdDAC
+		HF4-2-QIE5_TimingThresholdDAC
+		HF4-2-QIE5_TimingThresholdDAC
+		HF4-2-QIE5_TimingThresholdDAC
+		HF4-2-QIE5_TimingThresholdDAC
+		HF4-2-QIE5_TimingThresholdDAC
+		HF4-2-QIE5_TimingIref
+		HF4-2-QIE5_TimingIref
+		HF4-2-QIE5_TimingIref
+		HF4-2-QIE5_TimingIref
+		HF4-2-QIE5_TimingIref
+		HF4-2-QIE5_TimingIref
+		HF4-2-QIE5_PedestalDAC
+		HF4-2-QIE5_PedestalDAC
+		HF4-2-QIE5_PedestalDAC
+		HF4-2-QIE5_PedestalDAC
+		HF4-2-QIE5_PedestalDAC
+		HF4-2-QIE5_PedestalDAC
+		HF4-2-QIE5_CapID0pedestal
+		HF4-2-QIE5_CapID0pedestal
+		HF4-2-QIE5_CapID0pedestal
+		HF4-2-QIE5_CapID0pedestal
+		HF4-2-QIE5_CapID0pedestal
+		HF4-2-QIE5_CapID0pedestal
+		HF4-2-QIE5_CapID1pedestal
+		HF4-2-QIE5_CapID1pedestal
+		HF4-2-QIE5_CapID1pedestal
+		HF4-2-QIE5_CapID1pedestal
+		HF4-2-QIE5_CapID1pedestal
+		HF4-2-QIE5_CapID1pedestal
+		HF4-2-QIE5_CapID2pedestal
+		HF4-2-QIE5_CapID2pedestal
+		HF4-2-QIE5_CapID2pedestal
+		HF4-2-QIE5_CapID2pedestal
+		HF4-2-QIE5_CapID2pedestal
+		HF4-2-QIE5_CapID2pedestal
+		HF4-2-QIE5_CapID3pedestal
+		HF4-2-QIE5_CapID3pedestal
+		HF4-2-QIE5_CapID3pedestal
+		HF4-2-QIE5_CapID3pedestal
+		HF4-2-QIE5_CapID3pedestal
+		HF4-2-QIE5_CapID3pedestal
+		HF4-2-QIE5_FixRange
+		HF4-2-QIE5_FixRange
+		HF4-2-QIE5_FixRange
+		HF4-2-QIE5_FixRange
+		HF4-2-QIE5_FixRange
+		HF4-2-QIE5_FixRange
+		HF4-2-QIE5_RangeSet
+		HF4-2-QIE5_RangeSet
+		HF4-2-QIE5_RangeSet
+		HF4-2-QIE5_RangeSet
+		HF4-2-QIE5_RangeSet
+		HF4-2-QIE5_RangeSet
+		HF4-2-QIE5_ChargeInjectDAC
+		HF4-2-QIE5_ChargeInjectDAC
+		HF4-2-QIE5_ChargeInjectDAC
+		HF4-2-QIE5_ChargeInjectDAC
+		HF4-2-QIE5_ChargeInjectDAC
+		HF4-2-QIE5_ChargeInjectDAC
+		HF4-2-QIE5_RinSel
+		HF4-2-QIE5_RinSel
+		HF4-2-QIE5_RinSel
+		HF4-2-QIE5_RinSel
+		HF4-2-QIE5_RinSel
+		HF4-2-QIE5_RinSel
+		HF4-2-QIE5_Idcset
+		HF4-2-QIE5_Idcset
+		HF4-2-QIE5_Idcset
+		HF4-2-QIE5_Idcset
+		HF4-2-QIE5_Idcset
+		HF4-2-QIE5_Idcset
+		HF4-2-QIE5_CalMode
+		HF4-2-QIE5_CalMode
+		HF4-2-QIE5_CalMode
+		HF4-2-QIE5_CalMode
+		HF4-2-QIE5_CalMode
+		HF4-2-QIE5_CalMode
+		HF4-2-QIE5_CkOutEn
+		HF4-2-QIE5_CkOutEn
+		HF4-2-QIE5_CkOutEn
+		HF4-2-QIE5_CkOutEn
+		HF4-2-QIE5_CkOutEn
+		HF4-2-QIE5_CkOutEn
+		HF4-2-QIE5_TDCMode
+		HF4-2-QIE5_TDCMode
+		HF4-2-QIE5_TDCMode
+		HF4-2-QIE5_TDCMode
+		HF4-2-QIE5_TDCMode
+		HF4-2-QIE5_TDCMode
+		HF4-2-Qie5_ck_ph
+		HF4-2-Qie5_ck_ph
+		HF4-2-Qie5_ck_ph
+		HF4-2-Qie5_ck_ph
+		HF4-2-Qie5_ck_ph
+		HF4-2-Qie5_ck_ph
+		HF4-2-QIE6_Lvds
+		HF4-2-QIE6_Lvds
+		HF4-2-QIE6_Lvds
+		HF4-2-QIE6_Lvds
+		HF4-2-QIE6_Lvds
+		HF4-2-QIE6_Lvds
+		HF4-2-QIE6_Trim
+		HF4-2-QIE6_Trim
+		HF4-2-QIE6_Trim
+		HF4-2-QIE6_Trim
+		HF4-2-QIE6_Trim
+		HF4-2-QIE6_Trim
+		HF4-2-QIE6_DiscOn
+		HF4-2-QIE6_DiscOn
+		HF4-2-QIE6_DiscOn
+		HF4-2-QIE6_DiscOn
+		HF4-2-QIE6_DiscOn
+		HF4-2-QIE6_DiscOn
+		HF4-2-QIE6_TGain
+		HF4-2-QIE6_TGain
+		HF4-2-QIE6_TGain
+		HF4-2-QIE6_TGain
+		HF4-2-QIE6_TGain
+		HF4-2-QIE6_TGain
+		HF4-2-QIE6_TimingThresholdDAC
+		HF4-2-QIE6_TimingThresholdDAC
+		HF4-2-QIE6_TimingThresholdDAC
+		HF4-2-QIE6_TimingThresholdDAC
+		HF4-2-QIE6_TimingThresholdDAC
+		HF4-2-QIE6_TimingThresholdDAC
+		HF4-2-QIE6_TimingIref
+		HF4-2-QIE6_TimingIref
+		HF4-2-QIE6_TimingIref
+		HF4-2-QIE6_TimingIref
+		HF4-2-QIE6_TimingIref
+		HF4-2-QIE6_TimingIref
+		HF4-2-QIE6_PedestalDAC
+		HF4-2-QIE6_PedestalDAC
+		HF4-2-QIE6_PedestalDAC
+		HF4-2-QIE6_PedestalDAC
+		HF4-2-QIE6_PedestalDAC
+		HF4-2-QIE6_PedestalDAC
+		HF4-2-QIE6_CapID0pedestal
+		HF4-2-QIE6_CapID0pedestal
+		HF4-2-QIE6_CapID0pedestal
+		HF4-2-QIE6_CapID0pedestal
+		HF4-2-QIE6_CapID0pedestal
+		HF4-2-QIE6_CapID0pedestal
+		HF4-2-QIE6_CapID1pedestal
+		HF4-2-QIE6_CapID1pedestal
+		HF4-2-QIE6_CapID1pedestal
+		HF4-2-QIE6_CapID1pedestal
+		HF4-2-QIE6_CapID1pedestal
+		HF4-2-QIE6_CapID1pedestal
+		HF4-2-QIE6_CapID2pedestal
+		HF4-2-QIE6_CapID2pedestal
+		HF4-2-QIE6_CapID2pedestal
+		HF4-2-QIE6_CapID2pedestal
+		HF4-2-QIE6_CapID2pedestal
+		HF4-2-QIE6_CapID2pedestal
+		HF4-2-QIE6_CapID3pedestal
+		HF4-2-QIE6_CapID3pedestal
+		HF4-2-QIE6_CapID3pedestal
+		HF4-2-QIE6_CapID3pedestal
+		HF4-2-QIE6_CapID3pedestal
+		HF4-2-QIE6_CapID3pedestal
+		HF4-2-QIE6_FixRange
+		HF4-2-QIE6_FixRange
+		HF4-2-QIE6_FixRange
+		HF4-2-QIE6_FixRange
+		HF4-2-QIE6_FixRange
+		HF4-2-QIE6_FixRange
+		HF4-2-QIE6_RangeSet
+		HF4-2-QIE6_RangeSet
+		HF4-2-QIE6_RangeSet
+		HF4-2-QIE6_RangeSet
+		HF4-2-QIE6_RangeSet
+		HF4-2-QIE6_RangeSet
+		HF4-2-QIE6_ChargeInjectDAC
+		HF4-2-QIE6_ChargeInjectDAC
+		HF4-2-QIE6_ChargeInjectDAC
+		HF4-2-QIE6_ChargeInjectDAC
+		HF4-2-QIE6_ChargeInjectDAC
+		HF4-2-QIE6_ChargeInjectDAC
+		HF4-2-QIE6_RinSel
+		HF4-2-QIE6_RinSel
+		HF4-2-QIE6_RinSel
+		HF4-2-QIE6_RinSel
+		HF4-2-QIE6_RinSel
+		HF4-2-QIE6_RinSel
+		HF4-2-QIE6_Idcset
+		HF4-2-QIE6_Idcset
+		HF4-2-QIE6_Idcset
+		HF4-2-QIE6_Idcset
+		HF4-2-QIE6_Idcset
+		HF4-2-QIE6_Idcset
+		HF4-2-QIE6_CalMode
+		HF4-2-QIE6_CalMode
+		HF4-2-QIE6_CalMode
+		HF4-2-QIE6_CalMode
+		HF4-2-QIE6_CalMode
+		HF4-2-QIE6_CalMode
+		HF4-2-QIE6_CkOutEn
+		HF4-2-QIE6_CkOutEn
+		HF4-2-QIE6_CkOutEn
+		HF4-2-QIE6_CkOutEn
+		HF4-2-QIE6_CkOutEn
+		HF4-2-QIE6_CkOutEn
+		HF4-2-QIE6_TDCMode
+		HF4-2-QIE6_TDCMode
+		HF4-2-QIE6_TDCMode
+		HF4-2-QIE6_TDCMode
+		HF4-2-QIE6_TDCMode
+		HF4-2-QIE6_TDCMode
+		HF4-2-Qie6_ck_ph
+		HF4-2-Qie6_ck_ph
+		HF4-2-Qie6_ck_ph
+		HF4-2-Qie6_ck_ph
+		HF4-2-Qie6_ck_ph
+		HF4-2-Qie6_ck_ph
+		HF4-2-QIE7_Lvds
+		HF4-2-QIE7_Lvds
+		HF4-2-QIE7_Lvds
+		HF4-2-QIE7_Lvds
+		HF4-2-QIE7_Lvds
+		HF4-2-QIE7_Lvds
+		HF4-2-QIE7_Trim
+		HF4-2-QIE7_Trim
+		HF4-2-QIE7_Trim
+		HF4-2-QIE7_Trim
+		HF4-2-QIE7_Trim
+		HF4-2-QIE7_Trim
+		HF4-2-QIE7_DiscOn
+		HF4-2-QIE7_DiscOn
+		HF4-2-QIE7_DiscOn
+		HF4-2-QIE7_DiscOn
+		HF4-2-QIE7_DiscOn
+		HF4-2-QIE7_DiscOn
+		HF4-2-QIE7_TGain
+		HF4-2-QIE7_TGain
+		HF4-2-QIE7_TGain
+		HF4-2-QIE7_TGain
+		HF4-2-QIE7_TGain
+		HF4-2-QIE7_TGain
+		HF4-2-QIE7_TimingThresholdDAC
+		HF4-2-QIE7_TimingThresholdDAC
+		HF4-2-QIE7_TimingThresholdDAC
+		HF4-2-QIE7_TimingThresholdDAC
+		HF4-2-QIE7_TimingThresholdDAC
+		HF4-2-QIE7_TimingThresholdDAC
+		HF4-2-QIE7_TimingIref
+		HF4-2-QIE7_TimingIref
+		HF4-2-QIE7_TimingIref
+		HF4-2-QIE7_TimingIref
+		HF4-2-QIE7_TimingIref
+		HF4-2-QIE7_TimingIref
+		HF4-2-QIE7_PedestalDAC
+		HF4-2-QIE7_PedestalDAC
+		HF4-2-QIE7_PedestalDAC
+		HF4-2-QIE7_PedestalDAC
+		HF4-2-QIE7_PedestalDAC
+		HF4-2-QIE7_PedestalDAC
+		HF4-2-QIE7_CapID0pedestal
+		HF4-2-QIE7_CapID0pedestal
+		HF4-2-QIE7_CapID0pedestal
+		HF4-2-QIE7_CapID0pedestal
+		HF4-2-QIE7_CapID0pedestal
+		HF4-2-QIE7_CapID0pedestal
+		HF4-2-QIE7_CapID1pedestal
+		HF4-2-QIE7_CapID1pedestal
+		HF4-2-QIE7_CapID1pedestal
+		HF4-2-QIE7_CapID1pedestal
+		HF4-2-QIE7_CapID1pedestal
+		HF4-2-QIE7_CapID1pedestal
+		HF4-2-QIE7_CapID2pedestal
+		HF4-2-QIE7_CapID2pedestal
+		HF4-2-QIE7_CapID2pedestal
+		HF4-2-QIE7_CapID2pedestal
+		HF4-2-QIE7_CapID2pedestal
+		HF4-2-QIE7_CapID2pedestal
+		HF4-2-QIE7_CapID3pedestal
+		HF4-2-QIE7_CapID3pedestal
+		HF4-2-QIE7_CapID3pedestal
+		HF4-2-QIE7_CapID3pedestal
+		HF4-2-QIE7_CapID3pedestal
+		HF4-2-QIE7_CapID3pedestal
+		HF4-2-QIE7_FixRange
+		HF4-2-QIE7_FixRange
+		HF4-2-QIE7_FixRange
+		HF4-2-QIE7_FixRange
+		HF4-2-QIE7_FixRange
+		HF4-2-QIE7_FixRange
+		HF4-2-QIE7_RangeSet
+		HF4-2-QIE7_RangeSet
+		HF4-2-QIE7_RangeSet
+		HF4-2-QIE7_RangeSet
+		HF4-2-QIE7_RangeSet
+		HF4-2-QIE7_RangeSet
+		HF4-2-QIE7_ChargeInjectDAC
+		HF4-2-QIE7_ChargeInjectDAC
+		HF4-2-QIE7_ChargeInjectDAC
+		HF4-2-QIE7_ChargeInjectDAC
+		HF4-2-QIE7_ChargeInjectDAC
+		HF4-2-QIE7_ChargeInjectDAC
+		HF4-2-QIE7_RinSel
+		HF4-2-QIE7_RinSel
+		HF4-2-QIE7_RinSel
+		HF4-2-QIE7_RinSel
+		HF4-2-QIE7_RinSel
+		HF4-2-QIE7_RinSel
+		HF4-2-QIE7_Idcset
+		HF4-2-QIE7_Idcset
+		HF4-2-QIE7_Idcset
+		HF4-2-QIE7_Idcset
+		HF4-2-QIE7_Idcset
+		HF4-2-QIE7_Idcset
+		HF4-2-QIE7_CalMode
+		HF4-2-QIE7_CalMode
+		HF4-2-QIE7_CalMode
+		HF4-2-QIE7_CalMode
+		HF4-2-QIE7_CalMode
+		HF4-2-QIE7_CalMode
+		HF4-2-QIE7_CkOutEn
+		HF4-2-QIE7_CkOutEn
+		HF4-2-QIE7_CkOutEn
+		HF4-2-QIE7_CkOutEn
+		HF4-2-QIE7_CkOutEn
+		HF4-2-QIE7_CkOutEn
+		HF4-2-QIE7_TDCMode
+		HF4-2-QIE7_TDCMode
+		HF4-2-QIE7_TDCMode
+		HF4-2-QIE7_TDCMode
+		HF4-2-QIE7_TDCMode
+		HF4-2-QIE7_TDCMode
+		HF4-2-Qie7_ck_ph
+		HF4-2-Qie7_ck_ph
+		HF4-2-Qie7_ck_ph
+		HF4-2-Qie7_ck_ph
+		HF4-2-Qie7_ck_ph
+		HF4-2-Qie7_ck_ph
+		HF4-2-QIE8_Lvds
+		HF4-2-QIE8_Lvds
+		HF4-2-QIE8_Lvds
+		HF4-2-QIE8_Lvds
+		HF4-2-QIE8_Lvds
+		HF4-2-QIE8_Lvds
+		HF4-2-QIE8_Trim
+		HF4-2-QIE8_Trim
+		HF4-2-QIE8_Trim
+		HF4-2-QIE8_Trim
+		HF4-2-QIE8_Trim
+		HF4-2-QIE8_Trim
+		HF4-2-QIE8_DiscOn
+		HF4-2-QIE8_DiscOn
+		HF4-2-QIE8_DiscOn
+		HF4-2-QIE8_DiscOn
+		HF4-2-QIE8_DiscOn
+		HF4-2-QIE8_DiscOn
+		HF4-2-QIE8_TGain
+		HF4-2-QIE8_TGain
+		HF4-2-QIE8_TGain
+		HF4-2-QIE8_TGain
+		HF4-2-QIE8_TGain
+		HF4-2-QIE8_TGain
+		HF4-2-QIE8_TimingThresholdDAC
+		HF4-2-QIE8_TimingThresholdDAC
+		HF4-2-QIE8_TimingThresholdDAC
+		HF4-2-QIE8_TimingThresholdDAC
+		HF4-2-QIE8_TimingThresholdDAC
+		HF4-2-QIE8_TimingThresholdDAC
+		HF4-2-QIE8_TimingIref
+		HF4-2-QIE8_TimingIref
+		HF4-2-QIE8_TimingIref
+		HF4-2-QIE8_TimingIref
+		HF4-2-QIE8_TimingIref
+		HF4-2-QIE8_TimingIref
+		HF4-2-QIE8_PedestalDAC
+		HF4-2-QIE8_PedestalDAC
+		HF4-2-QIE8_PedestalDAC
+		HF4-2-QIE8_PedestalDAC
+		HF4-2-QIE8_PedestalDAC
+		HF4-2-QIE8_PedestalDAC
+		HF4-2-QIE8_CapID0pedestal
+		HF4-2-QIE8_CapID0pedestal
+		HF4-2-QIE8_CapID0pedestal
+		HF4-2-QIE8_CapID0pedestal
+		HF4-2-QIE8_CapID0pedestal
+		HF4-2-QIE8_CapID0pedestal
+		HF4-2-QIE8_CapID1pedestal
+		HF4-2-QIE8_CapID1pedestal
+		HF4-2-QIE8_CapID1pedestal
+		HF4-2-QIE8_CapID1pedestal
+		HF4-2-QIE8_CapID1pedestal
+		HF4-2-QIE8_CapID1pedestal
+		HF4-2-QIE8_CapID2pedestal
+		HF4-2-QIE8_CapID2pedestal
+		HF4-2-QIE8_CapID2pedestal
+		HF4-2-QIE8_CapID2pedestal
+		HF4-2-QIE8_CapID2pedestal
+		HF4-2-QIE8_CapID2pedestal
+		HF4-2-QIE8_CapID3pedestal
+		HF4-2-QIE8_CapID3pedestal
+		HF4-2-QIE8_CapID3pedestal
+		HF4-2-QIE8_CapID3pedestal
+		HF4-2-QIE8_CapID3pedestal
+		HF4-2-QIE8_CapID3pedestal
+		HF4-2-QIE8_FixRange
+		HF4-2-QIE8_FixRange
+		HF4-2-QIE8_FixRange
+		HF4-2-QIE8_FixRange
+		HF4-2-QIE8_FixRange
+		HF4-2-QIE8_FixRange
+		HF4-2-QIE8_RangeSet
+		HF4-2-QIE8_RangeSet
+		HF4-2-QIE8_RangeSet
+		HF4-2-QIE8_RangeSet
+		HF4-2-QIE8_RangeSet
+		HF4-2-QIE8_RangeSet
+		HF4-2-QIE8_ChargeInjectDAC
+		HF4-2-QIE8_ChargeInjectDAC
+		HF4-2-QIE8_ChargeInjectDAC
+		HF4-2-QIE8_ChargeInjectDAC
+		HF4-2-QIE8_ChargeInjectDAC
+		HF4-2-QIE8_ChargeInjectDAC
+		HF4-2-QIE8_RinSel
+		HF4-2-QIE8_RinSel
+		HF4-2-QIE8_RinSel
+		HF4-2-QIE8_RinSel
+		HF4-2-QIE8_RinSel
+		HF4-2-QIE8_RinSel
+		HF4-2-QIE8_Idcset
+		HF4-2-QIE8_Idcset
+		HF4-2-QIE8_Idcset
+		HF4-2-QIE8_Idcset
+		HF4-2-QIE8_Idcset
+		HF4-2-QIE8_Idcset
+		HF4-2-QIE8_CalMode
+		HF4-2-QIE8_CalMode
+		HF4-2-QIE8_CalMode
+		HF4-2-QIE8_CalMode
+		HF4-2-QIE8_CalMode
+		HF4-2-QIE8_CalMode
+		HF4-2-QIE8_CkOutEn
+		HF4-2-QIE8_CkOutEn
+		HF4-2-QIE8_CkOutEn
+		HF4-2-QIE8_CkOutEn
+		HF4-2-QIE8_CkOutEn
+		HF4-2-QIE8_CkOutEn
+		HF4-2-QIE8_TDCMode
+		HF4-2-QIE8_TDCMode
+		HF4-2-QIE8_TDCMode
+		HF4-2-QIE8_TDCMode
+		HF4-2-QIE8_TDCMode
+		HF4-2-QIE8_TDCMode
+		HF4-2-Qie8_ck_ph
+		HF4-2-Qie8_ck_ph
+		HF4-2-Qie8_ck_ph
+		HF4-2-Qie8_ck_ph
+		HF4-2-Qie8_ck_ph
+		HF4-2-Qie8_ck_ph
+		HF4-2-QIE9_Lvds
+		HF4-2-QIE9_Lvds
+		HF4-2-QIE9_Lvds
+		HF4-2-QIE9_Lvds
+		HF4-2-QIE9_Lvds
+		HF4-2-QIE9_Lvds
+		HF4-2-QIE9_Trim
+		HF4-2-QIE9_Trim
+		HF4-2-QIE9_Trim
+		HF4-2-QIE9_Trim
+		HF4-2-QIE9_Trim
+		HF4-2-QIE9_Trim
+		HF4-2-QIE9_DiscOn
+		HF4-2-QIE9_DiscOn
+		HF4-2-QIE9_DiscOn
+		HF4-2-QIE9_DiscOn
+		HF4-2-QIE9_DiscOn
+		HF4-2-QIE9_DiscOn
+		HF4-2-QIE9_TGain
+		HF4-2-QIE9_TGain
+		HF4-2-QIE9_TGain
+		HF4-2-QIE9_TGain
+		HF4-2-QIE9_TGain
+		HF4-2-QIE9_TGain
+		HF4-2-QIE9_TimingThresholdDAC
+		HF4-2-QIE9_TimingThresholdDAC
+		HF4-2-QIE9_TimingThresholdDAC
+		HF4-2-QIE9_TimingThresholdDAC
+		HF4-2-QIE9_TimingThresholdDAC
+		HF4-2-QIE9_TimingThresholdDAC
+		HF4-2-QIE9_TimingIref
+		HF4-2-QIE9_TimingIref
+		HF4-2-QIE9_TimingIref
+		HF4-2-QIE9_TimingIref
+		HF4-2-QIE9_TimingIref
+		HF4-2-QIE9_TimingIref
+		HF4-2-QIE9_PedestalDAC
+		HF4-2-QIE9_PedestalDAC
+		HF4-2-QIE9_PedestalDAC
+		HF4-2-QIE9_PedestalDAC
+		HF4-2-QIE9_PedestalDAC
+		HF4-2-QIE9_PedestalDAC
+		HF4-2-QIE9_CapID0pedestal
+		HF4-2-QIE9_CapID0pedestal
+		HF4-2-QIE9_CapID0pedestal
+		HF4-2-QIE9_CapID0pedestal
+		HF4-2-QIE9_CapID0pedestal
+		HF4-2-QIE9_CapID0pedestal
+		HF4-2-QIE9_CapID1pedestal
+		HF4-2-QIE9_CapID1pedestal
+		HF4-2-QIE9_CapID1pedestal
+		HF4-2-QIE9_CapID1pedestal
+		HF4-2-QIE9_CapID1pedestal
+		HF4-2-QIE9_CapID1pedestal
+		HF4-2-QIE9_CapID2pedestal
+		HF4-2-QIE9_CapID2pedestal
+		HF4-2-QIE9_CapID2pedestal
+		HF4-2-QIE9_CapID2pedestal
+		HF4-2-QIE9_CapID2pedestal
+		HF4-2-QIE9_CapID2pedestal
+		HF4-2-QIE9_CapID3pedestal
+		HF4-2-QIE9_CapID3pedestal
+		HF4-2-QIE9_CapID3pedestal
+		HF4-2-QIE9_CapID3pedestal
+		HF4-2-QIE9_CapID3pedestal
+		HF4-2-QIE9_CapID3pedestal
+		HF4-2-QIE9_FixRange
+		HF4-2-QIE9_FixRange
+		HF4-2-QIE9_FixRange
+		HF4-2-QIE9_FixRange
+		HF4-2-QIE9_FixRange
+		HF4-2-QIE9_FixRange
+		HF4-2-QIE9_RangeSet
+		HF4-2-QIE9_RangeSet
+		HF4-2-QIE9_RangeSet
+		HF4-2-QIE9_RangeSet
+		HF4-2-QIE9_RangeSet
+		HF4-2-QIE9_RangeSet
+		HF4-2-QIE9_ChargeInjectDAC
+		HF4-2-QIE9_ChargeInjectDAC
+		HF4-2-QIE9_ChargeInjectDAC
+		HF4-2-QIE9_ChargeInjectDAC
+		HF4-2-QIE9_ChargeInjectDAC
+		HF4-2-QIE9_ChargeInjectDAC
+		HF4-2-QIE9_RinSel
+		HF4-2-QIE9_RinSel
+		HF4-2-QIE9_RinSel
+		HF4-2-QIE9_RinSel
+		HF4-2-QIE9_RinSel
+		HF4-2-QIE9_RinSel
+		HF4-2-QIE9_Idcset
+		HF4-2-QIE9_Idcset
+		HF4-2-QIE9_Idcset
+		HF4-2-QIE9_Idcset
+		HF4-2-QIE9_Idcset
+		HF4-2-QIE9_Idcset
+		HF4-2-QIE9_CalMode
+		HF4-2-QIE9_CalMode
+		HF4-2-QIE9_CalMode
+		HF4-2-QIE9_CalMode
+		HF4-2-QIE9_CalMode
+		HF4-2-QIE9_CalMode
+		HF4-2-QIE9_CkOutEn
+		HF4-2-QIE9_CkOutEn
+		HF4-2-QIE9_CkOutEn
+		HF4-2-QIE9_CkOutEn
+		HF4-2-QIE9_CkOutEn
+		HF4-2-QIE9_CkOutEn
+		HF4-2-QIE9_TDCMode
+		HF4-2-QIE9_TDCMode
+		HF4-2-QIE9_TDCMode
+		HF4-2-QIE9_TDCMode
+		HF4-2-QIE9_TDCMode
+		HF4-2-QIE9_TDCMode
+		HF4-2-Qie9_ck_ph
+		HF4-2-Qie9_ck_ph
+		HF4-2-Qie9_ck_ph
+		HF4-2-Qie9_ck_ph
+		HF4-2-Qie9_ck_ph
+		HF4-2-Qie9_ck_ph
+		HF4-2-QIE10_Lvds
+		HF4-2-QIE10_Lvds
+		HF4-2-QIE10_Lvds
+		HF4-2-QIE10_Lvds
+		HF4-2-QIE10_Lvds
+		HF4-2-QIE10_Lvds
+		HF4-2-QIE10_Trim
+		HF4-2-QIE10_Trim
+		HF4-2-QIE10_Trim
+		HF4-2-QIE10_Trim
+		HF4-2-QIE10_Trim
+		HF4-2-QIE10_Trim
+		HF4-2-QIE10_DiscOn
+		HF4-2-QIE10_DiscOn
+		HF4-2-QIE10_DiscOn
+		HF4-2-QIE10_DiscOn
+		HF4-2-QIE10_DiscOn
+		HF4-2-QIE10_DiscOn
+		HF4-2-QIE10_TGain
+		HF4-2-QIE10_TGain
+		HF4-2-QIE10_TGain
+		HF4-2-QIE10_TGain
+		HF4-2-QIE10_TGain
+		HF4-2-QIE10_TGain
+		HF4-2-QIE10_TimingThresholdDAC
+		HF4-2-QIE10_TimingThresholdDAC
+		HF4-2-QIE10_TimingThresholdDAC
+		HF4-2-QIE10_TimingThresholdDAC
+		HF4-2-QIE10_TimingThresholdDAC
+		HF4-2-QIE10_TimingThresholdDAC
+		HF4-2-QIE10_TimingIref
+		HF4-2-QIE10_TimingIref
+		HF4-2-QIE10_TimingIref
+		HF4-2-QIE10_TimingIref
+		HF4-2-QIE10_TimingIref
+		HF4-2-QIE10_TimingIref
+		HF4-2-QIE10_PedestalDAC
+		HF4-2-QIE10_PedestalDAC
+		HF4-2-QIE10_PedestalDAC
+		HF4-2-QIE10_PedestalDAC
+		HF4-2-QIE10_PedestalDAC
+		HF4-2-QIE10_PedestalDAC
+		HF4-2-QIE10_CapID0pedestal
+		HF4-2-QIE10_CapID0pedestal
+		HF4-2-QIE10_CapID0pedestal
+		HF4-2-QIE10_CapID0pedestal
+		HF4-2-QIE10_CapID0pedestal
+		HF4-2-QIE10_CapID0pedestal
+		HF4-2-QIE10_CapID1pedestal
+		HF4-2-QIE10_CapID1pedestal
+		HF4-2-QIE10_CapID1pedestal
+		HF4-2-QIE10_CapID1pedestal
+		HF4-2-QIE10_CapID1pedestal
+		HF4-2-QIE10_CapID1pedestal
+		HF4-2-QIE10_CapID2pedestal
+		HF4-2-QIE10_CapID2pedestal
+		HF4-2-QIE10_CapID2pedestal
+		HF4-2-QIE10_CapID2pedestal
+		HF4-2-QIE10_CapID2pedestal
+		HF4-2-QIE10_CapID2pedestal
+		HF4-2-QIE10_CapID3pedestal
+		HF4-2-QIE10_CapID3pedestal
+		HF4-2-QIE10_CapID3pedestal
+		HF4-2-QIE10_CapID3pedestal
+		HF4-2-QIE10_CapID3pedestal
+		HF4-2-QIE10_CapID3pedestal
+		HF4-2-QIE10_FixRange
+		HF4-2-QIE10_FixRange
+		HF4-2-QIE10_FixRange
+		HF4-2-QIE10_FixRange
+		HF4-2-QIE10_FixRange
+		HF4-2-QIE10_FixRange
+		HF4-2-QIE10_RangeSet
+		HF4-2-QIE10_RangeSet
+		HF4-2-QIE10_RangeSet
+		HF4-2-QIE10_RangeSet
+		HF4-2-QIE10_RangeSet
+		HF4-2-QIE10_RangeSet
+		HF4-2-QIE10_ChargeInjectDAC
+		HF4-2-QIE10_ChargeInjectDAC
+		HF4-2-QIE10_ChargeInjectDAC
+		HF4-2-QIE10_ChargeInjectDAC
+		HF4-2-QIE10_ChargeInjectDAC
+		HF4-2-QIE10_ChargeInjectDAC
+		HF4-2-QIE10_RinSel
+		HF4-2-QIE10_RinSel
+		HF4-2-QIE10_RinSel
+		HF4-2-QIE10_RinSel
+		HF4-2-QIE10_RinSel
+		HF4-2-QIE10_RinSel
+		HF4-2-QIE10_Idcset
+		HF4-2-QIE10_Idcset
+		HF4-2-QIE10_Idcset
+		HF4-2-QIE10_Idcset
+		HF4-2-QIE10_Idcset
+		HF4-2-QIE10_Idcset
+		HF4-2-QIE10_CalMode
+		HF4-2-QIE10_CalMode
+		HF4-2-QIE10_CalMode
+		HF4-2-QIE10_CalMode
+		HF4-2-QIE10_CalMode
+		HF4-2-QIE10_CalMode
+		HF4-2-QIE10_CkOutEn
+		HF4-2-QIE10_CkOutEn
+		HF4-2-QIE10_CkOutEn
+		HF4-2-QIE10_CkOutEn
+		HF4-2-QIE10_CkOutEn
+		HF4-2-QIE10_CkOutEn
+		HF4-2-QIE10_TDCMode
+		HF4-2-QIE10_TDCMode
+		HF4-2-QIE10_TDCMode
+		HF4-2-QIE10_TDCMode
+		HF4-2-QIE10_TDCMode
+		HF4-2-QIE10_TDCMode
+		HF4-2-Qie10_ck_ph
+		HF4-2-Qie10_ck_ph
+		HF4-2-Qie10_ck_ph
+		HF4-2-Qie10_ck_ph
+		HF4-2-Qie10_ck_ph
+		HF4-2-Qie10_ck_ph
+		HF4-2-QIE11_Lvds
+		HF4-2-QIE11_Lvds
+		HF4-2-QIE11_Lvds
+		HF4-2-QIE11_Lvds
+		HF4-2-QIE11_Lvds
+		HF4-2-QIE11_Lvds
+		HF4-2-QIE11_Trim
+		HF4-2-QIE11_Trim
+		HF4-2-QIE11_Trim
+		HF4-2-QIE11_Trim
+		HF4-2-QIE11_Trim
+		HF4-2-QIE11_Trim
+		HF4-2-QIE11_DiscOn
+		HF4-2-QIE11_DiscOn
+		HF4-2-QIE11_DiscOn
+		HF4-2-QIE11_DiscOn
+		HF4-2-QIE11_DiscOn
+		HF4-2-QIE11_DiscOn
+		HF4-2-QIE11_TGain
+		HF4-2-QIE11_TGain
+		HF4-2-QIE11_TGain
+		HF4-2-QIE11_TGain
+		HF4-2-QIE11_TGain
+		HF4-2-QIE11_TGain
+		HF4-2-QIE11_TimingThresholdDAC
+		HF4-2-QIE11_TimingThresholdDAC
+		HF4-2-QIE11_TimingThresholdDAC
+		HF4-2-QIE11_TimingThresholdDAC
+		HF4-2-QIE11_TimingThresholdDAC
+		HF4-2-QIE11_TimingThresholdDAC
+		HF4-2-QIE11_TimingIref
+		HF4-2-QIE11_TimingIref
+		HF4-2-QIE11_TimingIref
+		HF4-2-QIE11_TimingIref
+		HF4-2-QIE11_TimingIref
+		HF4-2-QIE11_TimingIref
+		HF4-2-QIE11_PedestalDAC
+		HF4-2-QIE11_PedestalDAC
+		HF4-2-QIE11_PedestalDAC
+		HF4-2-QIE11_PedestalDAC
+		HF4-2-QIE11_PedestalDAC
+		HF4-2-QIE11_PedestalDAC
+		HF4-2-QIE11_CapID0pedestal
+		HF4-2-QIE11_CapID0pedestal
+		HF4-2-QIE11_CapID0pedestal
+		HF4-2-QIE11_CapID0pedestal
+		HF4-2-QIE11_CapID0pedestal
+		HF4-2-QIE11_CapID0pedestal
+		HF4-2-QIE11_CapID1pedestal
+		HF4-2-QIE11_CapID1pedestal
+		HF4-2-QIE11_CapID1pedestal
+		HF4-2-QIE11_CapID1pedestal
+		HF4-2-QIE11_CapID1pedestal
+		HF4-2-QIE11_CapID1pedestal
+		HF4-2-QIE11_CapID2pedestal
+		HF4-2-QIE11_CapID2pedestal
+		HF4-2-QIE11_CapID2pedestal
+		HF4-2-QIE11_CapID2pedestal
+		HF4-2-QIE11_CapID2pedestal
+		HF4-2-QIE11_CapID2pedestal
+		HF4-2-QIE11_CapID3pedestal
+		HF4-2-QIE11_CapID3pedestal
+		HF4-2-QIE11_CapID3pedestal
+		HF4-2-QIE11_CapID3pedestal
+		HF4-2-QIE11_CapID3pedestal
+		HF4-2-QIE11_CapID3pedestal
+		HF4-2-QIE11_FixRange
+		HF4-2-QIE11_FixRange
+		HF4-2-QIE11_FixRange
+		HF4-2-QIE11_FixRange
+		HF4-2-QIE11_FixRange
+		HF4-2-QIE11_FixRange
+		HF4-2-QIE11_RangeSet
+		HF4-2-QIE11_RangeSet
+		HF4-2-QIE11_RangeSet
+		HF4-2-QIE11_RangeSet
+		HF4-2-QIE11_RangeSet
+		HF4-2-QIE11_RangeSet
+		HF4-2-QIE11_ChargeInjectDAC
+		HF4-2-QIE11_ChargeInjectDAC
+		HF4-2-QIE11_ChargeInjectDAC
+		HF4-2-QIE11_ChargeInjectDAC
+		HF4-2-QIE11_ChargeInjectDAC
+		HF4-2-QIE11_ChargeInjectDAC
+		HF4-2-QIE11_RinSel
+		HF4-2-QIE11_RinSel
+		HF4-2-QIE11_RinSel
+		HF4-2-QIE11_RinSel
+		HF4-2-QIE11_RinSel
+		HF4-2-QIE11_RinSel
+		HF4-2-QIE11_Idcset
+		HF4-2-QIE11_Idcset
+		HF4-2-QIE11_Idcset
+		HF4-2-QIE11_Idcset
+		HF4-2-QIE11_Idcset
+		HF4-2-QIE11_Idcset
+		HF4-2-QIE11_CalMode
+		HF4-2-QIE11_CalMode
+		HF4-2-QIE11_CalMode
+		HF4-2-QIE11_CalMode
+		HF4-2-QIE11_CalMode
+		HF4-2-QIE11_CalMode
+		HF4-2-QIE11_CkOutEn
+		HF4-2-QIE11_CkOutEn
+		HF4-2-QIE11_CkOutEn
+		HF4-2-QIE11_CkOutEn
+		HF4-2-QIE11_CkOutEn
+		HF4-2-QIE11_CkOutEn
+		HF4-2-QIE11_TDCMode
+		HF4-2-QIE11_TDCMode
+		HF4-2-QIE11_TDCMode
+		HF4-2-QIE11_TDCMode
+		HF4-2-QIE11_TDCMode
+		HF4-2-QIE11_TDCMode
+		HF4-2-Qie11_ck_ph
+		HF4-2-Qie11_ck_ph
+		HF4-2-Qie11_ck_ph
+		HF4-2-Qie11_ck_ph
+		HF4-2-Qie11_ck_ph
+		HF4-2-Qie11_ck_ph
+		HF4-2-QIE12_Lvds
+		HF4-2-QIE12_Lvds
+		HF4-2-QIE12_Lvds
+		HF4-2-QIE12_Lvds
+		HF4-2-QIE12_Lvds
+		HF4-2-QIE12_Lvds
+		HF4-2-QIE12_Trim
+		HF4-2-QIE12_Trim
+		HF4-2-QIE12_Trim
+		HF4-2-QIE12_Trim
+		HF4-2-QIE12_Trim
+		HF4-2-QIE12_Trim
+		HF4-2-QIE12_DiscOn
+		HF4-2-QIE12_DiscOn
+		HF4-2-QIE12_DiscOn
+		HF4-2-QIE12_DiscOn
+		HF4-2-QIE12_DiscOn
+		HF4-2-QIE12_DiscOn
+		HF4-2-QIE12_TGain
+		HF4-2-QIE12_TGain
+		HF4-2-QIE12_TGain
+		HF4-2-QIE12_TGain
+		HF4-2-QIE12_TGain
+		HF4-2-QIE12_TGain
+		HF4-2-QIE12_TimingThresholdDAC
+		HF4-2-QIE12_TimingThresholdDAC
+		HF4-2-QIE12_TimingThresholdDAC
+		HF4-2-QIE12_TimingThresholdDAC
+		HF4-2-QIE12_TimingThresholdDAC
+		HF4-2-QIE12_TimingThresholdDAC
+		HF4-2-QIE12_TimingIref
+		HF4-2-QIE12_TimingIref
+		HF4-2-QIE12_TimingIref
+		HF4-2-QIE12_TimingIref
+		HF4-2-QIE12_TimingIref
+		HF4-2-QIE12_TimingIref
+		HF4-2-QIE12_PedestalDAC
+		HF4-2-QIE12_PedestalDAC
+		HF4-2-QIE12_PedestalDAC
+		HF4-2-QIE12_PedestalDAC
+		HF4-2-QIE12_PedestalDAC
+		HF4-2-QIE12_PedestalDAC
+		HF4-2-QIE12_CapID0pedestal
+		HF4-2-QIE12_CapID0pedestal
+		HF4-2-QIE12_CapID0pedestal
+		HF4-2-QIE12_CapID0pedestal
+		HF4-2-QIE12_CapID0pedestal
+		HF4-2-QIE12_CapID0pedestal
+		HF4-2-QIE12_CapID1pedestal
+		HF4-2-QIE12_CapID1pedestal
+		HF4-2-QIE12_CapID1pedestal
+		HF4-2-QIE12_CapID1pedestal
+		HF4-2-QIE12_CapID1pedestal
+		HF4-2-QIE12_CapID1pedestal
+		HF4-2-QIE12_CapID2pedestal
+		HF4-2-QIE12_CapID2pedestal
+		HF4-2-QIE12_CapID2pedestal
+		HF4-2-QIE12_CapID2pedestal
+		HF4-2-QIE12_CapID2pedestal
+		HF4-2-QIE12_CapID2pedestal
+		HF4-2-QIE12_CapID3pedestal
+		HF4-2-QIE12_CapID3pedestal
+		HF4-2-QIE12_CapID3pedestal
+		HF4-2-QIE12_CapID3pedestal
+		HF4-2-QIE12_CapID3pedestal
+		HF4-2-QIE12_CapID3pedestal
+		HF4-2-QIE12_FixRange
+		HF4-2-QIE12_FixRange
+		HF4-2-QIE12_FixRange
+		HF4-2-QIE12_FixRange
+		HF4-2-QIE12_FixRange
+		HF4-2-QIE12_FixRange
+		HF4-2-QIE12_RangeSet
+		HF4-2-QIE12_RangeSet
+		HF4-2-QIE12_RangeSet
+		HF4-2-QIE12_RangeSet
+		HF4-2-QIE12_RangeSet
+		HF4-2-QIE12_RangeSet
+		HF4-2-QIE12_ChargeInjectDAC
+		HF4-2-QIE12_ChargeInjectDAC
+		HF4-2-QIE12_ChargeInjectDAC
+		HF4-2-QIE12_ChargeInjectDAC
+		HF4-2-QIE12_ChargeInjectDAC
+		HF4-2-QIE12_ChargeInjectDAC
+		HF4-2-QIE12_RinSel
+		HF4-2-QIE12_RinSel
+		HF4-2-QIE12_RinSel
+		HF4-2-QIE12_RinSel
+		HF4-2-QIE12_RinSel
+		HF4-2-QIE12_RinSel
+		HF4-2-QIE12_Idcset
+		HF4-2-QIE12_Idcset
+		HF4-2-QIE12_Idcset
+		HF4-2-QIE12_Idcset
+		HF4-2-QIE12_Idcset
+		HF4-2-QIE12_Idcset
+		HF4-2-QIE12_CalMode
+		HF4-2-QIE12_CalMode
+		HF4-2-QIE12_CalMode
+		HF4-2-QIE12_CalMode
+		HF4-2-QIE12_CalMode
+		HF4-2-QIE12_CalMode
+		HF4-2-QIE12_CkOutEn
+		HF4-2-QIE12_CkOutEn
+		HF4-2-QIE12_CkOutEn
+		HF4-2-QIE12_CkOutEn
+		HF4-2-QIE12_CkOutEn
+		HF4-2-QIE12_CkOutEn
+		HF4-2-QIE12_TDCMode
+		HF4-2-QIE12_TDCMode
+		HF4-2-QIE12_TDCMode
+		HF4-2-QIE12_TDCMode
+		HF4-2-QIE12_TDCMode
+		HF4-2-QIE12_TDCMode
+		HF4-2-Qie12_ck_ph
+		HF4-2-Qie12_ck_ph
+		HF4-2-Qie12_ck_ph
+		HF4-2-Qie12_ck_ph
+		HF4-2-Qie12_ck_ph
+		HF4-2-Qie12_ck_ph
+		HF4-2-QIE13_Lvds
+		HF4-2-QIE13_Lvds
+		HF4-2-QIE13_Lvds
+		HF4-2-QIE13_Lvds
+		HF4-2-QIE13_Lvds
+		HF4-2-QIE13_Lvds
+		HF4-2-QIE13_Trim
+		HF4-2-QIE13_Trim
+		HF4-2-QIE13_Trim
+		HF4-2-QIE13_Trim
+		HF4-2-QIE13_Trim
+		HF4-2-QIE13_Trim
+		HF4-2-QIE13_DiscOn
+		HF4-2-QIE13_DiscOn
+		HF4-2-QIE13_DiscOn
+		HF4-2-QIE13_DiscOn
+		HF4-2-QIE13_DiscOn
+		HF4-2-QIE13_DiscOn
+		HF4-2-QIE13_TGain
+		HF4-2-QIE13_TGain
+		HF4-2-QIE13_TGain
+		HF4-2-QIE13_TGain
+		HF4-2-QIE13_TGain
+		HF4-2-QIE13_TGain
+		HF4-2-QIE13_TimingThresholdDAC
+		HF4-2-QIE13_TimingThresholdDAC
+		HF4-2-QIE13_TimingThresholdDAC
+		HF4-2-QIE13_TimingThresholdDAC
+		HF4-2-QIE13_TimingThresholdDAC
+		HF4-2-QIE13_TimingThresholdDAC
+		HF4-2-QIE13_TimingIref
+		HF4-2-QIE13_TimingIref
+		HF4-2-QIE13_TimingIref
+		HF4-2-QIE13_TimingIref
+		HF4-2-QIE13_TimingIref
+		HF4-2-QIE13_TimingIref
+		HF4-2-QIE13_PedestalDAC
+		HF4-2-QIE13_PedestalDAC
+		HF4-2-QIE13_PedestalDAC
+		HF4-2-QIE13_PedestalDAC
+		HF4-2-QIE13_PedestalDAC
+		HF4-2-QIE13_PedestalDAC
+		HF4-2-QIE13_CapID0pedestal
+		HF4-2-QIE13_CapID0pedestal
+		HF4-2-QIE13_CapID0pedestal
+		HF4-2-QIE13_CapID0pedestal
+		HF4-2-QIE13_CapID0pedestal
+		HF4-2-QIE13_CapID0pedestal
+		HF4-2-QIE13_CapID1pedestal
+		HF4-2-QIE13_CapID1pedestal
+		HF4-2-QIE13_CapID1pedestal
+		HF4-2-QIE13_CapID1pedestal
+		HF4-2-QIE13_CapID1pedestal
+		HF4-2-QIE13_CapID1pedestal
+		HF4-2-QIE13_CapID2pedestal
+		HF4-2-QIE13_CapID2pedestal
+		HF4-2-QIE13_CapID2pedestal
+		HF4-2-QIE13_CapID2pedestal
+		HF4-2-QIE13_CapID2pedestal
+		HF4-2-QIE13_CapID2pedestal
+		HF4-2-QIE13_CapID3pedestal
+		HF4-2-QIE13_CapID3pedestal
+		HF4-2-QIE13_CapID3pedestal
+		HF4-2-QIE13_CapID3pedestal
+		HF4-2-QIE13_CapID3pedestal
+		HF4-2-QIE13_CapID3pedestal
+		HF4-2-QIE13_FixRange
+		HF4-2-QIE13_FixRange
+		HF4-2-QIE13_FixRange
+		HF4-2-QIE13_FixRange
+		HF4-2-QIE13_FixRange
+		HF4-2-QIE13_FixRange
+		HF4-2-QIE13_RangeSet
+		HF4-2-QIE13_RangeSet
+		HF4-2-QIE13_RangeSet
+		HF4-2-QIE13_RangeSet
+		HF4-2-QIE13_RangeSet
+		HF4-2-QIE13_RangeSet
+		HF4-2-QIE13_ChargeInjectDAC
+		HF4-2-QIE13_ChargeInjectDAC
+		HF4-2-QIE13_ChargeInjectDAC
+		HF4-2-QIE13_ChargeInjectDAC
+		HF4-2-QIE13_ChargeInjectDAC
+		HF4-2-QIE13_ChargeInjectDAC
+		HF4-2-QIE13_RinSel
+		HF4-2-QIE13_RinSel
+		HF4-2-QIE13_RinSel
+		HF4-2-QIE13_RinSel
+		HF4-2-QIE13_RinSel
+		HF4-2-QIE13_RinSel
+		HF4-2-QIE13_Idcset
+		HF4-2-QIE13_Idcset
+		HF4-2-QIE13_Idcset
+		HF4-2-QIE13_Idcset
+		HF4-2-QIE13_Idcset
+		HF4-2-QIE13_Idcset
+		HF4-2-QIE13_CalMode
+		HF4-2-QIE13_CalMode
+		HF4-2-QIE13_CalMode
+		HF4-2-QIE13_CalMode
+		HF4-2-QIE13_CalMode
+		HF4-2-QIE13_CalMode
+		HF4-2-QIE13_CkOutEn
+		HF4-2-QIE13_CkOutEn
+		HF4-2-QIE13_CkOutEn
+		HF4-2-QIE13_CkOutEn
+		HF4-2-QIE13_CkOutEn
+		HF4-2-QIE13_CkOutEn
+		HF4-2-QIE13_TDCMode
+		HF4-2-QIE13_TDCMode
+		HF4-2-QIE13_TDCMode
+		HF4-2-QIE13_TDCMode
+		HF4-2-QIE13_TDCMode
+		HF4-2-QIE13_TDCMode
+		HF4-2-Qie13_ck_ph
+		HF4-2-Qie13_ck_ph
+		HF4-2-Qie13_ck_ph
+		HF4-2-Qie13_ck_ph
+		HF4-2-Qie13_ck_ph
+		HF4-2-Qie13_ck_ph
+		HF4-2-QIE14_Lvds
+		HF4-2-QIE14_Lvds
+		HF4-2-QIE14_Lvds
+		HF4-2-QIE14_Lvds
+		HF4-2-QIE14_Lvds
+		HF4-2-QIE14_Lvds
+		HF4-2-QIE14_Trim
+		HF4-2-QIE14_Trim
+		HF4-2-QIE14_Trim
+		HF4-2-QIE14_Trim
+		HF4-2-QIE14_Trim
+		HF4-2-QIE14_Trim
+		HF4-2-QIE14_DiscOn
+		HF4-2-QIE14_DiscOn
+		HF4-2-QIE14_DiscOn
+		HF4-2-QIE14_DiscOn
+		HF4-2-QIE14_DiscOn
+		HF4-2-QIE14_DiscOn
+		HF4-2-QIE14_TGain
+		HF4-2-QIE14_TGain
+		HF4-2-QIE14_TGain
+		HF4-2-QIE14_TGain
+		HF4-2-QIE14_TGain
+		HF4-2-QIE14_TGain
+		HF4-2-QIE14_TimingThresholdDAC
+		HF4-2-QIE14_TimingThresholdDAC
+		HF4-2-QIE14_TimingThresholdDAC
+		HF4-2-QIE14_TimingThresholdDAC
+		HF4-2-QIE14_TimingThresholdDAC
+		HF4-2-QIE14_TimingThresholdDAC
+		HF4-2-QIE14_TimingIref
+		HF4-2-QIE14_TimingIref
+		HF4-2-QIE14_TimingIref
+		HF4-2-QIE14_TimingIref
+		HF4-2-QIE14_TimingIref
+		HF4-2-QIE14_TimingIref
+		HF4-2-QIE14_PedestalDAC
+		HF4-2-QIE14_PedestalDAC
+		HF4-2-QIE14_PedestalDAC
+		HF4-2-QIE14_PedestalDAC
+		HF4-2-QIE14_PedestalDAC
+		HF4-2-QIE14_PedestalDAC
+		HF4-2-QIE14_CapID0pedestal
+		HF4-2-QIE14_CapID0pedestal
+		HF4-2-QIE14_CapID0pedestal
+		HF4-2-QIE14_CapID0pedestal
+		HF4-2-QIE14_CapID0pedestal
+		HF4-2-QIE14_CapID0pedestal
+		HF4-2-QIE14_CapID1pedestal
+		HF4-2-QIE14_CapID1pedestal
+		HF4-2-QIE14_CapID1pedestal
+		HF4-2-QIE14_CapID1pedestal
+		HF4-2-QIE14_CapID1pedestal
+		HF4-2-QIE14_CapID1pedestal
+		HF4-2-QIE14_CapID2pedestal
+		HF4-2-QIE14_CapID2pedestal
+		HF4-2-QIE14_CapID2pedestal
+		HF4-2-QIE14_CapID2pedestal
+		HF4-2-QIE14_CapID2pedestal
+		HF4-2-QIE14_CapID2pedestal
+		HF4-2-QIE14_CapID3pedestal
+		HF4-2-QIE14_CapID3pedestal
+		HF4-2-QIE14_CapID3pedestal
+		HF4-2-QIE14_CapID3pedestal
+		HF4-2-QIE14_CapID3pedestal
+		HF4-2-QIE14_CapID3pedestal
+		HF4-2-QIE14_FixRange
+		HF4-2-QIE14_FixRange
+		HF4-2-QIE14_FixRange
+		HF4-2-QIE14_FixRange
+		HF4-2-QIE14_FixRange
+		HF4-2-QIE14_FixRange
+		HF4-2-QIE14_RangeSet
+		HF4-2-QIE14_RangeSet
+		HF4-2-QIE14_RangeSet
+		HF4-2-QIE14_RangeSet
+		HF4-2-QIE14_RangeSet
+		HF4-2-QIE14_RangeSet
+		HF4-2-QIE14_ChargeInjectDAC
+		HF4-2-QIE14_ChargeInjectDAC
+		HF4-2-QIE14_ChargeInjectDAC
+		HF4-2-QIE14_ChargeInjectDAC
+		HF4-2-QIE14_ChargeInjectDAC
+		HF4-2-QIE14_ChargeInjectDAC
+		HF4-2-QIE14_RinSel
+		HF4-2-QIE14_RinSel
+		HF4-2-QIE14_RinSel
+		HF4-2-QIE14_RinSel
+		HF4-2-QIE14_RinSel
+		HF4-2-QIE14_RinSel
+		HF4-2-QIE14_Idcset
+		HF4-2-QIE14_Idcset
+		HF4-2-QIE14_Idcset
+		HF4-2-QIE14_Idcset
+		HF4-2-QIE14_Idcset
+		HF4-2-QIE14_Idcset
+		HF4-2-QIE14_CalMode
+		HF4-2-QIE14_CalMode
+		HF4-2-QIE14_CalMode
+		HF4-2-QIE14_CalMode
+		HF4-2-QIE14_CalMode
+		HF4-2-QIE14_CalMode
+		HF4-2-QIE14_CkOutEn
+		HF4-2-QIE14_CkOutEn
+		HF4-2-QIE14_CkOutEn
+		HF4-2-QIE14_CkOutEn
+		HF4-2-QIE14_CkOutEn
+		HF4-2-QIE14_CkOutEn
+		HF4-2-QIE14_TDCMode
+		HF4-2-QIE14_TDCMode
+		HF4-2-QIE14_TDCMode
+		HF4-2-QIE14_TDCMode
+		HF4-2-QIE14_TDCMode
+		HF4-2-QIE14_TDCMode
+		HF4-2-Qie14_ck_ph
+		HF4-2-Qie14_ck_ph
+		HF4-2-Qie14_ck_ph
+		HF4-2-Qie14_ck_ph
+		HF4-2-Qie14_ck_ph
+		HF4-2-Qie14_ck_ph
+		HF4-2-QIE15_Lvds
+		HF4-2-QIE15_Lvds
+		HF4-2-QIE15_Lvds
+		HF4-2-QIE15_Lvds
+		HF4-2-QIE15_Lvds
+		HF4-2-QIE15_Lvds
+		HF4-2-QIE15_Trim
+		HF4-2-QIE15_Trim
+		HF4-2-QIE15_Trim
+		HF4-2-QIE15_Trim
+		HF4-2-QIE15_Trim
+		HF4-2-QIE15_Trim
+		HF4-2-QIE15_DiscOn
+		HF4-2-QIE15_DiscOn
+		HF4-2-QIE15_DiscOn
+		HF4-2-QIE15_DiscOn
+		HF4-2-QIE15_DiscOn
+		HF4-2-QIE15_DiscOn
+		HF4-2-QIE15_TGain
+		HF4-2-QIE15_TGain
+		HF4-2-QIE15_TGain
+		HF4-2-QIE15_TGain
+		HF4-2-QIE15_TGain
+		HF4-2-QIE15_TGain
+		HF4-2-QIE15_TimingThresholdDAC
+		HF4-2-QIE15_TimingThresholdDAC
+		HF4-2-QIE15_TimingThresholdDAC
+		HF4-2-QIE15_TimingThresholdDAC
+		HF4-2-QIE15_TimingThresholdDAC
+		HF4-2-QIE15_TimingThresholdDAC
+		HF4-2-QIE15_TimingIref
+		HF4-2-QIE15_TimingIref
+		HF4-2-QIE15_TimingIref
+		HF4-2-QIE15_TimingIref
+		HF4-2-QIE15_TimingIref
+		HF4-2-QIE15_TimingIref
+		HF4-2-QIE15_PedestalDAC
+		HF4-2-QIE15_PedestalDAC
+		HF4-2-QIE15_PedestalDAC
+		HF4-2-QIE15_PedestalDAC
+		HF4-2-QIE15_PedestalDAC
+		HF4-2-QIE15_PedestalDAC
+		HF4-2-QIE15_CapID0pedestal
+		HF4-2-QIE15_CapID0pedestal
+		HF4-2-QIE15_CapID0pedestal
+		HF4-2-QIE15_CapID0pedestal
+		HF4-2-QIE15_CapID0pedestal
+		HF4-2-QIE15_CapID0pedestal
+		HF4-2-QIE15_CapID1pedestal
+		HF4-2-QIE15_CapID1pedestal
+		HF4-2-QIE15_CapID1pedestal
+		HF4-2-QIE15_CapID1pedestal
+		HF4-2-QIE15_CapID1pedestal
+		HF4-2-QIE15_CapID1pedestal
+		HF4-2-QIE15_CapID2pedestal
+		HF4-2-QIE15_CapID2pedestal
+		HF4-2-QIE15_CapID2pedestal
+		HF4-2-QIE15_CapID2pedestal
+		HF4-2-QIE15_CapID2pedestal
+		HF4-2-QIE15_CapID2pedestal
+		HF4-2-QIE15_CapID3pedestal
+		HF4-2-QIE15_CapID3pedestal
+		HF4-2-QIE15_CapID3pedestal
+		HF4-2-QIE15_CapID3pedestal
+		HF4-2-QIE15_CapID3pedestal
+		HF4-2-QIE15_CapID3pedestal
+		HF4-2-QIE15_FixRange
+		HF4-2-QIE15_FixRange
+		HF4-2-QIE15_FixRange
+		HF4-2-QIE15_FixRange
+		HF4-2-QIE15_FixRange
+		HF4-2-QIE15_FixRange
+		HF4-2-QIE15_RangeSet
+		HF4-2-QIE15_RangeSet
+		HF4-2-QIE15_RangeSet
+		HF4-2-QIE15_RangeSet
+		HF4-2-QIE15_RangeSet
+		HF4-2-QIE15_RangeSet
+		HF4-2-QIE15_ChargeInjectDAC
+		HF4-2-QIE15_ChargeInjectDAC
+		HF4-2-QIE15_ChargeInjectDAC
+		HF4-2-QIE15_ChargeInjectDAC
+		HF4-2-QIE15_ChargeInjectDAC
+		HF4-2-QIE15_ChargeInjectDAC
+		HF4-2-QIE15_RinSel
+		HF4-2-QIE15_RinSel
+		HF4-2-QIE15_RinSel
+		HF4-2-QIE15_RinSel
+		HF4-2-QIE15_RinSel
+		HF4-2-QIE15_RinSel
+		HF4-2-QIE15_Idcset
+		HF4-2-QIE15_Idcset
+		HF4-2-QIE15_Idcset
+		HF4-2-QIE15_Idcset
+		HF4-2-QIE15_Idcset
+		HF4-2-QIE15_Idcset
+		HF4-2-QIE15_CalMode
+		HF4-2-QIE15_CalMode
+		HF4-2-QIE15_CalMode
+		HF4-2-QIE15_CalMode
+		HF4-2-QIE15_CalMode
+		HF4-2-QIE15_CalMode
+		HF4-2-QIE15_CkOutEn
+		HF4-2-QIE15_CkOutEn
+		HF4-2-QIE15_CkOutEn
+		HF4-2-QIE15_CkOutEn
+		HF4-2-QIE15_CkOutEn
+		HF4-2-QIE15_CkOutEn
+		HF4-2-QIE15_TDCMode
+		HF4-2-QIE15_TDCMode
+		HF4-2-QIE15_TDCMode
+		HF4-2-QIE15_TDCMode
+		HF4-2-QIE15_TDCMode
+		HF4-2-QIE15_TDCMode
+		HF4-2-Qie15_ck_ph
+		HF4-2-Qie15_ck_ph
+		HF4-2-Qie15_ck_ph
+		HF4-2-Qie15_ck_ph
+		HF4-2-Qie15_ck_ph
+		HF4-2-Qie15_ck_ph
+		HF4-2-QIE16_Lvds
+		HF4-2-QIE16_Lvds
+		HF4-2-QIE16_Lvds
+		HF4-2-QIE16_Lvds
+		HF4-2-QIE16_Lvds
+		HF4-2-QIE16_Lvds
+		HF4-2-QIE16_Trim
+		HF4-2-QIE16_Trim
+		HF4-2-QIE16_Trim
+		HF4-2-QIE16_Trim
+		HF4-2-QIE16_Trim
+		HF4-2-QIE16_Trim
+		HF4-2-QIE16_DiscOn
+		HF4-2-QIE16_DiscOn
+		HF4-2-QIE16_DiscOn
+		HF4-2-QIE16_DiscOn
+		HF4-2-QIE16_DiscOn
+		HF4-2-QIE16_DiscOn
+		HF4-2-QIE16_TGain
+		HF4-2-QIE16_TGain
+		HF4-2-QIE16_TGain
+		HF4-2-QIE16_TGain
+		HF4-2-QIE16_TGain
+		HF4-2-QIE16_TGain
+		HF4-2-QIE16_TimingThresholdDAC
+		HF4-2-QIE16_TimingThresholdDAC
+		HF4-2-QIE16_TimingThresholdDAC
+		HF4-2-QIE16_TimingThresholdDAC
+		HF4-2-QIE16_TimingThresholdDAC
+		HF4-2-QIE16_TimingThresholdDAC
+		HF4-2-QIE16_TimingIref
+		HF4-2-QIE16_TimingIref
+		HF4-2-QIE16_TimingIref
+		HF4-2-QIE16_TimingIref
+		HF4-2-QIE16_TimingIref
+		HF4-2-QIE16_TimingIref
+		HF4-2-QIE16_PedestalDAC
+		HF4-2-QIE16_PedestalDAC
+		HF4-2-QIE16_PedestalDAC
+		HF4-2-QIE16_PedestalDAC
+		HF4-2-QIE16_PedestalDAC
+		HF4-2-QIE16_PedestalDAC
+		HF4-2-QIE16_CapID0pedestal
+		HF4-2-QIE16_CapID0pedestal
+		HF4-2-QIE16_CapID0pedestal
+		HF4-2-QIE16_CapID0pedestal
+		HF4-2-QIE16_CapID0pedestal
+		HF4-2-QIE16_CapID0pedestal
+		HF4-2-QIE16_CapID1pedestal
+		HF4-2-QIE16_CapID1pedestal
+		HF4-2-QIE16_CapID1pedestal
+		HF4-2-QIE16_CapID1pedestal
+		HF4-2-QIE16_CapID1pedestal
+		HF4-2-QIE16_CapID1pedestal
+		HF4-2-QIE16_CapID2pedestal
+		HF4-2-QIE16_CapID2pedestal
+		HF4-2-QIE16_CapID2pedestal
+		HF4-2-QIE16_CapID2pedestal
+		HF4-2-QIE16_CapID2pedestal
+		HF4-2-QIE16_CapID2pedestal
+		HF4-2-QIE16_CapID3pedestal
+		HF4-2-QIE16_CapID3pedestal
+		HF4-2-QIE16_CapID3pedestal
+		HF4-2-QIE16_CapID3pedestal
+		HF4-2-QIE16_CapID3pedestal
+		HF4-2-QIE16_CapID3pedestal
+		HF4-2-QIE16_FixRange
+		HF4-2-QIE16_FixRange
+		HF4-2-QIE16_FixRange
+		HF4-2-QIE16_FixRange
+		HF4-2-QIE16_FixRange
+		HF4-2-QIE16_FixRange
+		HF4-2-QIE16_RangeSet
+		HF4-2-QIE16_RangeSet
+		HF4-2-QIE16_RangeSet
+		HF4-2-QIE16_RangeSet
+		HF4-2-QIE16_RangeSet
+		HF4-2-QIE16_RangeSet
+		HF4-2-QIE16_ChargeInjectDAC
+		HF4-2-QIE16_ChargeInjectDAC
+		HF4-2-QIE16_ChargeInjectDAC
+		HF4-2-QIE16_ChargeInjectDAC
+		HF4-2-QIE16_ChargeInjectDAC
+		HF4-2-QIE16_ChargeInjectDAC
+		HF4-2-QIE16_RinSel
+		HF4-2-QIE16_RinSel
+		HF4-2-QIE16_RinSel
+		HF4-2-QIE16_RinSel
+		HF4-2-QIE16_RinSel
+		HF4-2-QIE16_RinSel
+		HF4-2-QIE16_Idcset
+		HF4-2-QIE16_Idcset
+		HF4-2-QIE16_Idcset
+		HF4-2-QIE16_Idcset
+		HF4-2-QIE16_Idcset
+		HF4-2-QIE16_Idcset
+		HF4-2-QIE16_CalMode
+		HF4-2-QIE16_CalMode
+		HF4-2-QIE16_CalMode
+		HF4-2-QIE16_CalMode
+		HF4-2-QIE16_CalMode
+		HF4-2-QIE16_CalMode
+		HF4-2-QIE16_CkOutEn
+		HF4-2-QIE16_CkOutEn
+		HF4-2-QIE16_CkOutEn
+		HF4-2-QIE16_CkOutEn
+		HF4-2-QIE16_CkOutEn
+		HF4-2-QIE16_CkOutEn
+		HF4-2-QIE16_TDCMode
+		HF4-2-QIE16_TDCMode
+		HF4-2-QIE16_TDCMode
+		HF4-2-QIE16_TDCMode
+		HF4-2-QIE16_TDCMode
+		HF4-2-QIE16_TDCMode
+		HF4-2-Qie16_ck_ph
+		HF4-2-Qie16_ck_ph
+		HF4-2-Qie16_ck_ph
+		HF4-2-Qie16_ck_ph
+		HF4-2-Qie16_ck_ph
+		HF4-2-Qie16_ck_ph
+		HF4-2-QIE17_Lvds
+		HF4-2-QIE17_Lvds
+		HF4-2-QIE17_Lvds
+		HF4-2-QIE17_Lvds
+		HF4-2-QIE17_Lvds
+		HF4-2-QIE17_Lvds
+		HF4-2-QIE17_Trim
+		HF4-2-QIE17_Trim
+		HF4-2-QIE17_Trim
+		HF4-2-QIE17_Trim
+		HF4-2-QIE17_Trim
+		HF4-2-QIE17_Trim
+		HF4-2-QIE17_DiscOn
+		HF4-2-QIE17_DiscOn
+		HF4-2-QIE17_DiscOn
+		HF4-2-QIE17_DiscOn
+		HF4-2-QIE17_DiscOn
+		HF4-2-QIE17_DiscOn
+		HF4-2-QIE17_TGain
+		HF4-2-QIE17_TGain
+		HF4-2-QIE17_TGain
+		HF4-2-QIE17_TGain
+		HF4-2-QIE17_TGain
+		HF4-2-QIE17_TGain
+		HF4-2-QIE17_TimingThresholdDAC
+		HF4-2-QIE17_TimingThresholdDAC
+		HF4-2-QIE17_TimingThresholdDAC
+		HF4-2-QIE17_TimingThresholdDAC
+		HF4-2-QIE17_TimingThresholdDAC
+		HF4-2-QIE17_TimingThresholdDAC
+		HF4-2-QIE17_TimingIref
+		HF4-2-QIE17_TimingIref
+		HF4-2-QIE17_TimingIref
+		HF4-2-QIE17_TimingIref
+		HF4-2-QIE17_TimingIref
+		HF4-2-QIE17_TimingIref
+		HF4-2-QIE17_PedestalDAC
+		HF4-2-QIE17_PedestalDAC
+		HF4-2-QIE17_PedestalDAC
+		HF4-2-QIE17_PedestalDAC
+		HF4-2-QIE17_PedestalDAC
+		HF4-2-QIE17_PedestalDAC
+		HF4-2-QIE17_CapID0pedestal
+		HF4-2-QIE17_CapID0pedestal
+		HF4-2-QIE17_CapID0pedestal
+		HF4-2-QIE17_CapID0pedestal
+		HF4-2-QIE17_CapID0pedestal
+		HF4-2-QIE17_CapID0pedestal
+		HF4-2-QIE17_CapID1pedestal
+		HF4-2-QIE17_CapID1pedestal
+		HF4-2-QIE17_CapID1pedestal
+		HF4-2-QIE17_CapID1pedestal
+		HF4-2-QIE17_CapID1pedestal
+		HF4-2-QIE17_CapID1pedestal
+		HF4-2-QIE17_CapID2pedestal
+		HF4-2-QIE17_CapID2pedestal
+		HF4-2-QIE17_CapID2pedestal
+		HF4-2-QIE17_CapID2pedestal
+		HF4-2-QIE17_CapID2pedestal
+		HF4-2-QIE17_CapID2pedestal
+		HF4-2-QIE17_CapID3pedestal
+		HF4-2-QIE17_CapID3pedestal
+		HF4-2-QIE17_CapID3pedestal
+		HF4-2-QIE17_CapID3pedestal
+		HF4-2-QIE17_CapID3pedestal
+		HF4-2-QIE17_CapID3pedestal
+		HF4-2-QIE17_FixRange
+		HF4-2-QIE17_FixRange
+		HF4-2-QIE17_FixRange
+		HF4-2-QIE17_FixRange
+		HF4-2-QIE17_FixRange
+		HF4-2-QIE17_FixRange
+		HF4-2-QIE17_RangeSet
+		HF4-2-QIE17_RangeSet
+		HF4-2-QIE17_RangeSet
+		HF4-2-QIE17_RangeSet
+		HF4-2-QIE17_RangeSet
+		HF4-2-QIE17_RangeSet
+		HF4-2-QIE17_ChargeInjectDAC
+		HF4-2-QIE17_ChargeInjectDAC
+		HF4-2-QIE17_ChargeInjectDAC
+		HF4-2-QIE17_ChargeInjectDAC
+		HF4-2-QIE17_ChargeInjectDAC
+		HF4-2-QIE17_ChargeInjectDAC
+		HF4-2-QIE17_RinSel
+		HF4-2-QIE17_RinSel
+		HF4-2-QIE17_RinSel
+		HF4-2-QIE17_RinSel
+		HF4-2-QIE17_RinSel
+		HF4-2-QIE17_RinSel
+		HF4-2-QIE17_Idcset
+		HF4-2-QIE17_Idcset
+		HF4-2-QIE17_Idcset
+		HF4-2-QIE17_Idcset
+		HF4-2-QIE17_Idcset
+		HF4-2-QIE17_Idcset
+		HF4-2-QIE17_CalMode
+		HF4-2-QIE17_CalMode
+		HF4-2-QIE17_CalMode
+		HF4-2-QIE17_CalMode
+		HF4-2-QIE17_CalMode
+		HF4-2-QIE17_CalMode
+		HF4-2-QIE17_CkOutEn
+		HF4-2-QIE17_CkOutEn
+		HF4-2-QIE17_CkOutEn
+		HF4-2-QIE17_CkOutEn
+		HF4-2-QIE17_CkOutEn
+		HF4-2-QIE17_CkOutEn
+		HF4-2-QIE17_TDCMode
+		HF4-2-QIE17_TDCMode
+		HF4-2-QIE17_TDCMode
+		HF4-2-QIE17_TDCMode
+		HF4-2-QIE17_TDCMode
+		HF4-2-QIE17_TDCMode
+		HF4-2-Qie17_ck_ph
+		HF4-2-Qie17_ck_ph
+		HF4-2-Qie17_ck_ph
+		HF4-2-Qie17_ck_ph
+		HF4-2-Qie17_ck_ph
+		HF4-2-Qie17_ck_ph
+		HF4-2-QIE18_Lvds
+		HF4-2-QIE18_Lvds
+		HF4-2-QIE18_Lvds
+		HF4-2-QIE18_Lvds
+		HF4-2-QIE18_Lvds
+		HF4-2-QIE18_Lvds
+		HF4-2-QIE18_Trim
+		HF4-2-QIE18_Trim
+		HF4-2-QIE18_Trim
+		HF4-2-QIE18_Trim
+		HF4-2-QIE18_Trim
+		HF4-2-QIE18_Trim
+		HF4-2-QIE18_DiscOn
+		HF4-2-QIE18_DiscOn
+		HF4-2-QIE18_DiscOn
+		HF4-2-QIE18_DiscOn
+		HF4-2-QIE18_DiscOn
+		HF4-2-QIE18_DiscOn
+		HF4-2-QIE18_TGain
+		HF4-2-QIE18_TGain
+		HF4-2-QIE18_TGain
+		HF4-2-QIE18_TGain
+		HF4-2-QIE18_TGain
+		HF4-2-QIE18_TGain
+		HF4-2-QIE18_TimingThresholdDAC
+		HF4-2-QIE18_TimingThresholdDAC
+		HF4-2-QIE18_TimingThresholdDAC
+		HF4-2-QIE18_TimingThresholdDAC
+		HF4-2-QIE18_TimingThresholdDAC
+		HF4-2-QIE18_TimingThresholdDAC
+		HF4-2-QIE18_TimingIref
+		HF4-2-QIE18_TimingIref
+		HF4-2-QIE18_TimingIref
+		HF4-2-QIE18_TimingIref
+		HF4-2-QIE18_TimingIref
+		HF4-2-QIE18_TimingIref
+		HF4-2-QIE18_PedestalDAC
+		HF4-2-QIE18_PedestalDAC
+		HF4-2-QIE18_PedestalDAC
+		HF4-2-QIE18_PedestalDAC
+		HF4-2-QIE18_PedestalDAC
+		HF4-2-QIE18_PedestalDAC
+		HF4-2-QIE18_CapID0pedestal
+		HF4-2-QIE18_CapID0pedestal
+		HF4-2-QIE18_CapID0pedestal
+		HF4-2-QIE18_CapID0pedestal
+		HF4-2-QIE18_CapID0pedestal
+		HF4-2-QIE18_CapID0pedestal
+		HF4-2-QIE18_CapID1pedestal
+		HF4-2-QIE18_CapID1pedestal
+		HF4-2-QIE18_CapID1pedestal
+		HF4-2-QIE18_CapID1pedestal
+		HF4-2-QIE18_CapID1pedestal
+		HF4-2-QIE18_CapID1pedestal
+		HF4-2-QIE18_CapID2pedestal
+		HF4-2-QIE18_CapID2pedestal
+		HF4-2-QIE18_CapID2pedestal
+		HF4-2-QIE18_CapID2pedestal
+		HF4-2-QIE18_CapID2pedestal
+		HF4-2-QIE18_CapID2pedestal
+		HF4-2-QIE18_CapID3pedestal
+		HF4-2-QIE18_CapID3pedestal
+		HF4-2-QIE18_CapID3pedestal
+		HF4-2-QIE18_CapID3pedestal
+		HF4-2-QIE18_CapID3pedestal
+		HF4-2-QIE18_CapID3pedestal
+		HF4-2-QIE18_FixRange
+		HF4-2-QIE18_FixRange
+		HF4-2-QIE18_FixRange
+		HF4-2-QIE18_FixRange
+		HF4-2-QIE18_FixRange
+		HF4-2-QIE18_FixRange
+		HF4-2-QIE18_RangeSet
+		HF4-2-QIE18_RangeSet
+		HF4-2-QIE18_RangeSet
+		HF4-2-QIE18_RangeSet
+		HF4-2-QIE18_RangeSet
+		HF4-2-QIE18_RangeSet
+		HF4-2-QIE18_ChargeInjectDAC
+		HF4-2-QIE18_ChargeInjectDAC
+		HF4-2-QIE18_ChargeInjectDAC
+		HF4-2-QIE18_ChargeInjectDAC
+		HF4-2-QIE18_ChargeInjectDAC
+		HF4-2-QIE18_ChargeInjectDAC
+		HF4-2-QIE18_RinSel
+		HF4-2-QIE18_RinSel
+		HF4-2-QIE18_RinSel
+		HF4-2-QIE18_RinSel
+		HF4-2-QIE18_RinSel
+		HF4-2-QIE18_RinSel
+		HF4-2-QIE18_Idcset
+		HF4-2-QIE18_Idcset
+		HF4-2-QIE18_Idcset
+		HF4-2-QIE18_Idcset
+		HF4-2-QIE18_Idcset
+		HF4-2-QIE18_Idcset
+		HF4-2-QIE18_CalMode
+		HF4-2-QIE18_CalMode
+		HF4-2-QIE18_CalMode
+		HF4-2-QIE18_CalMode
+		HF4-2-QIE18_CalMode
+		HF4-2-QIE18_CalMode
+		HF4-2-QIE18_CkOutEn
+		HF4-2-QIE18_CkOutEn
+		HF4-2-QIE18_CkOutEn
+		HF4-2-QIE18_CkOutEn
+		HF4-2-QIE18_CkOutEn
+		HF4-2-QIE18_CkOutEn
+		HF4-2-QIE18_TDCMode
+		HF4-2-QIE18_TDCMode
+		HF4-2-QIE18_TDCMode
+		HF4-2-QIE18_TDCMode
+		HF4-2-QIE18_TDCMode
+		HF4-2-QIE18_TDCMode
+		HF4-2-Qie18_ck_ph
+		HF4-2-Qie18_ck_ph
+		HF4-2-Qie18_ck_ph
+		HF4-2-Qie18_ck_ph
+		HF4-2-Qie18_ck_ph
+		HF4-2-Qie18_ck_ph
+		HF4-2-QIE19_Lvds
+		HF4-2-QIE19_Lvds
+		HF4-2-QIE19_Lvds
+		HF4-2-QIE19_Lvds
+		HF4-2-QIE19_Lvds
+		HF4-2-QIE19_Lvds
+		HF4-2-QIE19_Trim
+		HF4-2-QIE19_Trim
+		HF4-2-QIE19_Trim
+		HF4-2-QIE19_Trim
+		HF4-2-QIE19_Trim
+		HF4-2-QIE19_Trim
+		HF4-2-QIE19_DiscOn
+		HF4-2-QIE19_DiscOn
+		HF4-2-QIE19_DiscOn
+		HF4-2-QIE19_DiscOn
+		HF4-2-QIE19_DiscOn
+		HF4-2-QIE19_DiscOn
+		HF4-2-QIE19_TGain
+		HF4-2-QIE19_TGain
+		HF4-2-QIE19_TGain
+		HF4-2-QIE19_TGain
+		HF4-2-QIE19_TGain
+		HF4-2-QIE19_TGain
+		HF4-2-QIE19_TimingThresholdDAC
+		HF4-2-QIE19_TimingThresholdDAC
+		HF4-2-QIE19_TimingThresholdDAC
+		HF4-2-QIE19_TimingThresholdDAC
+		HF4-2-QIE19_TimingThresholdDAC
+		HF4-2-QIE19_TimingThresholdDAC
+		HF4-2-QIE19_TimingIref
+		HF4-2-QIE19_TimingIref
+		HF4-2-QIE19_TimingIref
+		HF4-2-QIE19_TimingIref
+		HF4-2-QIE19_TimingIref
+		HF4-2-QIE19_TimingIref
+		HF4-2-QIE19_PedestalDAC
+		HF4-2-QIE19_PedestalDAC
+		HF4-2-QIE19_PedestalDAC
+		HF4-2-QIE19_PedestalDAC
+		HF4-2-QIE19_PedestalDAC
+		HF4-2-QIE19_PedestalDAC
+		HF4-2-QIE19_CapID0pedestal
+		HF4-2-QIE19_CapID0pedestal
+		HF4-2-QIE19_CapID0pedestal
+		HF4-2-QIE19_CapID0pedestal
+		HF4-2-QIE19_CapID0pedestal
+		HF4-2-QIE19_CapID0pedestal
+		HF4-2-QIE19_CapID1pedestal
+		HF4-2-QIE19_CapID1pedestal
+		HF4-2-QIE19_CapID1pedestal
+		HF4-2-QIE19_CapID1pedestal
+		HF4-2-QIE19_CapID1pedestal
+		HF4-2-QIE19_CapID1pedestal
+		HF4-2-QIE19_CapID2pedestal
+		HF4-2-QIE19_CapID2pedestal
+		HF4-2-QIE19_CapID2pedestal
+		HF4-2-QIE19_CapID2pedestal
+		HF4-2-QIE19_CapID2pedestal
+		HF4-2-QIE19_CapID2pedestal
+		HF4-2-QIE19_CapID3pedestal
+		HF4-2-QIE19_CapID3pedestal
+		HF4-2-QIE19_CapID3pedestal
+		HF4-2-QIE19_CapID3pedestal
+		HF4-2-QIE19_CapID3pedestal
+		HF4-2-QIE19_CapID3pedestal
+		HF4-2-QIE19_FixRange
+		HF4-2-QIE19_FixRange
+		HF4-2-QIE19_FixRange
+		HF4-2-QIE19_FixRange
+		HF4-2-QIE19_FixRange
+		HF4-2-QIE19_FixRange
+		HF4-2-QIE19_RangeSet
+		HF4-2-QIE19_RangeSet
+		HF4-2-QIE19_RangeSet
+		HF4-2-QIE19_RangeSet
+		HF4-2-QIE19_RangeSet
+		HF4-2-QIE19_RangeSet
+		HF4-2-QIE19_ChargeInjectDAC
+		HF4-2-QIE19_ChargeInjectDAC
+		HF4-2-QIE19_ChargeInjectDAC
+		HF4-2-QIE19_ChargeInjectDAC
+		HF4-2-QIE19_ChargeInjectDAC
+		HF4-2-QIE19_ChargeInjectDAC
+		HF4-2-QIE19_RinSel
+		HF4-2-QIE19_RinSel
+		HF4-2-QIE19_RinSel
+		HF4-2-QIE19_RinSel
+		HF4-2-QIE19_RinSel
+		HF4-2-QIE19_RinSel
+		HF4-2-QIE19_Idcset
+		HF4-2-QIE19_Idcset
+		HF4-2-QIE19_Idcset
+		HF4-2-QIE19_Idcset
+		HF4-2-QIE19_Idcset
+		HF4-2-QIE19_Idcset
+		HF4-2-QIE19_CalMode
+		HF4-2-QIE19_CalMode
+		HF4-2-QIE19_CalMode
+		HF4-2-QIE19_CalMode
+		HF4-2-QIE19_CalMode
+		HF4-2-QIE19_CalMode
+		HF4-2-QIE19_CkOutEn
+		HF4-2-QIE19_CkOutEn
+		HF4-2-QIE19_CkOutEn
+		HF4-2-QIE19_CkOutEn
+		HF4-2-QIE19_CkOutEn
+		HF4-2-QIE19_CkOutEn
+		HF4-2-QIE19_TDCMode
+		HF4-2-QIE19_TDCMode
+		HF4-2-QIE19_TDCMode
+		HF4-2-QIE19_TDCMode
+		HF4-2-QIE19_TDCMode
+		HF4-2-QIE19_TDCMode
+		HF4-2-Qie19_ck_ph
+		HF4-2-Qie19_ck_ph
+		HF4-2-Qie19_ck_ph
+		HF4-2-Qie19_ck_ph
+		HF4-2-Qie19_ck_ph
+		HF4-2-Qie19_ck_ph
+		HF4-2-QIE20_Lvds
+		HF4-2-QIE20_Lvds
+		HF4-2-QIE20_Lvds
+		HF4-2-QIE20_Lvds
+		HF4-2-QIE20_Lvds
+		HF4-2-QIE20_Lvds
+		HF4-2-QIE20_Trim
+		HF4-2-QIE20_Trim
+		HF4-2-QIE20_Trim
+		HF4-2-QIE20_Trim
+		HF4-2-QIE20_Trim
+		HF4-2-QIE20_Trim
+		HF4-2-QIE20_DiscOn
+		HF4-2-QIE20_DiscOn
+		HF4-2-QIE20_DiscOn
+		HF4-2-QIE20_DiscOn
+		HF4-2-QIE20_DiscOn
+		HF4-2-QIE20_DiscOn
+		HF4-2-QIE20_TGain
+		HF4-2-QIE20_TGain
+		HF4-2-QIE20_TGain
+		HF4-2-QIE20_TGain
+		HF4-2-QIE20_TGain
+		HF4-2-QIE20_TGain
+		HF4-2-QIE20_TimingThresholdDAC
+		HF4-2-QIE20_TimingThresholdDAC
+		HF4-2-QIE20_TimingThresholdDAC
+		HF4-2-QIE20_TimingThresholdDAC
+		HF4-2-QIE20_TimingThresholdDAC
+		HF4-2-QIE20_TimingThresholdDAC
+		HF4-2-QIE20_TimingIref
+		HF4-2-QIE20_TimingIref
+		HF4-2-QIE20_TimingIref
+		HF4-2-QIE20_TimingIref
+		HF4-2-QIE20_TimingIref
+		HF4-2-QIE20_TimingIref
+		HF4-2-QIE20_PedestalDAC
+		HF4-2-QIE20_PedestalDAC
+		HF4-2-QIE20_PedestalDAC
+		HF4-2-QIE20_PedestalDAC
+		HF4-2-QIE20_PedestalDAC
+		HF4-2-QIE20_PedestalDAC
+		HF4-2-QIE20_CapID0pedestal
+		HF4-2-QIE20_CapID0pedestal
+		HF4-2-QIE20_CapID0pedestal
+		HF4-2-QIE20_CapID0pedestal
+		HF4-2-QIE20_CapID0pedestal
+		HF4-2-QIE20_CapID0pedestal
+		HF4-2-QIE20_CapID1pedestal
+		HF4-2-QIE20_CapID1pedestal
+		HF4-2-QIE20_CapID1pedestal
+		HF4-2-QIE20_CapID1pedestal
+		HF4-2-QIE20_CapID1pedestal
+		HF4-2-QIE20_CapID1pedestal
+		HF4-2-QIE20_CapID2pedestal
+		HF4-2-QIE20_CapID2pedestal
+		HF4-2-QIE20_CapID2pedestal
+		HF4-2-QIE20_CapID2pedestal
+		HF4-2-QIE20_CapID2pedestal
+		HF4-2-QIE20_CapID2pedestal
+		HF4-2-QIE20_CapID3pedestal
+		HF4-2-QIE20_CapID3pedestal
+		HF4-2-QIE20_CapID3pedestal
+		HF4-2-QIE20_CapID3pedestal
+		HF4-2-QIE20_CapID3pedestal
+		HF4-2-QIE20_CapID3pedestal
+		HF4-2-QIE20_FixRange
+		HF4-2-QIE20_FixRange
+		HF4-2-QIE20_FixRange
+		HF4-2-QIE20_FixRange
+		HF4-2-QIE20_FixRange
+		HF4-2-QIE20_FixRange
+		HF4-2-QIE20_RangeSet
+		HF4-2-QIE20_RangeSet
+		HF4-2-QIE20_RangeSet
+		HF4-2-QIE20_RangeSet
+		HF4-2-QIE20_RangeSet
+		HF4-2-QIE20_RangeSet
+		HF4-2-QIE20_ChargeInjectDAC
+		HF4-2-QIE20_ChargeInjectDAC
+		HF4-2-QIE20_ChargeInjectDAC
+		HF4-2-QIE20_ChargeInjectDAC
+		HF4-2-QIE20_ChargeInjectDAC
+		HF4-2-QIE20_ChargeInjectDAC
+		HF4-2-QIE20_RinSel
+		HF4-2-QIE20_RinSel
+		HF4-2-QIE20_RinSel
+		HF4-2-QIE20_RinSel
+		HF4-2-QIE20_RinSel
+		HF4-2-QIE20_RinSel
+		HF4-2-QIE20_Idcset
+		HF4-2-QIE20_Idcset
+		HF4-2-QIE20_Idcset
+		HF4-2-QIE20_Idcset
+		HF4-2-QIE20_Idcset
+		HF4-2-QIE20_Idcset
+		HF4-2-QIE20_CalMode
+		HF4-2-QIE20_CalMode
+		HF4-2-QIE20_CalMode
+		HF4-2-QIE20_CalMode
+		HF4-2-QIE20_CalMode
+		HF4-2-QIE20_CalMode
+		HF4-2-QIE20_CkOutEn
+		HF4-2-QIE20_CkOutEn
+		HF4-2-QIE20_CkOutEn
+		HF4-2-QIE20_CkOutEn
+		HF4-2-QIE20_CkOutEn
+		HF4-2-QIE20_CkOutEn
+		HF4-2-QIE20_TDCMode
+		HF4-2-QIE20_TDCMode
+		HF4-2-QIE20_TDCMode
+		HF4-2-QIE20_TDCMode
+		HF4-2-QIE20_TDCMode
+		HF4-2-QIE20_TDCMode
+		HF4-2-Qie20_ck_ph
+		HF4-2-Qie20_ck_ph
+		HF4-2-Qie20_ck_ph
+		HF4-2-Qie20_ck_ph
+		HF4-2-Qie20_ck_ph
+		HF4-2-Qie20_ck_ph
+		HF4-2-QIE21_Lvds
+		HF4-2-QIE21_Lvds
+		HF4-2-QIE21_Lvds
+		HF4-2-QIE21_Lvds
+		HF4-2-QIE21_Lvds
+		HF4-2-QIE21_Lvds
+		HF4-2-QIE21_Trim
+		HF4-2-QIE21_Trim
+		HF4-2-QIE21_Trim
+		HF4-2-QIE21_Trim
+		HF4-2-QIE21_Trim
+		HF4-2-QIE21_Trim
+		HF4-2-QIE21_DiscOn
+		HF4-2-QIE21_DiscOn
+		HF4-2-QIE21_DiscOn
+		HF4-2-QIE21_DiscOn
+		HF4-2-QIE21_DiscOn
+		HF4-2-QIE21_DiscOn
+		HF4-2-QIE21_TGain
+		HF4-2-QIE21_TGain
+		HF4-2-QIE21_TGain
+		HF4-2-QIE21_TGain
+		HF4-2-QIE21_TGain
+		HF4-2-QIE21_TGain
+		HF4-2-QIE21_TimingThresholdDAC
+		HF4-2-QIE21_TimingThresholdDAC
+		HF4-2-QIE21_TimingThresholdDAC
+		HF4-2-QIE21_TimingThresholdDAC
+		HF4-2-QIE21_TimingThresholdDAC
+		HF4-2-QIE21_TimingThresholdDAC
+		HF4-2-QIE21_TimingIref
+		HF4-2-QIE21_TimingIref
+		HF4-2-QIE21_TimingIref
+		HF4-2-QIE21_TimingIref
+		HF4-2-QIE21_TimingIref
+		HF4-2-QIE21_TimingIref
+		HF4-2-QIE21_PedestalDAC
+		HF4-2-QIE21_PedestalDAC
+		HF4-2-QIE21_PedestalDAC
+		HF4-2-QIE21_PedestalDAC
+		HF4-2-QIE21_PedestalDAC
+		HF4-2-QIE21_PedestalDAC
+		HF4-2-QIE21_CapID0pedestal
+		HF4-2-QIE21_CapID0pedestal
+		HF4-2-QIE21_CapID0pedestal
+		HF4-2-QIE21_CapID0pedestal
+		HF4-2-QIE21_CapID0pedestal
+		HF4-2-QIE21_CapID0pedestal
+		HF4-2-QIE21_CapID1pedestal
+		HF4-2-QIE21_CapID1pedestal
+		HF4-2-QIE21_CapID1pedestal
+		HF4-2-QIE21_CapID1pedestal
+		HF4-2-QIE21_CapID1pedestal
+		HF4-2-QIE21_CapID1pedestal
+		HF4-2-QIE21_CapID2pedestal
+		HF4-2-QIE21_CapID2pedestal
+		HF4-2-QIE21_CapID2pedestal
+		HF4-2-QIE21_CapID2pedestal
+		HF4-2-QIE21_CapID2pedestal
+		HF4-2-QIE21_CapID2pedestal
+		HF4-2-QIE21_CapID3pedestal
+		HF4-2-QIE21_CapID3pedestal
+		HF4-2-QIE21_CapID3pedestal
+		HF4-2-QIE21_CapID3pedestal
+		HF4-2-QIE21_CapID3pedestal
+		HF4-2-QIE21_CapID3pedestal
+		HF4-2-QIE21_FixRange
+		HF4-2-QIE21_FixRange
+		HF4-2-QIE21_FixRange
+		HF4-2-QIE21_FixRange
+		HF4-2-QIE21_FixRange
+		HF4-2-QIE21_FixRange
+		HF4-2-QIE21_RangeSet
+		HF4-2-QIE21_RangeSet
+		HF4-2-QIE21_RangeSet
+		HF4-2-QIE21_RangeSet
+		HF4-2-QIE21_RangeSet
+		HF4-2-QIE21_RangeSet
+		HF4-2-QIE21_ChargeInjectDAC
+		HF4-2-QIE21_ChargeInjectDAC
+		HF4-2-QIE21_ChargeInjectDAC
+		HF4-2-QIE21_ChargeInjectDAC
+		HF4-2-QIE21_ChargeInjectDAC
+		HF4-2-QIE21_ChargeInjectDAC
+		HF4-2-QIE21_RinSel
+		HF4-2-QIE21_RinSel
+		HF4-2-QIE21_RinSel
+		HF4-2-QIE21_RinSel
+		HF4-2-QIE21_RinSel
+		HF4-2-QIE21_RinSel
+		HF4-2-QIE21_Idcset
+		HF4-2-QIE21_Idcset
+		HF4-2-QIE21_Idcset
+		HF4-2-QIE21_Idcset
+		HF4-2-QIE21_Idcset
+		HF4-2-QIE21_Idcset
+		HF4-2-QIE21_CalMode
+		HF4-2-QIE21_CalMode
+		HF4-2-QIE21_CalMode
+		HF4-2-QIE21_CalMode
+		HF4-2-QIE21_CalMode
+		HF4-2-QIE21_CalMode
+		HF4-2-QIE21_CkOutEn
+		HF4-2-QIE21_CkOutEn
+		HF4-2-QIE21_CkOutEn
+		HF4-2-QIE21_CkOutEn
+		HF4-2-QIE21_CkOutEn
+		HF4-2-QIE21_CkOutEn
+		HF4-2-QIE21_TDCMode
+		HF4-2-QIE21_TDCMode
+		HF4-2-QIE21_TDCMode
+		HF4-2-QIE21_TDCMode
+		HF4-2-QIE21_TDCMode
+		HF4-2-QIE21_TDCMode
+		HF4-2-Qie21_ck_ph
+		HF4-2-Qie21_ck_ph
+		HF4-2-Qie21_ck_ph
+		HF4-2-Qie21_ck_ph
+		HF4-2-Qie21_ck_ph
+		HF4-2-Qie21_ck_ph
+		HF4-2-QIE22_Lvds
+		HF4-2-QIE22_Lvds
+		HF4-2-QIE22_Lvds
+		HF4-2-QIE22_Lvds
+		HF4-2-QIE22_Lvds
+		HF4-2-QIE22_Lvds
+		HF4-2-QIE22_Trim
+		HF4-2-QIE22_Trim
+		HF4-2-QIE22_Trim
+		HF4-2-QIE22_Trim
+		HF4-2-QIE22_Trim
+		HF4-2-QIE22_Trim
+		HF4-2-QIE22_DiscOn
+		HF4-2-QIE22_DiscOn
+		HF4-2-QIE22_DiscOn
+		HF4-2-QIE22_DiscOn
+		HF4-2-QIE22_DiscOn
+		HF4-2-QIE22_DiscOn
+		HF4-2-QIE22_TGain
+		HF4-2-QIE22_TGain
+		HF4-2-QIE22_TGain
+		HF4-2-QIE22_TGain
+		HF4-2-QIE22_TGain
+		HF4-2-QIE22_TGain
+		HF4-2-QIE22_TimingThresholdDAC
+		HF4-2-QIE22_TimingThresholdDAC
+		HF4-2-QIE22_TimingThresholdDAC
+		HF4-2-QIE22_TimingThresholdDAC
+		HF4-2-QIE22_TimingThresholdDAC
+		HF4-2-QIE22_TimingThresholdDAC
+		HF4-2-QIE22_TimingIref
+		HF4-2-QIE22_TimingIref
+		HF4-2-QIE22_TimingIref
+		HF4-2-QIE22_TimingIref
+		HF4-2-QIE22_TimingIref
+		HF4-2-QIE22_TimingIref
+		HF4-2-QIE22_PedestalDAC
+		HF4-2-QIE22_PedestalDAC
+		HF4-2-QIE22_PedestalDAC
+		HF4-2-QIE22_PedestalDAC
+		HF4-2-QIE22_PedestalDAC
+		HF4-2-QIE22_PedestalDAC
+		HF4-2-QIE22_CapID0pedestal
+		HF4-2-QIE22_CapID0pedestal
+		HF4-2-QIE22_CapID0pedestal
+		HF4-2-QIE22_CapID0pedestal
+		HF4-2-QIE22_CapID0pedestal
+		HF4-2-QIE22_CapID0pedestal
+		HF4-2-QIE22_CapID1pedestal
+		HF4-2-QIE22_CapID1pedestal
+		HF4-2-QIE22_CapID1pedestal
+		HF4-2-QIE22_CapID1pedestal
+		HF4-2-QIE22_CapID1pedestal
+		HF4-2-QIE22_CapID1pedestal
+		HF4-2-QIE22_CapID2pedestal
+		HF4-2-QIE22_CapID2pedestal
+		HF4-2-QIE22_CapID2pedestal
+		HF4-2-QIE22_CapID2pedestal
+		HF4-2-QIE22_CapID2pedestal
+		HF4-2-QIE22_CapID2pedestal
+		HF4-2-QIE22_CapID3pedestal
+		HF4-2-QIE22_CapID3pedestal
+		HF4-2-QIE22_CapID3pedestal
+		HF4-2-QIE22_CapID3pedestal
+		HF4-2-QIE22_CapID3pedestal
+		HF4-2-QIE22_CapID3pedestal
+		HF4-2-QIE22_FixRange
+		HF4-2-QIE22_FixRange
+		HF4-2-QIE22_FixRange
+		HF4-2-QIE22_FixRange
+		HF4-2-QIE22_FixRange
+		HF4-2-QIE22_FixRange
+		HF4-2-QIE22_RangeSet
+		HF4-2-QIE22_RangeSet
+		HF4-2-QIE22_RangeSet
+		HF4-2-QIE22_RangeSet
+		HF4-2-QIE22_RangeSet
+		HF4-2-QIE22_RangeSet
+		HF4-2-QIE22_ChargeInjectDAC
+		HF4-2-QIE22_ChargeInjectDAC
+		HF4-2-QIE22_ChargeInjectDAC
+		HF4-2-QIE22_ChargeInjectDAC
+		HF4-2-QIE22_ChargeInjectDAC
+		HF4-2-QIE22_ChargeInjectDAC
+		HF4-2-QIE22_RinSel
+		HF4-2-QIE22_RinSel
+		HF4-2-QIE22_RinSel
+		HF4-2-QIE22_RinSel
+		HF4-2-QIE22_RinSel
+		HF4-2-QIE22_RinSel
+		HF4-2-QIE22_Idcset
+		HF4-2-QIE22_Idcset
+		HF4-2-QIE22_Idcset
+		HF4-2-QIE22_Idcset
+		HF4-2-QIE22_Idcset
+		HF4-2-QIE22_Idcset
+		HF4-2-QIE22_CalMode
+		HF4-2-QIE22_CalMode
+		HF4-2-QIE22_CalMode
+		HF4-2-QIE22_CalMode
+		HF4-2-QIE22_CalMode
+		HF4-2-QIE22_CalMode
+		HF4-2-QIE22_CkOutEn
+		HF4-2-QIE22_CkOutEn
+		HF4-2-QIE22_CkOutEn
+		HF4-2-QIE22_CkOutEn
+		HF4-2-QIE22_CkOutEn
+		HF4-2-QIE22_CkOutEn
+		HF4-2-QIE22_TDCMode
+		HF4-2-QIE22_TDCMode
+		HF4-2-QIE22_TDCMode
+		HF4-2-QIE22_TDCMode
+		HF4-2-QIE22_TDCMode
+		HF4-2-QIE22_TDCMode
+		HF4-2-Qie22_ck_ph
+		HF4-2-Qie22_ck_ph
+		HF4-2-Qie22_ck_ph
+		HF4-2-Qie22_ck_ph
+		HF4-2-Qie22_ck_ph
+		HF4-2-Qie22_ck_ph
+		HF4-2-QIE23_Lvds
+		HF4-2-QIE23_Lvds
+		HF4-2-QIE23_Lvds
+		HF4-2-QIE23_Lvds
+		HF4-2-QIE23_Lvds
+		HF4-2-QIE23_Lvds
+		HF4-2-QIE23_Trim
+		HF4-2-QIE23_Trim
+		HF4-2-QIE23_Trim
+		HF4-2-QIE23_Trim
+		HF4-2-QIE23_Trim
+		HF4-2-QIE23_Trim
+		HF4-2-QIE23_DiscOn
+		HF4-2-QIE23_DiscOn
+		HF4-2-QIE23_DiscOn
+		HF4-2-QIE23_DiscOn
+		HF4-2-QIE23_DiscOn
+		HF4-2-QIE23_DiscOn
+		HF4-2-QIE23_TGain
+		HF4-2-QIE23_TGain
+		HF4-2-QIE23_TGain
+		HF4-2-QIE23_TGain
+		HF4-2-QIE23_TGain
+		HF4-2-QIE23_TGain
+		HF4-2-QIE23_TimingThresholdDAC
+		HF4-2-QIE23_TimingThresholdDAC
+		HF4-2-QIE23_TimingThresholdDAC
+		HF4-2-QIE23_TimingThresholdDAC
+		HF4-2-QIE23_TimingThresholdDAC
+		HF4-2-QIE23_TimingThresholdDAC
+		HF4-2-QIE23_TimingIref
+		HF4-2-QIE23_TimingIref
+		HF4-2-QIE23_TimingIref
+		HF4-2-QIE23_TimingIref
+		HF4-2-QIE23_TimingIref
+		HF4-2-QIE23_TimingIref
+		HF4-2-QIE23_PedestalDAC
+		HF4-2-QIE23_PedestalDAC
+		HF4-2-QIE23_PedestalDAC
+		HF4-2-QIE23_PedestalDAC
+		HF4-2-QIE23_PedestalDAC
+		HF4-2-QIE23_PedestalDAC
+		HF4-2-QIE23_CapID0pedestal
+		HF4-2-QIE23_CapID0pedestal
+		HF4-2-QIE23_CapID0pedestal
+		HF4-2-QIE23_CapID0pedestal
+		HF4-2-QIE23_CapID0pedestal
+		HF4-2-QIE23_CapID0pedestal
+		HF4-2-QIE23_CapID1pedestal
+		HF4-2-QIE23_CapID1pedestal
+		HF4-2-QIE23_CapID1pedestal
+		HF4-2-QIE23_CapID1pedestal
+		HF4-2-QIE23_CapID1pedestal
+		HF4-2-QIE23_CapID1pedestal
+		HF4-2-QIE23_CapID2pedestal
+		HF4-2-QIE23_CapID2pedestal
+		HF4-2-QIE23_CapID2pedestal
+		HF4-2-QIE23_CapID2pedestal
+		HF4-2-QIE23_CapID2pedestal
+		HF4-2-QIE23_CapID2pedestal
+		HF4-2-QIE23_CapID3pedestal
+		HF4-2-QIE23_CapID3pedestal
+		HF4-2-QIE23_CapID3pedestal
+		HF4-2-QIE23_CapID3pedestal
+		HF4-2-QIE23_CapID3pedestal
+		HF4-2-QIE23_CapID3pedestal
+		HF4-2-QIE23_FixRange
+		HF4-2-QIE23_FixRange
+		HF4-2-QIE23_FixRange
+		HF4-2-QIE23_FixRange
+		HF4-2-QIE23_FixRange
+		HF4-2-QIE23_FixRange
+		HF4-2-QIE23_RangeSet
+		HF4-2-QIE23_RangeSet
+		HF4-2-QIE23_RangeSet
+		HF4-2-QIE23_RangeSet
+		HF4-2-QIE23_RangeSet
+		HF4-2-QIE23_RangeSet
+		HF4-2-QIE23_ChargeInjectDAC
+		HF4-2-QIE23_ChargeInjectDAC
+		HF4-2-QIE23_ChargeInjectDAC
+		HF4-2-QIE23_ChargeInjectDAC
+		HF4-2-QIE23_ChargeInjectDAC
+		HF4-2-QIE23_ChargeInjectDAC
+		HF4-2-QIE23_RinSel
+		HF4-2-QIE23_RinSel
+		HF4-2-QIE23_RinSel
+		HF4-2-QIE23_RinSel
+		HF4-2-QIE23_RinSel
+		HF4-2-QIE23_RinSel
+		HF4-2-QIE23_Idcset
+		HF4-2-QIE23_Idcset
+		HF4-2-QIE23_Idcset
+		HF4-2-QIE23_Idcset
+		HF4-2-QIE23_Idcset
+		HF4-2-QIE23_Idcset
+		HF4-2-QIE23_CalMode
+		HF4-2-QIE23_CalMode
+		HF4-2-QIE23_CalMode
+		HF4-2-QIE23_CalMode
+		HF4-2-QIE23_CalMode
+		HF4-2-QIE23_CalMode
+		HF4-2-QIE23_CkOutEn
+		HF4-2-QIE23_CkOutEn
+		HF4-2-QIE23_CkOutEn
+		HF4-2-QIE23_CkOutEn
+		HF4-2-QIE23_CkOutEn
+		HF4-2-QIE23_CkOutEn
+		HF4-2-QIE23_TDCMode
+		HF4-2-QIE23_TDCMode
+		HF4-2-QIE23_TDCMode
+		HF4-2-QIE23_TDCMode
+		HF4-2-QIE23_TDCMode
+		HF4-2-QIE23_TDCMode
+		HF4-2-Qie23_ck_ph
+		HF4-2-Qie23_ck_ph
+		HF4-2-Qie23_ck_ph
+		HF4-2-Qie23_ck_ph
+		HF4-2-Qie23_ck_ph
+		HF4-2-Qie23_ck_ph
+		HF4-2-QIE24_Lvds
+		HF4-2-QIE24_Lvds
+		HF4-2-QIE24_Lvds
+		HF4-2-QIE24_Lvds
+		HF4-2-QIE24_Lvds
+		HF4-2-QIE24_Lvds
+		HF4-2-QIE24_Trim
+		HF4-2-QIE24_Trim
+		HF4-2-QIE24_Trim
+		HF4-2-QIE24_Trim
+		HF4-2-QIE24_Trim
+		HF4-2-QIE24_Trim
+		HF4-2-QIE24_DiscOn
+		HF4-2-QIE24_DiscOn
+		HF4-2-QIE24_DiscOn
+		HF4-2-QIE24_DiscOn
+		HF4-2-QIE24_DiscOn
+		HF4-2-QIE24_DiscOn
+		HF4-2-QIE24_TGain
+		HF4-2-QIE24_TGain
+		HF4-2-QIE24_TGain
+		HF4-2-QIE24_TGain
+		HF4-2-QIE24_TGain
+		HF4-2-QIE24_TGain
+		HF4-2-QIE24_TimingThresholdDAC
+		HF4-2-QIE24_TimingThresholdDAC
+		HF4-2-QIE24_TimingThresholdDAC
+		HF4-2-QIE24_TimingThresholdDAC
+		HF4-2-QIE24_TimingThresholdDAC
+		HF4-2-QIE24_TimingThresholdDAC
+		HF4-2-QIE24_TimingIref
+		HF4-2-QIE24_TimingIref
+		HF4-2-QIE24_TimingIref
+		HF4-2-QIE24_TimingIref
+		HF4-2-QIE24_TimingIref
+		HF4-2-QIE24_TimingIref
+		HF4-2-QIE24_PedestalDAC
+		HF4-2-QIE24_PedestalDAC
+		HF4-2-QIE24_PedestalDAC
+		HF4-2-QIE24_PedestalDAC
+		HF4-2-QIE24_PedestalDAC
+		HF4-2-QIE24_PedestalDAC
+		HF4-2-QIE24_CapID0pedestal
+		HF4-2-QIE24_CapID0pedestal
+		HF4-2-QIE24_CapID0pedestal
+		HF4-2-QIE24_CapID0pedestal
+		HF4-2-QIE24_CapID0pedestal
+		HF4-2-QIE24_CapID0pedestal
+		HF4-2-QIE24_CapID1pedestal
+		HF4-2-QIE24_CapID1pedestal
+		HF4-2-QIE24_CapID1pedestal
+		HF4-2-QIE24_CapID1pedestal
+		HF4-2-QIE24_CapID1pedestal
+		HF4-2-QIE24_CapID1pedestal
+		HF4-2-QIE24_CapID2pedestal
+		HF4-2-QIE24_CapID2pedestal
+		HF4-2-QIE24_CapID2pedestal
+		HF4-2-QIE24_CapID2pedestal
+		HF4-2-QIE24_CapID2pedestal
+		HF4-2-QIE24_CapID2pedestal
+		HF4-2-QIE24_CapID3pedestal
+		HF4-2-QIE24_CapID3pedestal
+		HF4-2-QIE24_CapID3pedestal
+		HF4-2-QIE24_CapID3pedestal
+		HF4-2-QIE24_CapID3pedestal
+		HF4-2-QIE24_CapID3pedestal
+		HF4-2-QIE24_FixRange
+		HF4-2-QIE24_FixRange
+		HF4-2-QIE24_FixRange
+		HF4-2-QIE24_FixRange
+		HF4-2-QIE24_FixRange
+		HF4-2-QIE24_FixRange
+		HF4-2-QIE24_RangeSet
+		HF4-2-QIE24_RangeSet
+		HF4-2-QIE24_RangeSet
+		HF4-2-QIE24_RangeSet
+		HF4-2-QIE24_RangeSet
+		HF4-2-QIE24_RangeSet
+		HF4-2-QIE24_ChargeInjectDAC
+		HF4-2-QIE24_ChargeInjectDAC
+		HF4-2-QIE24_ChargeInjectDAC
+		HF4-2-QIE24_ChargeInjectDAC
+		HF4-2-QIE24_ChargeInjectDAC
+		HF4-2-QIE24_ChargeInjectDAC
+		HF4-2-QIE24_RinSel
+		HF4-2-QIE24_RinSel
+		HF4-2-QIE24_RinSel
+		HF4-2-QIE24_RinSel
+		HF4-2-QIE24_RinSel
+		HF4-2-QIE24_RinSel
+		HF4-2-QIE24_Idcset
+		HF4-2-QIE24_Idcset
+		HF4-2-QIE24_Idcset
+		HF4-2-QIE24_Idcset
+		HF4-2-QIE24_Idcset
+		HF4-2-QIE24_Idcset
+		HF4-2-QIE24_CalMode
+		HF4-2-QIE24_CalMode
+		HF4-2-QIE24_CalMode
+		HF4-2-QIE24_CalMode
+		HF4-2-QIE24_CalMode
+		HF4-2-QIE24_CalMode
+		HF4-2-QIE24_CkOutEn
+		HF4-2-QIE24_CkOutEn
+		HF4-2-QIE24_CkOutEn
+		HF4-2-QIE24_CkOutEn
+		HF4-2-QIE24_CkOutEn
+		HF4-2-QIE24_CkOutEn
+		HF4-2-QIE24_TDCMode
+		HF4-2-QIE24_TDCMode
+		HF4-2-QIE24_TDCMode
+		HF4-2-QIE24_TDCMode
+		HF4-2-QIE24_TDCMode
+		HF4-2-QIE24_TDCMode
+		HF4-2-Qie24_ck_ph
+		HF4-2-Qie24_ck_ph
+		HF4-2-Qie24_ck_ph
+		HF4-2-Qie24_ck_ph
+		HF4-2-Qie24_ck_ph
+		HF4-2-Qie24_ck_ph
+		HF4-2-iTop_CntrReg_CImode
+		HF4-2-iTop_CntrReg_CImode
+		HF4-2-iTop_CntrReg_CImode
+		HF4-2-iTop_CntrReg_CImode
+		HF4-2-iTop_CntrReg_CImode
+		HF4-2-iTop_CntrReg_CImode
+		HF4-2-iTop_CntrReg_InternalQIER
+		HF4-2-iTop_CntrReg_InternalQIER
+		HF4-2-iTop_CntrReg_InternalQIER
+		HF4-2-iTop_CntrReg_InternalQIER
+		HF4-2-iTop_CntrReg_InternalQIER
+		HF4-2-iTop_CntrReg_InternalQIER
+		HF4-2-iTop_CntrReg_OrbHistoClear
+		HF4-2-iTop_CntrReg_OrbHistoClear
+		HF4-2-iTop_CntrReg_OrbHistoClear
+		HF4-2-iTop_CntrReg_OrbHistoClear
+		HF4-2-iTop_CntrReg_OrbHistoClear
+		HF4-2-iTop_CntrReg_OrbHistoClear
+		HF4-2-iTop_CntrReg_OrbHistoRun
+		HF4-2-iTop_CntrReg_OrbHistoRun
+		HF4-2-iTop_CntrReg_OrbHistoRun
+		HF4-2-iTop_CntrReg_OrbHistoRun
+		HF4-2-iTop_CntrReg_OrbHistoRun
+		HF4-2-iTop_CntrReg_OrbHistoRun
+		HF4-2-iTop_CntrReg_WrEn_InputSpy
+		HF4-2-iTop_CntrReg_WrEn_InputSpy
+		HF4-2-iTop_CntrReg_WrEn_InputSpy
+		HF4-2-iTop_CntrReg_WrEn_InputSpy
+		HF4-2-iTop_CntrReg_WrEn_InputSpy
+		HF4-2-iTop_CntrReg_WrEn_InputSpy
+		HF4-2-iTop_AddrToSERDES
+		HF4-2-iTop_AddrToSERDES
+		HF4-2-iTop_AddrToSERDES
+		HF4-2-iTop_AddrToSERDES
+		HF4-2-iTop_AddrToSERDES
+		HF4-2-iTop_AddrToSERDES
+		HF4-2-iTop_CtrlToSERDES_i2c_go
+		HF4-2-iTop_CtrlToSERDES_i2c_go
+		HF4-2-iTop_CtrlToSERDES_i2c_go
+		HF4-2-iTop_CtrlToSERDES_i2c_go
+		HF4-2-iTop_CtrlToSERDES_i2c_go
+		HF4-2-iTop_CtrlToSERDES_i2c_go
+		HF4-2-iTop_CtrlToSERDES_i2c_write
+		HF4-2-iTop_CtrlToSERDES_i2c_write
+		HF4-2-iTop_CtrlToSERDES_i2c_write
+		HF4-2-iTop_CtrlToSERDES_i2c_write
+		HF4-2-iTop_CtrlToSERDES_i2c_write
+		HF4-2-iTop_CtrlToSERDES_i2c_write
+		HF4-2-iTop_DataToSERDES
+		HF4-2-iTop_DataToSERDES
+		HF4-2-iTop_DataToSERDES
+		HF4-2-iTop_DataToSERDES
+		HF4-2-iTop_DataToSERDES
+		HF4-2-iTop_DataToSERDES
+		HF4-2-iTop_LinkTestMode
+		HF4-2-iTop_LinkTestMode
+		HF4-2-iTop_LinkTestMode
+		HF4-2-iTop_LinkTestMode
+		HF4-2-iTop_LinkTestMode
+		HF4-2-iTop_LinkTestMode
+		HF4-2-iTop_LinkTestPattern
+		HF4-2-iTop_LinkTestPattern
+		HF4-2-iTop_LinkTestPattern
+		HF4-2-iTop_LinkTestPattern
+		HF4-2-iTop_LinkTestPattern
+		HF4-2-iTop_LinkTestPattern
+		HF4-2-iTop_scratch
+		HF4-2-iTop_scratch
+		HF4-2-iTop_scratch
+		HF4-2-iTop_scratch
+		HF4-2-iTop_scratch
+		HF4-2-iTop_scratch
+		HF4-2-iTop_UniqueID
+		HF4-2-iTop_UniqueID
+		HF4-2-iTop_UniqueID
+		HF4-2-iTop_UniqueID
+		HF4-2-iTop_UniqueID
+		HF4-2-iTop_UniqueID
+		HF4-2-iBot_CntrReg_CImode
+		HF4-2-iBot_CntrReg_CImode
+		HF4-2-iBot_CntrReg_CImode
+		HF4-2-iBot_CntrReg_CImode
+		HF4-2-iBot_CntrReg_CImode
+		HF4-2-iBot_CntrReg_CImode
+		HF4-2-iBot_CntrReg_InternalQIER
+		HF4-2-iBot_CntrReg_InternalQIER
+		HF4-2-iBot_CntrReg_InternalQIER
+		HF4-2-iBot_CntrReg_InternalQIER
+		HF4-2-iBot_CntrReg_InternalQIER
+		HF4-2-iBot_CntrReg_InternalQIER
+		HF4-2-iBot_CntrReg_OrbHistoClear
+		HF4-2-iBot_CntrReg_OrbHistoClear
+		HF4-2-iBot_CntrReg_OrbHistoClear
+		HF4-2-iBot_CntrReg_OrbHistoClear
+		HF4-2-iBot_CntrReg_OrbHistoClear
+		HF4-2-iBot_CntrReg_OrbHistoClear
+		HF4-2-iBot_CntrReg_OrbHistoRun
+		HF4-2-iBot_CntrReg_OrbHistoRun
+		HF4-2-iBot_CntrReg_OrbHistoRun
+		HF4-2-iBot_CntrReg_OrbHistoRun
+		HF4-2-iBot_CntrReg_OrbHistoRun
+		HF4-2-iBot_CntrReg_OrbHistoRun
+		HF4-2-iBot_CntrReg_WrEn_InputSpy
+		HF4-2-iBot_CntrReg_WrEn_InputSpy
+		HF4-2-iBot_CntrReg_WrEn_InputSpy
+		HF4-2-iBot_CntrReg_WrEn_InputSpy
+		HF4-2-iBot_CntrReg_WrEn_InputSpy
+		HF4-2-iBot_CntrReg_WrEn_InputSpy
+		HF4-2-iBot_AddrToSERDES
+		HF4-2-iBot_AddrToSERDES
+		HF4-2-iBot_AddrToSERDES
+		HF4-2-iBot_AddrToSERDES
+		HF4-2-iBot_AddrToSERDES
+		HF4-2-iBot_AddrToSERDES
+		HF4-2-iBot_CtrlToSERDES_i2c_go
+		HF4-2-iBot_CtrlToSERDES_i2c_go
+		HF4-2-iBot_CtrlToSERDES_i2c_go
+		HF4-2-iBot_CtrlToSERDES_i2c_go
+		HF4-2-iBot_CtrlToSERDES_i2c_go
+		HF4-2-iBot_CtrlToSERDES_i2c_go
+		HF4-2-iBot_CtrlToSERDES_i2c_write
+		HF4-2-iBot_CtrlToSERDES_i2c_write
+		HF4-2-iBot_CtrlToSERDES_i2c_write
+		HF4-2-iBot_CtrlToSERDES_i2c_write
+		HF4-2-iBot_CtrlToSERDES_i2c_write
+		HF4-2-iBot_CtrlToSERDES_i2c_write
+		HF4-2-iBot_DataToSERDES
+		HF4-2-iBot_DataToSERDES
+		HF4-2-iBot_DataToSERDES
+		HF4-2-iBot_DataToSERDES
+		HF4-2-iBot_DataToSERDES
+		HF4-2-iBot_DataToSERDES
+		HF4-2-iBot_LinkTestMode
+		HF4-2-iBot_LinkTestMode
+		HF4-2-iBot_LinkTestMode
+		HF4-2-iBot_LinkTestMode
+		HF4-2-iBot_LinkTestMode
+		HF4-2-iBot_LinkTestMode
+		HF4-2-iBot_LinkTestPattern
+		HF4-2-iBot_LinkTestPattern
+		HF4-2-iBot_LinkTestPattern
+		HF4-2-iBot_LinkTestPattern
+		HF4-2-iBot_LinkTestPattern
+		HF4-2-iBot_LinkTestPattern
+		HF4-2-iBot_scratch
+		HF4-2-iBot_scratch
+		HF4-2-iBot_scratch
+		HF4-2-iBot_scratch
+		HF4-2-iBot_scratch
+		HF4-2-iBot_scratch
+		HF4-2-iBot_UniqueID
+		HF4-2-iBot_UniqueID
+		HF4-2-iBot_UniqueID
+		HF4-2-iBot_UniqueID
+		HF4-2-iBot_UniqueID
+		HF4-2-iBot_UniqueID
+
+====== SUMMARY ============================
+[OK] There were no errors.
+
+===========================================
+
+Saving output to /nfshome0/elhughes/public/data/at_results/0xab000000_0xba0aae70/at_reg/151127_135058 ...
+	[OK]
+[OK] :: put HF4-2-QIE1_Lvds 0x1 -> OK == get HF4-2-QIE1_Lvds -> 1
+[OK] :: put HF4-2-QIE1_Lvds 0x1 -> OK == get HF4-2-QIE1_Lvds -> 1
+[OK] :: put HF4-2-QIE1_Lvds 0x0 -> OK == get HF4-2-QIE1_Lvds -> 0
+[OK] :: put HF4-2-QIE1_Trim 0x2 -> OK == get HF4-2-QIE1_Trim -> 2
+[OK] :: put HF4-2-QIE1_Trim 0x0 -> OK == get HF4-2-QIE1_Trim -> 0
+[OK] :: put HF4-2-QIE1_Trim 0x2 -> OK == get HF4-2-QIE1_Trim -> 2
+[OK] :: put HF4-2-QIE1_DiscOn 0x1 -> OK == get HF4-2-QIE1_DiscOn -> 1
+[OK] :: put HF4-2-QIE1_DiscOn 0x0 -> OK == get HF4-2-QIE1_DiscOn -> 0
+[OK] :: put HF4-2-QIE1_DiscOn 0x0 -> OK == get HF4-2-QIE1_DiscOn -> 0
+[OK] :: put HF4-2-QIE1_TGain 0x1 -> OK == get HF4-2-QIE1_TGain -> 1
+[OK] :: put HF4-2-QIE1_TGain 0x1 -> OK == get HF4-2-QIE1_TGain -> 1
+[OK] :: put HF4-2-QIE1_TGain 0x1 -> OK == get HF4-2-QIE1_TGain -> 1
+[OK] :: put HF4-2-QIE1_TimingThresholdDAC 0x3 -> OK == get HF4-2-QIE1_TimingThresholdDAC -> 3
+[OK] :: put HF4-2-QIE1_TimingThresholdDAC 0x46 -> OK == get HF4-2-QIE1_TimingThresholdDAC -> 46
+[OK] :: put HF4-2-QIE1_TimingThresholdDAC 0x6d -> OK == get HF4-2-QIE1_TimingThresholdDAC -> 6d
+[OK] :: put HF4-2-QIE1_TimingIref 0x2 -> OK == get HF4-2-QIE1_TimingIref -> 2
+[OK] :: put HF4-2-QIE1_TimingIref 0x4 -> OK == get HF4-2-QIE1_TimingIref -> 4
+[OK] :: put HF4-2-QIE1_TimingIref 0x0 -> OK == get HF4-2-QIE1_TimingIref -> 0
+[OK] :: put HF4-2-QIE1_PedestalDAC 0x11 -> OK == get HF4-2-QIE1_PedestalDAC -> 11
+[OK] :: put HF4-2-QIE1_PedestalDAC 0x1e -> OK == get HF4-2-QIE1_PedestalDAC -> 1e
+[OK] :: put HF4-2-QIE1_PedestalDAC 0x18 -> OK == get HF4-2-QIE1_PedestalDAC -> 18
+[OK] :: put HF4-2-QIE1_CapID0pedestal 0x3 -> OK == get HF4-2-QIE1_CapID0pedestal -> 3
+[OK] :: put HF4-2-QIE1_CapID0pedestal 0x5 -> OK == get HF4-2-QIE1_CapID0pedestal -> 5
+[OK] :: put HF4-2-QIE1_CapID0pedestal 0x2 -> OK == get HF4-2-QIE1_CapID0pedestal -> 2
+[OK] :: put HF4-2-QIE1_CapID1pedestal 0x0 -> OK == get HF4-2-QIE1_CapID1pedestal -> 0
+[OK] :: put HF4-2-QIE1_CapID1pedestal 0x5 -> OK == get HF4-2-QIE1_CapID1pedestal -> 5
+[OK] :: put HF4-2-QIE1_CapID1pedestal 0x3 -> OK == get HF4-2-QIE1_CapID1pedestal -> 3
+[OK] :: put HF4-2-QIE1_CapID2pedestal 0x0 -> OK == get HF4-2-QIE1_CapID2pedestal -> 0
+[OK] :: put HF4-2-QIE1_CapID2pedestal 0x3 -> OK == get HF4-2-QIE1_CapID2pedestal -> 3
+[OK] :: put HF4-2-QIE1_CapID2pedestal 0x3 -> OK == get HF4-2-QIE1_CapID2pedestal -> 3
+[OK] :: put HF4-2-QIE1_CapID3pedestal 0x8 -> OK == get HF4-2-QIE1_CapID3pedestal -> 8
+[OK] :: put HF4-2-QIE1_CapID3pedestal 0x5 -> OK == get HF4-2-QIE1_CapID3pedestal -> 5
+[OK] :: put HF4-2-QIE1_CapID3pedestal 0x5 -> OK == get HF4-2-QIE1_CapID3pedestal -> 5
+[OK] :: put HF4-2-QIE1_FixRange 0x1 -> OK == get HF4-2-QIE1_FixRange -> 1
+[OK] :: put HF4-2-QIE1_FixRange 0x1 -> OK == get HF4-2-QIE1_FixRange -> 1
+[OK] :: put HF4-2-QIE1_FixRange 0x0 -> OK == get HF4-2-QIE1_FixRange -> 0
+[OK] :: put HF4-2-QIE1_RangeSet 0x0 -> OK == get HF4-2-QIE1_RangeSet -> 0
+[OK] :: put HF4-2-QIE1_RangeSet 0x0 -> OK == get HF4-2-QIE1_RangeSet -> 0
+[OK] :: put HF4-2-QIE1_RangeSet 0x2 -> OK == get HF4-2-QIE1_RangeSet -> 2
+[OK] :: put HF4-2-QIE1_ChargeInjectDAC 0x1 -> OK == get HF4-2-QIE1_ChargeInjectDAC -> 1
+[OK] :: put HF4-2-QIE1_ChargeInjectDAC 0x0 -> OK == get HF4-2-QIE1_ChargeInjectDAC -> 0
+[OK] :: put HF4-2-QIE1_ChargeInjectDAC 0x4 -> OK == get HF4-2-QIE1_ChargeInjectDAC -> 4
+[OK] :: put HF4-2-QIE1_RinSel 0x2 -> OK == get HF4-2-QIE1_RinSel -> 2
+[OK] :: put HF4-2-QIE1_RinSel 0x3 -> OK == get HF4-2-QIE1_RinSel -> 3
+[OK] :: put HF4-2-QIE1_RinSel 0x5 -> OK == get HF4-2-QIE1_RinSel -> 5
+[OK] :: put HF4-2-QIE1_Idcset 0xf -> OK == get HF4-2-QIE1_Idcset -> f
+[OK] :: put HF4-2-QIE1_Idcset 0xe -> OK == get HF4-2-QIE1_Idcset -> e
+[OK] :: put HF4-2-QIE1_Idcset 0x1 -> OK == get HF4-2-QIE1_Idcset -> 1
+[OK] :: put HF4-2-QIE1_CalMode 0x0 -> OK == get HF4-2-QIE1_CalMode -> 0
+[OK] :: put HF4-2-QIE1_CalMode 0x1 -> OK == get HF4-2-QIE1_CalMode -> 1
+[OK] :: put HF4-2-QIE1_CalMode 0x0 -> OK == get HF4-2-QIE1_CalMode -> 0
+[OK] :: put HF4-2-QIE1_CkOutEn 0x0 -> OK == get HF4-2-QIE1_CkOutEn -> 0
+[OK] :: put HF4-2-QIE1_CkOutEn 0x0 -> OK == get HF4-2-QIE1_CkOutEn -> 0
+[OK] :: put HF4-2-QIE1_CkOutEn 0x1 -> OK == get HF4-2-QIE1_CkOutEn -> 1
+[OK] :: put HF4-2-QIE1_TDCMode 0x1 -> OK == get HF4-2-QIE1_TDCMode -> 1
+[OK] :: put HF4-2-QIE1_TDCMode 0x1 -> OK == get HF4-2-QIE1_TDCMode -> 1
+[OK] :: put HF4-2-QIE1_TDCMode 0x0 -> OK == get HF4-2-QIE1_TDCMode -> 0
+[OK] :: put HF4-2-Qie1_ck_ph 0x1 -> OK == get HF4-2-Qie1_ck_ph -> 1
+[OK] :: put HF4-2-Qie1_ck_ph 0x4 -> OK == get HF4-2-Qie1_ck_ph -> 4
+[OK] :: put HF4-2-Qie1_ck_ph 0x5 -> OK == get HF4-2-Qie1_ck_ph -> 5
+[OK] :: put HF4-2-QIE2_Lvds 0x1 -> OK == get HF4-2-QIE2_Lvds -> 1
+[OK] :: put HF4-2-QIE2_Lvds 0x0 -> OK == get HF4-2-QIE2_Lvds -> 0
+[OK] :: put HF4-2-QIE2_Lvds 0x0 -> OK == get HF4-2-QIE2_Lvds -> 0
+[OK] :: put HF4-2-QIE2_Trim 0x1 -> OK == get HF4-2-QIE2_Trim -> 1
+[OK] :: put HF4-2-QIE2_Trim 0x0 -> OK == get HF4-2-QIE2_Trim -> 0
+[OK] :: put HF4-2-QIE2_Trim 0x2 -> OK == get HF4-2-QIE2_Trim -> 2
+[OK] :: put HF4-2-QIE2_DiscOn 0x0 -> OK == get HF4-2-QIE2_DiscOn -> 0
+[OK] :: put HF4-2-QIE2_DiscOn 0x0 -> OK == get HF4-2-QIE2_DiscOn -> 0
+[OK] :: put HF4-2-QIE2_DiscOn 0x0 -> OK == get HF4-2-QIE2_DiscOn -> 0
+[OK] :: put HF4-2-QIE2_TGain 0x0 -> OK == get HF4-2-QIE2_TGain -> 0
+[OK] :: put HF4-2-QIE2_TGain 0x1 -> OK == get HF4-2-QIE2_TGain -> 1
+[OK] :: put HF4-2-QIE2_TGain 0x1 -> OK == get HF4-2-QIE2_TGain -> 1
+[OK] :: put HF4-2-QIE2_TimingThresholdDAC 0x41 -> OK == get HF4-2-QIE2_TimingThresholdDAC -> 41
+[OK] :: put HF4-2-QIE2_TimingThresholdDAC 0x38 -> OK == get HF4-2-QIE2_TimingThresholdDAC -> 38
+[OK] :: put HF4-2-QIE2_TimingThresholdDAC 0x2f -> OK == get HF4-2-QIE2_TimingThresholdDAC -> 2f
+[OK] :: put HF4-2-QIE2_TimingIref 0x4 -> OK == get HF4-2-QIE2_TimingIref -> 4
+[OK] :: put HF4-2-QIE2_TimingIref 0x3 -> OK == get HF4-2-QIE2_TimingIref -> 3
+[OK] :: put HF4-2-QIE2_TimingIref 0x4 -> OK == get HF4-2-QIE2_TimingIref -> 4
+[OK] :: put HF4-2-QIE2_PedestalDAC 0x19 -> OK == get HF4-2-QIE2_PedestalDAC -> 19
+[OK] :: put HF4-2-QIE2_PedestalDAC 0x1a -> OK == get HF4-2-QIE2_PedestalDAC -> 1a
+[OK] :: put HF4-2-QIE2_PedestalDAC 0x2 -> OK == get HF4-2-QIE2_PedestalDAC -> 2
+[OK] :: put HF4-2-QIE2_CapID0pedestal 0x3 -> OK == get HF4-2-QIE2_CapID0pedestal -> 3
+[OK] :: put HF4-2-QIE2_CapID0pedestal 0x6 -> OK == get HF4-2-QIE2_CapID0pedestal -> 6
+[OK] :: put HF4-2-QIE2_CapID0pedestal 0x6 -> OK == get HF4-2-QIE2_CapID0pedestal -> 6
+[OK] :: put HF4-2-QIE2_CapID1pedestal 0x5 -> OK == get HF4-2-QIE2_CapID1pedestal -> 5
+[OK] :: put HF4-2-QIE2_CapID1pedestal 0x7 -> OK == get HF4-2-QIE2_CapID1pedestal -> 7
+[OK] :: put HF4-2-QIE2_CapID1pedestal 0x2 -> OK == get HF4-2-QIE2_CapID1pedestal -> 2
+[OK] :: put HF4-2-QIE2_CapID2pedestal 0x1 -> OK == get HF4-2-QIE2_CapID2pedestal -> 1
+[OK] :: put HF4-2-QIE2_CapID2pedestal 0x3 -> OK == get HF4-2-QIE2_CapID2pedestal -> 3
+[OK] :: put HF4-2-QIE2_CapID2pedestal 0x5 -> OK == get HF4-2-QIE2_CapID2pedestal -> 5
+[OK] :: put HF4-2-QIE2_CapID3pedestal 0x6 -> OK == get HF4-2-QIE2_CapID3pedestal -> 6
+[OK] :: put HF4-2-QIE2_CapID3pedestal 0x0 -> OK == get HF4-2-QIE2_CapID3pedestal -> 0
+[OK] :: put HF4-2-QIE2_CapID3pedestal 0x1 -> OK == get HF4-2-QIE2_CapID3pedestal -> 1
+[OK] :: put HF4-2-QIE2_FixRange 0x1 -> OK == get HF4-2-QIE2_FixRange -> 1
+[OK] :: put HF4-2-QIE2_FixRange 0x1 -> OK == get HF4-2-QIE2_FixRange -> 1
+[OK] :: put HF4-2-QIE2_FixRange 0x1 -> OK == get HF4-2-QIE2_FixRange -> 1
+[OK] :: put HF4-2-QIE2_RangeSet 0x2 -> OK == get HF4-2-QIE2_RangeSet -> 2
+[OK] :: put HF4-2-QIE2_RangeSet 0x0 -> OK == get HF4-2-QIE2_RangeSet -> 0
+[OK] :: put HF4-2-QIE2_RangeSet 0x2 -> OK == get HF4-2-QIE2_RangeSet -> 2
+[OK] :: put HF4-2-QIE2_ChargeInjectDAC 0x1 -> OK == get HF4-2-QIE2_ChargeInjectDAC -> 1
+[OK] :: put HF4-2-QIE2_ChargeInjectDAC 0x3 -> OK == get HF4-2-QIE2_ChargeInjectDAC -> 3
+[OK] :: put HF4-2-QIE2_ChargeInjectDAC 0x4 -> OK == get HF4-2-QIE2_ChargeInjectDAC -> 4
+[OK] :: put HF4-2-QIE2_RinSel 0x4 -> OK == get HF4-2-QIE2_RinSel -> 4
+[OK] :: put HF4-2-QIE2_RinSel 0x7 -> OK == get HF4-2-QIE2_RinSel -> 7
+[OK] :: put HF4-2-QIE2_RinSel 0x3 -> OK == get HF4-2-QIE2_RinSel -> 3
+[OK] :: put HF4-2-QIE2_Idcset 0x4 -> OK == get HF4-2-QIE2_Idcset -> 4
+[OK] :: put HF4-2-QIE2_Idcset 0x10 -> OK == get HF4-2-QIE2_Idcset -> 10
+[OK] :: put HF4-2-QIE2_Idcset 0x2 -> OK == get HF4-2-QIE2_Idcset -> 2
+[OK] :: put HF4-2-QIE2_CalMode 0x1 -> OK == get HF4-2-QIE2_CalMode -> 1
+[OK] :: put HF4-2-QIE2_CalMode 0x1 -> OK == get HF4-2-QIE2_CalMode -> 1
+[OK] :: put HF4-2-QIE2_CalMode 0x0 -> OK == get HF4-2-QIE2_CalMode -> 0
+[OK] :: put HF4-2-QIE2_CkOutEn 0x1 -> OK == get HF4-2-QIE2_CkOutEn -> 1
+[OK] :: put HF4-2-QIE2_CkOutEn 0x1 -> OK == get HF4-2-QIE2_CkOutEn -> 1
+[OK] :: put HF4-2-QIE2_CkOutEn 0x1 -> OK == get HF4-2-QIE2_CkOutEn -> 1
+[OK] :: put HF4-2-QIE2_TDCMode 0x0 -> OK == get HF4-2-QIE2_TDCMode -> 0
+[OK] :: put HF4-2-QIE2_TDCMode 0x0 -> OK == get HF4-2-QIE2_TDCMode -> 0
+[OK] :: put HF4-2-QIE2_TDCMode 0x1 -> OK == get HF4-2-QIE2_TDCMode -> 1
+[OK] :: put HF4-2-Qie2_ck_ph 0x0 -> OK == get HF4-2-Qie2_ck_ph -> 0
+[OK] :: put HF4-2-Qie2_ck_ph 0x8 -> OK == get HF4-2-Qie2_ck_ph -> 8
+[OK] :: put HF4-2-Qie2_ck_ph 0x7 -> OK == get HF4-2-Qie2_ck_ph -> 7
+[OK] :: put HF4-2-QIE3_Lvds 0x0 -> OK == get HF4-2-QIE3_Lvds -> 0
+[OK] :: put HF4-2-QIE3_Lvds 0x0 -> OK == get HF4-2-QIE3_Lvds -> 0
+[OK] :: put HF4-2-QIE3_Lvds 0x0 -> OK == get HF4-2-QIE3_Lvds -> 0
+[OK] :: put HF4-2-QIE3_Trim 0x1 -> OK == get HF4-2-QIE3_Trim -> 1
+[OK] :: put HF4-2-QIE3_Trim 0x0 -> OK == get HF4-2-QIE3_Trim -> 0
+[OK] :: put HF4-2-QIE3_Trim 0x2 -> OK == get HF4-2-QIE3_Trim -> 2
+[OK] :: put HF4-2-QIE3_DiscOn 0x1 -> OK == get HF4-2-QIE3_DiscOn -> 1
+[OK] :: put HF4-2-QIE3_DiscOn 0x1 -> OK == get HF4-2-QIE3_DiscOn -> 1
+[OK] :: put HF4-2-QIE3_DiscOn 0x1 -> OK == get HF4-2-QIE3_DiscOn -> 1
+[OK] :: put HF4-2-QIE3_TGain 0x0 -> OK == get HF4-2-QIE3_TGain -> 0
+[OK] :: put HF4-2-QIE3_TGain 0x0 -> OK == get HF4-2-QIE3_TGain -> 0
+[OK] :: put HF4-2-QIE3_TGain 0x0 -> OK == get HF4-2-QIE3_TGain -> 0
+[OK] :: put HF4-2-QIE3_TimingThresholdDAC 0x25 -> OK == get HF4-2-QIE3_TimingThresholdDAC -> 25
+[OK] :: put HF4-2-QIE3_TimingThresholdDAC 0x20 -> OK == get HF4-2-QIE3_TimingThresholdDAC -> 20
+[OK] :: put HF4-2-QIE3_TimingThresholdDAC 0x73 -> OK == get HF4-2-QIE3_TimingThresholdDAC -> 73
+[OK] :: put HF4-2-QIE3_TimingIref 0x1 -> OK == get HF4-2-QIE3_TimingIref -> 1
+[OK] :: put HF4-2-QIE3_TimingIref 0x3 -> OK == get HF4-2-QIE3_TimingIref -> 3
+[OK] :: put HF4-2-QIE3_TimingIref 0x3 -> OK == get HF4-2-QIE3_TimingIref -> 3
+[OK] :: put HF4-2-QIE3_PedestalDAC 0xa -> OK == get HF4-2-QIE3_PedestalDAC -> a
+[OK] :: put HF4-2-QIE3_PedestalDAC 0x16 -> OK == get HF4-2-QIE3_PedestalDAC -> 16
+[OK] :: put HF4-2-QIE3_PedestalDAC 0x11 -> OK == get HF4-2-QIE3_PedestalDAC -> 11
+[OK] :: put HF4-2-QIE3_CapID0pedestal 0x3 -> OK == get HF4-2-QIE3_CapID0pedestal -> 3
+[OK] :: put HF4-2-QIE3_CapID0pedestal 0x4 -> OK == get HF4-2-QIE3_CapID0pedestal -> 4
+[OK] :: put HF4-2-QIE3_CapID0pedestal 0x2 -> OK == get HF4-2-QIE3_CapID0pedestal -> 2
+[OK] :: put HF4-2-QIE3_CapID1pedestal 0x7 -> OK == get HF4-2-QIE3_CapID1pedestal -> 7
+[OK] :: put HF4-2-QIE3_CapID1pedestal 0x7 -> OK == get HF4-2-QIE3_CapID1pedestal -> 7
+[OK] :: put HF4-2-QIE3_CapID1pedestal 0x1 -> OK == get HF4-2-QIE3_CapID1pedestal -> 1
+[OK] :: put HF4-2-QIE3_CapID2pedestal 0x4 -> OK == get HF4-2-QIE3_CapID2pedestal -> 4
+[OK] :: put HF4-2-QIE3_CapID2pedestal 0x2 -> OK == get HF4-2-QIE3_CapID2pedestal -> 2
+[OK] :: put HF4-2-QIE3_CapID2pedestal 0x0 -> OK == get HF4-2-QIE3_CapID2pedestal -> 0
+[OK] :: put HF4-2-QIE3_CapID3pedestal 0x0 -> OK == get HF4-2-QIE3_CapID3pedestal -> 0
+[OK] :: put HF4-2-QIE3_CapID3pedestal 0x1 -> OK == get HF4-2-QIE3_CapID3pedestal -> 1
+[OK] :: put HF4-2-QIE3_CapID3pedestal 0x6 -> OK == get HF4-2-QIE3_CapID3pedestal -> 6
+[OK] :: put HF4-2-QIE3_FixRange 0x0 -> OK == get HF4-2-QIE3_FixRange -> 0
+[OK] :: put HF4-2-QIE3_FixRange 0x1 -> OK == get HF4-2-QIE3_FixRange -> 1
+[OK] :: put HF4-2-QIE3_FixRange 0x0 -> OK == get HF4-2-QIE3_FixRange -> 0
+[OK] :: put HF4-2-QIE3_RangeSet 0x0 -> OK == get HF4-2-QIE3_RangeSet -> 0
+[OK] :: put HF4-2-QIE3_RangeSet 0x0 -> OK == get HF4-2-QIE3_RangeSet -> 0
+[OK] :: put HF4-2-QIE3_RangeSet 0x1 -> OK == get HF4-2-QIE3_RangeSet -> 1
+[OK] :: put HF4-2-QIE3_ChargeInjectDAC 0x3 -> OK == get HF4-2-QIE3_ChargeInjectDAC -> 3
+[OK] :: put HF4-2-QIE3_ChargeInjectDAC 0x0 -> OK == get HF4-2-QIE3_ChargeInjectDAC -> 0
+[OK] :: put HF4-2-QIE3_ChargeInjectDAC 0x2 -> OK == get HF4-2-QIE3_ChargeInjectDAC -> 2
+[OK] :: put HF4-2-QIE3_RinSel 0x8 -> OK == get HF4-2-QIE3_RinSel -> 8
+[OK] :: put HF4-2-QIE3_RinSel 0x7 -> OK == get HF4-2-QIE3_RinSel -> 7
+[OK] :: put HF4-2-QIE3_RinSel 0x4 -> OK == get HF4-2-QIE3_RinSel -> 4
+[OK] :: put HF4-2-QIE3_Idcset 0x0 -> OK == get HF4-2-QIE3_Idcset -> 0
+[OK] :: put HF4-2-QIE3_Idcset 0x8 -> OK == get HF4-2-QIE3_Idcset -> 8
+[OK] :: put HF4-2-QIE3_Idcset 0xa -> OK == get HF4-2-QIE3_Idcset -> a
+[OK] :: put HF4-2-QIE3_CalMode 0x1 -> OK == get HF4-2-QIE3_CalMode -> 1
+[OK] :: put HF4-2-QIE3_CalMode 0x1 -> OK == get HF4-2-QIE3_CalMode -> 1
+[OK] :: put HF4-2-QIE3_CalMode 0x1 -> OK == get HF4-2-QIE3_CalMode -> 1
+[OK] :: put HF4-2-QIE3_CkOutEn 0x1 -> OK == get HF4-2-QIE3_CkOutEn -> 1
+[OK] :: put HF4-2-QIE3_CkOutEn 0x0 -> OK == get HF4-2-QIE3_CkOutEn -> 0
+[OK] :: put HF4-2-QIE3_CkOutEn 0x0 -> OK == get HF4-2-QIE3_CkOutEn -> 0
+[OK] :: put HF4-2-QIE3_TDCMode 0x0 -> OK == get HF4-2-QIE3_TDCMode -> 0
+[OK] :: put HF4-2-QIE3_TDCMode 0x1 -> OK == get HF4-2-QIE3_TDCMode -> 1
+[OK] :: put HF4-2-QIE3_TDCMode 0x1 -> OK == get HF4-2-QIE3_TDCMode -> 1
+[OK] :: put HF4-2-Qie3_ck_ph 0x7 -> OK == get HF4-2-Qie3_ck_ph -> 7
+[OK] :: put HF4-2-Qie3_ck_ph 0x7 -> OK == get HF4-2-Qie3_ck_ph -> 7
+[OK] :: put HF4-2-Qie3_ck_ph 0x0 -> OK == get HF4-2-Qie3_ck_ph -> 0
+[OK] :: put HF4-2-QIE4_Lvds 0x1 -> OK == get HF4-2-QIE4_Lvds -> 1
+[OK] :: put HF4-2-QIE4_Lvds 0x1 -> OK == get HF4-2-QIE4_Lvds -> 1
+[OK] :: put HF4-2-QIE4_Lvds 0x0 -> OK == get HF4-2-QIE4_Lvds -> 0
+[OK] :: put HF4-2-QIE4_Trim 0x2 -> OK == get HF4-2-QIE4_Trim -> 2
+[OK] :: put HF4-2-QIE4_Trim 0x2 -> OK == get HF4-2-QIE4_Trim -> 2
+[OK] :: put HF4-2-QIE4_Trim 0x2 -> OK == get HF4-2-QIE4_Trim -> 2
+[OK] :: put HF4-2-QIE4_DiscOn 0x1 -> OK == get HF4-2-QIE4_DiscOn -> 1
+[OK] :: put HF4-2-QIE4_DiscOn 0x0 -> OK == get HF4-2-QIE4_DiscOn -> 0
+[OK] :: put HF4-2-QIE4_DiscOn 0x1 -> OK == get HF4-2-QIE4_DiscOn -> 1
+[OK] :: put HF4-2-QIE4_TGain 0x1 -> OK == get HF4-2-QIE4_TGain -> 1
+[OK] :: put HF4-2-QIE4_TGain 0x1 -> OK == get HF4-2-QIE4_TGain -> 1
+[OK] :: put HF4-2-QIE4_TGain 0x0 -> OK == get HF4-2-QIE4_TGain -> 0
+[OK] :: put HF4-2-QIE4_TimingThresholdDAC 0x66 -> OK == get HF4-2-QIE4_TimingThresholdDAC -> 66
+[OK] :: put HF4-2-QIE4_TimingThresholdDAC 0x13 -> OK == get HF4-2-QIE4_TimingThresholdDAC -> 13
+[OK] :: put HF4-2-QIE4_TimingThresholdDAC 0x21 -> OK == get HF4-2-QIE4_TimingThresholdDAC -> 21
+[OK] :: put HF4-2-QIE4_TimingIref 0x0 -> OK == get HF4-2-QIE4_TimingIref -> 0
+[OK] :: put HF4-2-QIE4_TimingIref 0x2 -> OK == get HF4-2-QIE4_TimingIref -> 2
+[OK] :: put HF4-2-QIE4_TimingIref 0x3 -> OK == get HF4-2-QIE4_TimingIref -> 3
+[OK] :: put HF4-2-QIE4_PedestalDAC 0x14 -> OK == get HF4-2-QIE4_PedestalDAC -> 14
+[OK] :: put HF4-2-QIE4_PedestalDAC 0x4 -> OK == get HF4-2-QIE4_PedestalDAC -> 4
+[OK] :: put HF4-2-QIE4_PedestalDAC 0x8 -> OK == get HF4-2-QIE4_PedestalDAC -> 8
+[OK] :: put HF4-2-QIE4_CapID0pedestal 0x2 -> OK == get HF4-2-QIE4_CapID0pedestal -> 2
+[OK] :: put HF4-2-QIE4_CapID0pedestal 0x2 -> OK == get HF4-2-QIE4_CapID0pedestal -> 2
+[OK] :: put HF4-2-QIE4_CapID0pedestal 0x4 -> OK == get HF4-2-QIE4_CapID0pedestal -> 4
+[OK] :: put HF4-2-QIE4_CapID1pedestal 0x6 -> OK == get HF4-2-QIE4_CapID1pedestal -> 6
+[OK] :: put HF4-2-QIE4_CapID1pedestal 0x4 -> OK == get HF4-2-QIE4_CapID1pedestal -> 4
+[OK] :: put HF4-2-QIE4_CapID1pedestal 0x0 -> OK == get HF4-2-QIE4_CapID1pedestal -> 0
+[OK] :: put HF4-2-QIE4_CapID2pedestal 0x5 -> OK == get HF4-2-QIE4_CapID2pedestal -> 5
+[OK] :: put HF4-2-QIE4_CapID2pedestal 0x1 -> OK == get HF4-2-QIE4_CapID2pedestal -> 1
+[OK] :: put HF4-2-QIE4_CapID2pedestal 0x2 -> OK == get HF4-2-QIE4_CapID2pedestal -> 2
+[OK] :: put HF4-2-QIE4_CapID3pedestal 0x6 -> OK == get HF4-2-QIE4_CapID3pedestal -> 6
+[OK] :: put HF4-2-QIE4_CapID3pedestal 0x8 -> OK == get HF4-2-QIE4_CapID3pedestal -> 8
+[OK] :: put HF4-2-QIE4_CapID3pedestal 0x4 -> OK == get HF4-2-QIE4_CapID3pedestal -> 4
+[OK] :: put HF4-2-QIE4_FixRange 0x1 -> OK == get HF4-2-QIE4_FixRange -> 1
+[OK] :: put HF4-2-QIE4_FixRange 0x0 -> OK == get HF4-2-QIE4_FixRange -> 0
+[OK] :: put HF4-2-QIE4_FixRange 0x1 -> OK == get HF4-2-QIE4_FixRange -> 1
+[OK] :: put HF4-2-QIE4_RangeSet 0x0 -> OK == get HF4-2-QIE4_RangeSet -> 0
+[OK] :: put HF4-2-QIE4_RangeSet 0x2 -> OK == get HF4-2-QIE4_RangeSet -> 2
+[OK] :: put HF4-2-QIE4_RangeSet 0x0 -> OK == get HF4-2-QIE4_RangeSet -> 0
+[OK] :: put HF4-2-QIE4_ChargeInjectDAC 0x3 -> OK == get HF4-2-QIE4_ChargeInjectDAC -> 3
+[OK] :: put HF4-2-QIE4_ChargeInjectDAC 0x3 -> OK == get HF4-2-QIE4_ChargeInjectDAC -> 3
+[OK] :: put HF4-2-QIE4_ChargeInjectDAC 0x3 -> OK == get HF4-2-QIE4_ChargeInjectDAC -> 3
+[OK] :: put HF4-2-QIE4_RinSel 0x4 -> OK == get HF4-2-QIE4_RinSel -> 4
+[OK] :: put HF4-2-QIE4_RinSel 0x7 -> OK == get HF4-2-QIE4_RinSel -> 7
+[OK] :: put HF4-2-QIE4_RinSel 0x5 -> OK == get HF4-2-QIE4_RinSel -> 5
+[OK] :: put HF4-2-QIE4_Idcset 0x9 -> OK == get HF4-2-QIE4_Idcset -> 9
+[OK] :: put HF4-2-QIE4_Idcset 0xf -> OK == get HF4-2-QIE4_Idcset -> f
+[OK] :: put HF4-2-QIE4_Idcset 0xd -> OK == get HF4-2-QIE4_Idcset -> d
+[OK] :: put HF4-2-QIE4_CalMode 0x1 -> OK == get HF4-2-QIE4_CalMode -> 1
+[OK] :: put HF4-2-QIE4_CalMode 0x1 -> OK == get HF4-2-QIE4_CalMode -> 1
+[OK] :: put HF4-2-QIE4_CalMode 0x0 -> OK == get HF4-2-QIE4_CalMode -> 0
+[OK] :: put HF4-2-QIE4_CkOutEn 0x1 -> OK == get HF4-2-QIE4_CkOutEn -> 1
+[OK] :: put HF4-2-QIE4_CkOutEn 0x1 -> OK == get HF4-2-QIE4_CkOutEn -> 1
+[OK] :: put HF4-2-QIE4_CkOutEn 0x1 -> OK == get HF4-2-QIE4_CkOutEn -> 1
+[OK] :: put HF4-2-QIE4_TDCMode 0x0 -> OK == get HF4-2-QIE4_TDCMode -> 0
+[OK] :: put HF4-2-QIE4_TDCMode 0x0 -> OK == get HF4-2-QIE4_TDCMode -> 0
+[OK] :: put HF4-2-QIE4_TDCMode 0x0 -> OK == get HF4-2-QIE4_TDCMode -> 0
+[OK] :: put HF4-2-Qie4_ck_ph 0x5 -> OK == get HF4-2-Qie4_ck_ph -> 5
+[OK] :: put HF4-2-Qie4_ck_ph 0x0 -> OK == get HF4-2-Qie4_ck_ph -> 0
+[OK] :: put HF4-2-Qie4_ck_ph 0x2 -> OK == get HF4-2-Qie4_ck_ph -> 2
+[OK] :: put HF4-2-QIE5_Lvds 0x1 -> OK == get HF4-2-QIE5_Lvds -> 1
+[OK] :: put HF4-2-QIE5_Lvds 0x1 -> OK == get HF4-2-QIE5_Lvds -> 1
+[OK] :: put HF4-2-QIE5_Lvds 0x1 -> OK == get HF4-2-QIE5_Lvds -> 1
+[OK] :: put HF4-2-QIE5_Trim 0x0 -> OK == get HF4-2-QIE5_Trim -> 0
+[OK] :: put HF4-2-QIE5_Trim 0x1 -> OK == get HF4-2-QIE5_Trim -> 1
+[OK] :: put HF4-2-QIE5_Trim 0x0 -> OK == get HF4-2-QIE5_Trim -> 0
+[OK] :: put HF4-2-QIE5_DiscOn 0x0 -> OK == get HF4-2-QIE5_DiscOn -> 0
+[OK] :: put HF4-2-QIE5_DiscOn 0x1 -> OK == get HF4-2-QIE5_DiscOn -> 1
+[OK] :: put HF4-2-QIE5_DiscOn 0x0 -> OK == get HF4-2-QIE5_DiscOn -> 0
+[OK] :: put HF4-2-QIE5_TGain 0x0 -> OK == get HF4-2-QIE5_TGain -> 0
+[OK] :: put HF4-2-QIE5_TGain 0x0 -> OK == get HF4-2-QIE5_TGain -> 0
+[OK] :: put HF4-2-QIE5_TGain 0x1 -> OK == get HF4-2-QIE5_TGain -> 1
+[OK] :: put HF4-2-QIE5_TimingThresholdDAC 0x47 -> OK == get HF4-2-QIE5_TimingThresholdDAC -> 47
+[OK] :: put HF4-2-QIE5_TimingThresholdDAC 0x4e -> OK == get HF4-2-QIE5_TimingThresholdDAC -> 4e
+[OK] :: put HF4-2-QIE5_TimingThresholdDAC 0x38 -> OK == get HF4-2-QIE5_TimingThresholdDAC -> 38
+[OK] :: put HF4-2-QIE5_TimingIref 0x1 -> OK == get HF4-2-QIE5_TimingIref -> 1
+[OK] :: put HF4-2-QIE5_TimingIref 0x4 -> OK == get HF4-2-QIE5_TimingIref -> 4
+[OK] :: put HF4-2-QIE5_TimingIref 0x2 -> OK == get HF4-2-QIE5_TimingIref -> 2
+[OK] :: put HF4-2-QIE5_PedestalDAC 0x20 -> OK == get HF4-2-QIE5_PedestalDAC -> 20
+[OK] :: put HF4-2-QIE5_PedestalDAC 0x1f -> OK == get HF4-2-QIE5_PedestalDAC -> 1f
+[OK] :: put HF4-2-QIE5_PedestalDAC 0x1d -> OK == get HF4-2-QIE5_PedestalDAC -> 1d
+[OK] :: put HF4-2-QIE5_CapID0pedestal 0x1 -> OK == get HF4-2-QIE5_CapID0pedestal -> 1
+[OK] :: put HF4-2-QIE5_CapID0pedestal 0x7 -> OK == get HF4-2-QIE5_CapID0pedestal -> 7
+[OK] :: put HF4-2-QIE5_CapID0pedestal 0x0 -> OK == get HF4-2-QIE5_CapID0pedestal -> 0
+[OK] :: put HF4-2-QIE5_CapID1pedestal 0x4 -> OK == get HF4-2-QIE5_CapID1pedestal -> 4
+[OK] :: put HF4-2-QIE5_CapID1pedestal 0x2 -> OK == get HF4-2-QIE5_CapID1pedestal -> 2
+[OK] :: put HF4-2-QIE5_CapID1pedestal 0x4 -> OK == get HF4-2-QIE5_CapID1pedestal -> 4
+[OK] :: put HF4-2-QIE5_CapID2pedestal 0x5 -> OK == get HF4-2-QIE5_CapID2pedestal -> 5
+[OK] :: put HF4-2-QIE5_CapID2pedestal 0x4 -> OK == get HF4-2-QIE5_CapID2pedestal -> 4
+[OK] :: put HF4-2-QIE5_CapID2pedestal 0x7 -> OK == get HF4-2-QIE5_CapID2pedestal -> 7
+[OK] :: put HF4-2-QIE5_CapID3pedestal 0x1 -> OK == get HF4-2-QIE5_CapID3pedestal -> 1
+[OK] :: put HF4-2-QIE5_CapID3pedestal 0x7 -> OK == get HF4-2-QIE5_CapID3pedestal -> 7
+[OK] :: put HF4-2-QIE5_CapID3pedestal 0x7 -> OK == get HF4-2-QIE5_CapID3pedestal -> 7
+[OK] :: put HF4-2-QIE5_FixRange 0x1 -> OK == get HF4-2-QIE5_FixRange -> 1
+[OK] :: put HF4-2-QIE5_FixRange 0x0 -> OK == get HF4-2-QIE5_FixRange -> 0
+[OK] :: put HF4-2-QIE5_FixRange 0x1 -> OK == get HF4-2-QIE5_FixRange -> 1
+[OK] :: put HF4-2-QIE5_RangeSet 0x0 -> OK == get HF4-2-QIE5_RangeSet -> 0
+[OK] :: put HF4-2-QIE5_RangeSet 0x2 -> OK == get HF4-2-QIE5_RangeSet -> 2
+[OK] :: put HF4-2-QIE5_RangeSet 0x0 -> OK == get HF4-2-QIE5_RangeSet -> 0
+[OK] :: put HF4-2-QIE5_ChargeInjectDAC 0x1 -> OK == get HF4-2-QIE5_ChargeInjectDAC -> 1
+[OK] :: put HF4-2-QIE5_ChargeInjectDAC 0x0 -> OK == get HF4-2-QIE5_ChargeInjectDAC -> 0
+[OK] :: put HF4-2-QIE5_ChargeInjectDAC 0x1 -> OK == get HF4-2-QIE5_ChargeInjectDAC -> 1
+[OK] :: put HF4-2-QIE5_RinSel 0x8 -> OK == get HF4-2-QIE5_RinSel -> 8
+[OK] :: put HF4-2-QIE5_RinSel 0x4 -> OK == get HF4-2-QIE5_RinSel -> 4
+[OK] :: put HF4-2-QIE5_RinSel 0x8 -> OK == get HF4-2-QIE5_RinSel -> 8
+[OK] :: put HF4-2-QIE5_Idcset 0xc -> OK == get HF4-2-QIE5_Idcset -> c
+[OK] :: put HF4-2-QIE5_Idcset 0x7 -> OK == get HF4-2-QIE5_Idcset -> 7
+[OK] :: put HF4-2-QIE5_Idcset 0xa -> OK == get HF4-2-QIE5_Idcset -> a
+[OK] :: put HF4-2-QIE5_CalMode 0x0 -> OK == get HF4-2-QIE5_CalMode -> 0
+[OK] :: put HF4-2-QIE5_CalMode 0x1 -> OK == get HF4-2-QIE5_CalMode -> 1
+[OK] :: put HF4-2-QIE5_CalMode 0x0 -> OK == get HF4-2-QIE5_CalMode -> 0
+[OK] :: put HF4-2-QIE5_CkOutEn 0x1 -> OK == get HF4-2-QIE5_CkOutEn -> 1
+[OK] :: put HF4-2-QIE5_CkOutEn 0x1 -> OK == get HF4-2-QIE5_CkOutEn -> 1
+[OK] :: put HF4-2-QIE5_CkOutEn 0x0 -> OK == get HF4-2-QIE5_CkOutEn -> 0
+[OK] :: put HF4-2-QIE5_TDCMode 0x0 -> OK == get HF4-2-QIE5_TDCMode -> 0
+[OK] :: put HF4-2-QIE5_TDCMode 0x0 -> OK == get HF4-2-QIE5_TDCMode -> 0
+[OK] :: put HF4-2-QIE5_TDCMode 0x0 -> OK == get HF4-2-QIE5_TDCMode -> 0
+[OK] :: put HF4-2-Qie5_ck_ph 0x5 -> OK == get HF4-2-Qie5_ck_ph -> 5
+[OK] :: put HF4-2-Qie5_ck_ph 0x4 -> OK == get HF4-2-Qie5_ck_ph -> 4
+[OK] :: put HF4-2-Qie5_ck_ph 0x7 -> OK == get HF4-2-Qie5_ck_ph -> 7
+[OK] :: put HF4-2-QIE6_Lvds 0x0 -> OK == get HF4-2-QIE6_Lvds -> 0
+[OK] :: put HF4-2-QIE6_Lvds 0x0 -> OK == get HF4-2-QIE6_Lvds -> 0
+[OK] :: put HF4-2-QIE6_Lvds 0x1 -> OK == get HF4-2-QIE6_Lvds -> 1
+[OK] :: put HF4-2-QIE6_Trim 0x1 -> OK == get HF4-2-QIE6_Trim -> 1
+[OK] :: put HF4-2-QIE6_Trim 0x2 -> OK == get HF4-2-QIE6_Trim -> 2
+[OK] :: put HF4-2-QIE6_Trim 0x2 -> OK == get HF4-2-QIE6_Trim -> 2
+[OK] :: put HF4-2-QIE6_DiscOn 0x0 -> OK == get HF4-2-QIE6_DiscOn -> 0
+[OK] :: put HF4-2-QIE6_DiscOn 0x1 -> OK == get HF4-2-QIE6_DiscOn -> 1
+[OK] :: put HF4-2-QIE6_DiscOn 0x1 -> OK == get HF4-2-QIE6_DiscOn -> 1
+[OK] :: put HF4-2-QIE6_TGain 0x0 -> OK == get HF4-2-QIE6_TGain -> 0
+[OK] :: put HF4-2-QIE6_TGain 0x0 -> OK == get HF4-2-QIE6_TGain -> 0
+[OK] :: put HF4-2-QIE6_TGain 0x0 -> OK == get HF4-2-QIE6_TGain -> 0
+[OK] :: put HF4-2-QIE6_TimingThresholdDAC 0x2d -> OK == get HF4-2-QIE6_TimingThresholdDAC -> 2d
+[OK] :: put HF4-2-QIE6_TimingThresholdDAC 0x59 -> OK == get HF4-2-QIE6_TimingThresholdDAC -> 59
+[OK] :: put HF4-2-QIE6_TimingThresholdDAC 0x22 -> OK == get HF4-2-QIE6_TimingThresholdDAC -> 22
+[OK] :: put HF4-2-QIE6_TimingIref 0x0 -> OK == get HF4-2-QIE6_TimingIref -> 0
+[OK] :: put HF4-2-QIE6_TimingIref 0x2 -> OK == get HF4-2-QIE6_TimingIref -> 2
+[OK] :: put HF4-2-QIE6_TimingIref 0x2 -> OK == get HF4-2-QIE6_TimingIref -> 2
+[OK] :: put HF4-2-QIE6_PedestalDAC 0x1c -> OK == get HF4-2-QIE6_PedestalDAC -> 1c
+[OK] :: put HF4-2-QIE6_PedestalDAC 0x1f -> OK == get HF4-2-QIE6_PedestalDAC -> 1f
+[OK] :: put HF4-2-QIE6_PedestalDAC 0x1f -> OK == get HF4-2-QIE6_PedestalDAC -> 1f
+[OK] :: put HF4-2-QIE6_CapID0pedestal 0x7 -> OK == get HF4-2-QIE6_CapID0pedestal -> 7
+[OK] :: put HF4-2-QIE6_CapID0pedestal 0x8 -> OK == get HF4-2-QIE6_CapID0pedestal -> 8
+[OK] :: put HF4-2-QIE6_CapID0pedestal 0x6 -> OK == get HF4-2-QIE6_CapID0pedestal -> 6
+[OK] :: put HF4-2-QIE6_CapID1pedestal 0x2 -> OK == get HF4-2-QIE6_CapID1pedestal -> 2
+[OK] :: put HF4-2-QIE6_CapID1pedestal 0x8 -> OK == get HF4-2-QIE6_CapID1pedestal -> 8
+[OK] :: put HF4-2-QIE6_CapID1pedestal 0x4 -> OK == get HF4-2-QIE6_CapID1pedestal -> 4
+[OK] :: put HF4-2-QIE6_CapID2pedestal 0x2 -> OK == get HF4-2-QIE6_CapID2pedestal -> 2
+[OK] :: put HF4-2-QIE6_CapID2pedestal 0x4 -> OK == get HF4-2-QIE6_CapID2pedestal -> 4
+[OK] :: put HF4-2-QIE6_CapID2pedestal 0x1 -> OK == get HF4-2-QIE6_CapID2pedestal -> 1
+[OK] :: put HF4-2-QIE6_CapID3pedestal 0x4 -> OK == get HF4-2-QIE6_CapID3pedestal -> 4
+[OK] :: put HF4-2-QIE6_CapID3pedestal 0x3 -> OK == get HF4-2-QIE6_CapID3pedestal -> 3
+[OK] :: put HF4-2-QIE6_CapID3pedestal 0x7 -> OK == get HF4-2-QIE6_CapID3pedestal -> 7
+[OK] :: put HF4-2-QIE6_FixRange 0x0 -> OK == get HF4-2-QIE6_FixRange -> 0
+[OK] :: put HF4-2-QIE6_FixRange 0x0 -> OK == get HF4-2-QIE6_FixRange -> 0
+[OK] :: put HF4-2-QIE6_FixRange 0x0 -> OK == get HF4-2-QIE6_FixRange -> 0
+[OK] :: put HF4-2-QIE6_RangeSet 0x2 -> OK == get HF4-2-QIE6_RangeSet -> 2
+[OK] :: put HF4-2-QIE6_RangeSet 0x2 -> OK == get HF4-2-QIE6_RangeSet -> 2
+[OK] :: put HF4-2-QIE6_RangeSet 0x1 -> OK == get HF4-2-QIE6_RangeSet -> 1
+[OK] :: put HF4-2-QIE6_ChargeInjectDAC 0x4 -> OK == get HF4-2-QIE6_ChargeInjectDAC -> 4
+[OK] :: put HF4-2-QIE6_ChargeInjectDAC 0x2 -> OK == get HF4-2-QIE6_ChargeInjectDAC -> 2
+[OK] :: put HF4-2-QIE6_ChargeInjectDAC 0x4 -> OK == get HF4-2-QIE6_ChargeInjectDAC -> 4
+[OK] :: put HF4-2-QIE6_RinSel 0x6 -> OK == get HF4-2-QIE6_RinSel -> 6
+[OK] :: put HF4-2-QIE6_RinSel 0x8 -> OK == get HF4-2-QIE6_RinSel -> 8
+[OK] :: put HF4-2-QIE6_RinSel 0x5 -> OK == get HF4-2-QIE6_RinSel -> 5
+[OK] :: put HF4-2-QIE6_Idcset 0xe -> OK == get HF4-2-QIE6_Idcset -> e
+[OK] :: put HF4-2-QIE6_Idcset 0xe -> OK == get HF4-2-QIE6_Idcset -> e
+[OK] :: put HF4-2-QIE6_Idcset 0x7 -> OK == get HF4-2-QIE6_Idcset -> 7
+[OK] :: put HF4-2-QIE6_CalMode 0x1 -> OK == get HF4-2-QIE6_CalMode -> 1
+[OK] :: put HF4-2-QIE6_CalMode 0x1 -> OK == get HF4-2-QIE6_CalMode -> 1
+[OK] :: put HF4-2-QIE6_CalMode 0x0 -> OK == get HF4-2-QIE6_CalMode -> 0
+[OK] :: put HF4-2-QIE6_CkOutEn 0x1 -> OK == get HF4-2-QIE6_CkOutEn -> 1
+[OK] :: put HF4-2-QIE6_CkOutEn 0x0 -> OK == get HF4-2-QIE6_CkOutEn -> 0
+[OK] :: put HF4-2-QIE6_CkOutEn 0x0 -> OK == get HF4-2-QIE6_CkOutEn -> 0
+[OK] :: put HF4-2-QIE6_TDCMode 0x0 -> OK == get HF4-2-QIE6_TDCMode -> 0
+[OK] :: put HF4-2-QIE6_TDCMode 0x0 -> OK == get HF4-2-QIE6_TDCMode -> 0
+[OK] :: put HF4-2-QIE6_TDCMode 0x0 -> OK == get HF4-2-QIE6_TDCMode -> 0
+[OK] :: put HF4-2-Qie6_ck_ph 0x1 -> OK == get HF4-2-Qie6_ck_ph -> 1
+[OK] :: put HF4-2-Qie6_ck_ph 0x2 -> OK == get HF4-2-Qie6_ck_ph -> 2
+[OK] :: put HF4-2-Qie6_ck_ph 0x1 -> OK == get HF4-2-Qie6_ck_ph -> 1
+[OK] :: put HF4-2-QIE7_Lvds 0x0 -> OK == get HF4-2-QIE7_Lvds -> 0
+[OK] :: put HF4-2-QIE7_Lvds 0x1 -> OK == get HF4-2-QIE7_Lvds -> 1
+[OK] :: put HF4-2-QIE7_Lvds 0x1 -> OK == get HF4-2-QIE7_Lvds -> 1
+[OK] :: put HF4-2-QIE7_Trim 0x2 -> OK == get HF4-2-QIE7_Trim -> 2
+[OK] :: put HF4-2-QIE7_Trim 0x1 -> OK == get HF4-2-QIE7_Trim -> 1
+[OK] :: put HF4-2-QIE7_Trim 0x2 -> OK == get HF4-2-QIE7_Trim -> 2
+[OK] :: put HF4-2-QIE7_DiscOn 0x0 -> OK == get HF4-2-QIE7_DiscOn -> 0
+[OK] :: put HF4-2-QIE7_DiscOn 0x0 -> OK == get HF4-2-QIE7_DiscOn -> 0
+[OK] :: put HF4-2-QIE7_DiscOn 0x1 -> OK == get HF4-2-QIE7_DiscOn -> 1
+[OK] :: put HF4-2-QIE7_TGain 0x1 -> OK == get HF4-2-QIE7_TGain -> 1
+[OK] :: put HF4-2-QIE7_TGain 0x1 -> OK == get HF4-2-QIE7_TGain -> 1
+[OK] :: put HF4-2-QIE7_TGain 0x1 -> OK == get HF4-2-QIE7_TGain -> 1
+[OK] :: put HF4-2-QIE7_TimingThresholdDAC 0x7c -> OK == get HF4-2-QIE7_TimingThresholdDAC -> 7c
+[OK] :: put HF4-2-QIE7_TimingThresholdDAC 0x77 -> OK == get HF4-2-QIE7_TimingThresholdDAC -> 77
+[OK] :: put HF4-2-QIE7_TimingThresholdDAC 0x3e -> OK == get HF4-2-QIE7_TimingThresholdDAC -> 3e
+[OK] :: put HF4-2-QIE7_TimingIref 0x2 -> OK == get HF4-2-QIE7_TimingIref -> 2
+[OK] :: put HF4-2-QIE7_TimingIref 0x3 -> OK == get HF4-2-QIE7_TimingIref -> 3
+[OK] :: put HF4-2-QIE7_TimingIref 0x3 -> OK == get HF4-2-QIE7_TimingIref -> 3
+[OK] :: put HF4-2-QIE7_PedestalDAC 0xd -> OK == get HF4-2-QIE7_PedestalDAC -> d
+[OK] :: put HF4-2-QIE7_PedestalDAC 0x11 -> OK == get HF4-2-QIE7_PedestalDAC -> 11
+[OK] :: put HF4-2-QIE7_PedestalDAC 0x1c -> OK == get HF4-2-QIE7_PedestalDAC -> 1c
+[OK] :: put HF4-2-QIE7_CapID0pedestal 0x8 -> OK == get HF4-2-QIE7_CapID0pedestal -> 8
+[OK] :: put HF4-2-QIE7_CapID0pedestal 0x1 -> OK == get HF4-2-QIE7_CapID0pedestal -> 1
+[OK] :: put HF4-2-QIE7_CapID0pedestal 0x7 -> OK == get HF4-2-QIE7_CapID0pedestal -> 7
+[OK] :: put HF4-2-QIE7_CapID1pedestal 0x6 -> OK == get HF4-2-QIE7_CapID1pedestal -> 6
+[OK] :: put HF4-2-QIE7_CapID1pedestal 0x3 -> OK == get HF4-2-QIE7_CapID1pedestal -> 3
+[OK] :: put HF4-2-QIE7_CapID1pedestal 0x5 -> OK == get HF4-2-QIE7_CapID1pedestal -> 5
+[OK] :: put HF4-2-QIE7_CapID2pedestal 0x4 -> OK == get HF4-2-QIE7_CapID2pedestal -> 4
+[OK] :: put HF4-2-QIE7_CapID2pedestal 0x6 -> OK == get HF4-2-QIE7_CapID2pedestal -> 6
+[OK] :: put HF4-2-QIE7_CapID2pedestal 0x0 -> OK == get HF4-2-QIE7_CapID2pedestal -> 0
+[OK] :: put HF4-2-QIE7_CapID3pedestal 0x3 -> OK == get HF4-2-QIE7_CapID3pedestal -> 3
+[OK] :: put HF4-2-QIE7_CapID3pedestal 0x6 -> OK == get HF4-2-QIE7_CapID3pedestal -> 6
+[OK] :: put HF4-2-QIE7_CapID3pedestal 0x0 -> OK == get HF4-2-QIE7_CapID3pedestal -> 0
+[OK] :: put HF4-2-QIE7_FixRange 0x1 -> OK == get HF4-2-QIE7_FixRange -> 1
+[OK] :: put HF4-2-QIE7_FixRange 0x1 -> OK == get HF4-2-QIE7_FixRange -> 1
+[OK] :: put HF4-2-QIE7_FixRange 0x1 -> OK == get HF4-2-QIE7_FixRange -> 1
+[OK] :: put HF4-2-QIE7_RangeSet 0x0 -> OK == get HF4-2-QIE7_RangeSet -> 0
+[OK] :: put HF4-2-QIE7_RangeSet 0x2 -> OK == get HF4-2-QIE7_RangeSet -> 2
+[OK] :: put HF4-2-QIE7_RangeSet 0x1 -> OK == get HF4-2-QIE7_RangeSet -> 1
+[OK] :: put HF4-2-QIE7_ChargeInjectDAC 0x3 -> OK == get HF4-2-QIE7_ChargeInjectDAC -> 3
+[OK] :: put HF4-2-QIE7_ChargeInjectDAC 0x2 -> OK == get HF4-2-QIE7_ChargeInjectDAC -> 2
+[OK] :: put HF4-2-QIE7_ChargeInjectDAC 0x3 -> OK == get HF4-2-QIE7_ChargeInjectDAC -> 3
+[OK] :: put HF4-2-QIE7_RinSel 0x6 -> OK == get HF4-2-QIE7_RinSel -> 6
+[OK] :: put HF4-2-QIE7_RinSel 0x4 -> OK == get HF4-2-QIE7_RinSel -> 4
+[OK] :: put HF4-2-QIE7_RinSel 0x7 -> OK == get HF4-2-QIE7_RinSel -> 7
+[OK] :: put HF4-2-QIE7_Idcset 0xb -> OK == get HF4-2-QIE7_Idcset -> b
+[OK] :: put HF4-2-QIE7_Idcset 0xd -> OK == get HF4-2-QIE7_Idcset -> d
+[OK] :: put HF4-2-QIE7_Idcset 0xe -> OK == get HF4-2-QIE7_Idcset -> e
+[OK] :: put HF4-2-QIE7_CalMode 0x1 -> OK == get HF4-2-QIE7_CalMode -> 1
+[OK] :: put HF4-2-QIE7_CalMode 0x0 -> OK == get HF4-2-QIE7_CalMode -> 0
+[OK] :: put HF4-2-QIE7_CalMode 0x0 -> OK == get HF4-2-QIE7_CalMode -> 0
+[OK] :: put HF4-2-QIE7_CkOutEn 0x1 -> OK == get HF4-2-QIE7_CkOutEn -> 1
+[OK] :: put HF4-2-QIE7_CkOutEn 0x0 -> OK == get HF4-2-QIE7_CkOutEn -> 0
+[OK] :: put HF4-2-QIE7_CkOutEn 0x0 -> OK == get HF4-2-QIE7_CkOutEn -> 0
+[OK] :: put HF4-2-QIE7_TDCMode 0x0 -> OK == get HF4-2-QIE7_TDCMode -> 0
+[OK] :: put HF4-2-QIE7_TDCMode 0x0 -> OK == get HF4-2-QIE7_TDCMode -> 0
+[OK] :: put HF4-2-QIE7_TDCMode 0x1 -> OK == get HF4-2-QIE7_TDCMode -> 1
+[OK] :: put HF4-2-Qie7_ck_ph 0x2 -> OK == get HF4-2-Qie7_ck_ph -> 2
+[OK] :: put HF4-2-Qie7_ck_ph 0x8 -> OK == get HF4-2-Qie7_ck_ph -> 8
+[OK] :: put HF4-2-Qie7_ck_ph 0x8 -> OK == get HF4-2-Qie7_ck_ph -> 8
+[OK] :: put HF4-2-QIE8_Lvds 0x0 -> OK == get HF4-2-QIE8_Lvds -> 0
+[OK] :: put HF4-2-QIE8_Lvds 0x1 -> OK == get HF4-2-QIE8_Lvds -> 1
+[OK] :: put HF4-2-QIE8_Lvds 0x0 -> OK == get HF4-2-QIE8_Lvds -> 0
+[OK] :: put HF4-2-QIE8_Trim 0x0 -> OK == get HF4-2-QIE8_Trim -> 0
+[OK] :: put HF4-2-QIE8_Trim 0x1 -> OK == get HF4-2-QIE8_Trim -> 1
+[OK] :: put HF4-2-QIE8_Trim 0x1 -> OK == get HF4-2-QIE8_Trim -> 1
+[OK] :: put HF4-2-QIE8_DiscOn 0x0 -> OK == get HF4-2-QIE8_DiscOn -> 0
+[OK] :: put HF4-2-QIE8_DiscOn 0x0 -> OK == get HF4-2-QIE8_DiscOn -> 0
+[OK] :: put HF4-2-QIE8_DiscOn 0x0 -> OK == get HF4-2-QIE8_DiscOn -> 0
+[OK] :: put HF4-2-QIE8_TGain 0x1 -> OK == get HF4-2-QIE8_TGain -> 1
+[OK] :: put HF4-2-QIE8_TGain 0x1 -> OK == get HF4-2-QIE8_TGain -> 1
+[OK] :: put HF4-2-QIE8_TGain 0x0 -> OK == get HF4-2-QIE8_TGain -> 0
+[OK] :: put HF4-2-QIE8_TimingThresholdDAC 0x50 -> OK == get HF4-2-QIE8_TimingThresholdDAC -> 50
+[OK] :: put HF4-2-QIE8_TimingThresholdDAC 0x22 -> OK == get HF4-2-QIE8_TimingThresholdDAC -> 22
+[OK] :: put HF4-2-QIE8_TimingThresholdDAC 0x1d -> OK == get HF4-2-QIE8_TimingThresholdDAC -> 1d
+[OK] :: put HF4-2-QIE8_TimingIref 0x0 -> OK == get HF4-2-QIE8_TimingIref -> 0
+[OK] :: put HF4-2-QIE8_TimingIref 0x2 -> OK == get HF4-2-QIE8_TimingIref -> 2
+[OK] :: put HF4-2-QIE8_TimingIref 0x2 -> OK == get HF4-2-QIE8_TimingIref -> 2
+[OK] :: put HF4-2-QIE8_PedestalDAC 0xc -> OK == get HF4-2-QIE8_PedestalDAC -> c
+[OK] :: put HF4-2-QIE8_PedestalDAC 0x18 -> OK == get HF4-2-QIE8_PedestalDAC -> 18
+[OK] :: put HF4-2-QIE8_PedestalDAC 0x1b -> OK == get HF4-2-QIE8_PedestalDAC -> 1b
+[OK] :: put HF4-2-QIE8_CapID0pedestal 0x5 -> OK == get HF4-2-QIE8_CapID0pedestal -> 5
+[OK] :: put HF4-2-QIE8_CapID0pedestal 0x6 -> OK == get HF4-2-QIE8_CapID0pedestal -> 6
+[OK] :: put HF4-2-QIE8_CapID0pedestal 0x3 -> OK == get HF4-2-QIE8_CapID0pedestal -> 3
+[OK] :: put HF4-2-QIE8_CapID1pedestal 0x1 -> OK == get HF4-2-QIE8_CapID1pedestal -> 1
+[OK] :: put HF4-2-QIE8_CapID1pedestal 0x8 -> OK == get HF4-2-QIE8_CapID1pedestal -> 8
+[OK] :: put HF4-2-QIE8_CapID1pedestal 0x0 -> OK == get HF4-2-QIE8_CapID1pedestal -> 0
+[OK] :: put HF4-2-QIE8_CapID2pedestal 0x4 -> OK == get HF4-2-QIE8_CapID2pedestal -> 4
+[OK] :: put HF4-2-QIE8_CapID2pedestal 0x2 -> OK == get HF4-2-QIE8_CapID2pedestal -> 2
+[OK] :: put HF4-2-QIE8_CapID2pedestal 0x1 -> OK == get HF4-2-QIE8_CapID2pedestal -> 1
+[OK] :: put HF4-2-QIE8_CapID3pedestal 0x7 -> OK == get HF4-2-QIE8_CapID3pedestal -> 7
+[OK] :: put HF4-2-QIE8_CapID3pedestal 0x2 -> OK == get HF4-2-QIE8_CapID3pedestal -> 2
+[OK] :: put HF4-2-QIE8_CapID3pedestal 0x3 -> OK == get HF4-2-QIE8_CapID3pedestal -> 3
+[OK] :: put HF4-2-QIE8_FixRange 0x0 -> OK == get HF4-2-QIE8_FixRange -> 0
+[OK] :: put HF4-2-QIE8_FixRange 0x1 -> OK == get HF4-2-QIE8_FixRange -> 1
+[OK] :: put HF4-2-QIE8_FixRange 0x0 -> OK == get HF4-2-QIE8_FixRange -> 0
+[OK] :: put HF4-2-QIE8_RangeSet 0x0 -> OK == get HF4-2-QIE8_RangeSet -> 0
+[OK] :: put HF4-2-QIE8_RangeSet 0x0 -> OK == get HF4-2-QIE8_RangeSet -> 0
+[OK] :: put HF4-2-QIE8_RangeSet 0x2 -> OK == get HF4-2-QIE8_RangeSet -> 2
+[OK] :: put HF4-2-QIE8_ChargeInjectDAC 0x1 -> OK == get HF4-2-QIE8_ChargeInjectDAC -> 1
+[OK] :: put HF4-2-QIE8_ChargeInjectDAC 0x3 -> OK == get HF4-2-QIE8_ChargeInjectDAC -> 3
+[OK] :: put HF4-2-QIE8_ChargeInjectDAC 0x3 -> OK == get HF4-2-QIE8_ChargeInjectDAC -> 3
+[OK] :: put HF4-2-QIE8_RinSel 0x6 -> OK == get HF4-2-QIE8_RinSel -> 6
+[OK] :: put HF4-2-QIE8_RinSel 0x6 -> OK == get HF4-2-QIE8_RinSel -> 6
+[OK] :: put HF4-2-QIE8_RinSel 0x7 -> OK == get HF4-2-QIE8_RinSel -> 7
+[OK] :: put HF4-2-QIE8_Idcset 0xe -> OK == get HF4-2-QIE8_Idcset -> e
+[OK] :: put HF4-2-QIE8_Idcset 0x10 -> OK == get HF4-2-QIE8_Idcset -> 10
+[OK] :: put HF4-2-QIE8_Idcset 0x1 -> OK == get HF4-2-QIE8_Idcset -> 1
+[OK] :: put HF4-2-QIE8_CalMode 0x0 -> OK == get HF4-2-QIE8_CalMode -> 0
+[OK] :: put HF4-2-QIE8_CalMode 0x1 -> OK == get HF4-2-QIE8_CalMode -> 1
+[OK] :: put HF4-2-QIE8_CalMode 0x1 -> OK == get HF4-2-QIE8_CalMode -> 1
+[OK] :: put HF4-2-QIE8_CkOutEn 0x1 -> OK == get HF4-2-QIE8_CkOutEn -> 1
+[OK] :: put HF4-2-QIE8_CkOutEn 0x1 -> OK == get HF4-2-QIE8_CkOutEn -> 1
+[OK] :: put HF4-2-QIE8_CkOutEn 0x0 -> OK == get HF4-2-QIE8_CkOutEn -> 0
+[OK] :: put HF4-2-QIE8_TDCMode 0x1 -> OK == get HF4-2-QIE8_TDCMode -> 1
+[OK] :: put HF4-2-QIE8_TDCMode 0x0 -> OK == get HF4-2-QIE8_TDCMode -> 0
+[OK] :: put HF4-2-QIE8_TDCMode 0x1 -> OK == get HF4-2-QIE8_TDCMode -> 1
+[OK] :: put HF4-2-Qie8_ck_ph 0x7 -> OK == get HF4-2-Qie8_ck_ph -> 7
+[OK] :: put HF4-2-Qie8_ck_ph 0x0 -> OK == get HF4-2-Qie8_ck_ph -> 0
+[OK] :: put HF4-2-Qie8_ck_ph 0x6 -> OK == get HF4-2-Qie8_ck_ph -> 6
+[OK] :: put HF4-2-QIE9_Lvds 0x1 -> OK == get HF4-2-QIE9_Lvds -> 1
+[OK] :: put HF4-2-QIE9_Lvds 0x0 -> OK == get HF4-2-QIE9_Lvds -> 0
+[OK] :: put HF4-2-QIE9_Lvds 0x1 -> OK == get HF4-2-QIE9_Lvds -> 1
+[OK] :: put HF4-2-QIE9_Trim 0x0 -> OK == get HF4-2-QIE9_Trim -> 0
+[OK] :: put HF4-2-QIE9_Trim 0x1 -> OK == get HF4-2-QIE9_Trim -> 1
+[OK] :: put HF4-2-QIE9_Trim 0x0 -> OK == get HF4-2-QIE9_Trim -> 0
+[OK] :: put HF4-2-QIE9_DiscOn 0x0 -> OK == get HF4-2-QIE9_DiscOn -> 0
+[OK] :: put HF4-2-QIE9_DiscOn 0x1 -> OK == get HF4-2-QIE9_DiscOn -> 1
+[OK] :: put HF4-2-QIE9_DiscOn 0x0 -> OK == get HF4-2-QIE9_DiscOn -> 0
+[OK] :: put HF4-2-QIE9_TGain 0x1 -> OK == get HF4-2-QIE9_TGain -> 1
+[OK] :: put HF4-2-QIE9_TGain 0x0 -> OK == get HF4-2-QIE9_TGain -> 0
+[OK] :: put HF4-2-QIE9_TGain 0x0 -> OK == get HF4-2-QIE9_TGain -> 0
+[OK] :: put HF4-2-QIE9_TimingThresholdDAC 0x34 -> OK == get HF4-2-QIE9_TimingThresholdDAC -> 34
+[OK] :: put HF4-2-QIE9_TimingThresholdDAC 0x69 -> OK == get HF4-2-QIE9_TimingThresholdDAC -> 69
+[OK] :: put HF4-2-QIE9_TimingThresholdDAC 0x41 -> OK == get HF4-2-QIE9_TimingThresholdDAC -> 41
+[OK] :: put HF4-2-QIE9_TimingIref 0x4 -> OK == get HF4-2-QIE9_TimingIref -> 4
+[OK] :: put HF4-2-QIE9_TimingIref 0x0 -> OK == get HF4-2-QIE9_TimingIref -> 0
+[OK] :: put HF4-2-QIE9_TimingIref 0x2 -> OK == get HF4-2-QIE9_TimingIref -> 2
+[OK] :: put HF4-2-QIE9_PedestalDAC 0xe -> OK == get HF4-2-QIE9_PedestalDAC -> e
+[OK] :: put HF4-2-QIE9_PedestalDAC 0x11 -> OK == get HF4-2-QIE9_PedestalDAC -> 11
+[OK] :: put HF4-2-QIE9_PedestalDAC 0x16 -> OK == get HF4-2-QIE9_PedestalDAC -> 16
+[OK] :: put HF4-2-QIE9_CapID0pedestal 0x2 -> OK == get HF4-2-QIE9_CapID0pedestal -> 2
+[OK] :: put HF4-2-QIE9_CapID0pedestal 0x5 -> OK == get HF4-2-QIE9_CapID0pedestal -> 5
+[OK] :: put HF4-2-QIE9_CapID0pedestal 0x7 -> OK == get HF4-2-QIE9_CapID0pedestal -> 7
+[OK] :: put HF4-2-QIE9_CapID1pedestal 0x6 -> OK == get HF4-2-QIE9_CapID1pedestal -> 6
+[OK] :: put HF4-2-QIE9_CapID1pedestal 0x3 -> OK == get HF4-2-QIE9_CapID1pedestal -> 3
+[OK] :: put HF4-2-QIE9_CapID1pedestal 0x3 -> OK == get HF4-2-QIE9_CapID1pedestal -> 3
+[OK] :: put HF4-2-QIE9_CapID2pedestal 0x5 -> OK == get HF4-2-QIE9_CapID2pedestal -> 5
+[OK] :: put HF4-2-QIE9_CapID2pedestal 0x4 -> OK == get HF4-2-QIE9_CapID2pedestal -> 4
+[OK] :: put HF4-2-QIE9_CapID2pedestal 0x6 -> OK == get HF4-2-QIE9_CapID2pedestal -> 6
+[OK] :: put HF4-2-QIE9_CapID3pedestal 0x2 -> OK == get HF4-2-QIE9_CapID3pedestal -> 2
+[OK] :: put HF4-2-QIE9_CapID3pedestal 0x4 -> OK == get HF4-2-QIE9_CapID3pedestal -> 4
+[OK] :: put HF4-2-QIE9_CapID3pedestal 0x8 -> OK == get HF4-2-QIE9_CapID3pedestal -> 8
+[OK] :: put HF4-2-QIE9_FixRange 0x1 -> OK == get HF4-2-QIE9_FixRange -> 1
+[OK] :: put HF4-2-QIE9_FixRange 0x0 -> OK == get HF4-2-QIE9_FixRange -> 0
+[OK] :: put HF4-2-QIE9_FixRange 0x0 -> OK == get HF4-2-QIE9_FixRange -> 0
+[OK] :: put HF4-2-QIE9_RangeSet 0x1 -> OK == get HF4-2-QIE9_RangeSet -> 1
+[OK] :: put HF4-2-QIE9_RangeSet 0x2 -> OK == get HF4-2-QIE9_RangeSet -> 2
+[OK] :: put HF4-2-QIE9_RangeSet 0x2 -> OK == get HF4-2-QIE9_RangeSet -> 2
+[OK] :: put HF4-2-QIE9_ChargeInjectDAC 0x0 -> OK == get HF4-2-QIE9_ChargeInjectDAC -> 0
+[OK] :: put HF4-2-QIE9_ChargeInjectDAC 0x0 -> OK == get HF4-2-QIE9_ChargeInjectDAC -> 0
+[OK] :: put HF4-2-QIE9_ChargeInjectDAC 0x4 -> OK == get HF4-2-QIE9_ChargeInjectDAC -> 4
+[OK] :: put HF4-2-QIE9_RinSel 0x1 -> OK == get HF4-2-QIE9_RinSel -> 1
+[OK] :: put HF4-2-QIE9_RinSel 0x3 -> OK == get HF4-2-QIE9_RinSel -> 3
+[OK] :: put HF4-2-QIE9_RinSel 0x4 -> OK == get HF4-2-QIE9_RinSel -> 4
+[OK] :: put HF4-2-QIE9_Idcset 0xf -> OK == get HF4-2-QIE9_Idcset -> f
+[OK] :: put HF4-2-QIE9_Idcset 0x4 -> OK == get HF4-2-QIE9_Idcset -> 4
+[OK] :: put HF4-2-QIE9_Idcset 0x6 -> OK == get HF4-2-QIE9_Idcset -> 6
+[OK] :: put HF4-2-QIE9_CalMode 0x0 -> OK == get HF4-2-QIE9_CalMode -> 0
+[OK] :: put HF4-2-QIE9_CalMode 0x1 -> OK == get HF4-2-QIE9_CalMode -> 1
+[OK] :: put HF4-2-QIE9_CalMode 0x1 -> OK == get HF4-2-QIE9_CalMode -> 1
+[OK] :: put HF4-2-QIE9_CkOutEn 0x0 -> OK == get HF4-2-QIE9_CkOutEn -> 0
+[OK] :: put HF4-2-QIE9_CkOutEn 0x1 -> OK == get HF4-2-QIE9_CkOutEn -> 1
+[OK] :: put HF4-2-QIE9_CkOutEn 0x0 -> OK == get HF4-2-QIE9_CkOutEn -> 0
+[OK] :: put HF4-2-QIE9_TDCMode 0x1 -> OK == get HF4-2-QIE9_TDCMode -> 1
+[OK] :: put HF4-2-QIE9_TDCMode 0x0 -> OK == get HF4-2-QIE9_TDCMode -> 0
+[OK] :: put HF4-2-QIE9_TDCMode 0x0 -> OK == get HF4-2-QIE9_TDCMode -> 0
+[OK] :: put HF4-2-Qie9_ck_ph 0x5 -> OK == get HF4-2-Qie9_ck_ph -> 5
+[OK] :: put HF4-2-Qie9_ck_ph 0x1 -> OK == get HF4-2-Qie9_ck_ph -> 1
+[OK] :: put HF4-2-Qie9_ck_ph 0x8 -> OK == get HF4-2-Qie9_ck_ph -> 8
+[OK] :: put HF4-2-QIE10_Lvds 0x0 -> OK == get HF4-2-QIE10_Lvds -> 0
+[OK] :: put HF4-2-QIE10_Lvds 0x0 -> OK == get HF4-2-QIE10_Lvds -> 0
+[OK] :: put HF4-2-QIE10_Lvds 0x0 -> OK == get HF4-2-QIE10_Lvds -> 0
+[OK] :: put HF4-2-QIE10_Trim 0x1 -> OK == get HF4-2-QIE10_Trim -> 1
+[OK] :: put HF4-2-QIE10_Trim 0x0 -> OK == get HF4-2-QIE10_Trim -> 0
+[OK] :: put HF4-2-QIE10_Trim 0x2 -> OK == get HF4-2-QIE10_Trim -> 2
+[OK] :: put HF4-2-QIE10_DiscOn 0x1 -> OK == get HF4-2-QIE10_DiscOn -> 1
+[OK] :: put HF4-2-QIE10_DiscOn 0x0 -> OK == get HF4-2-QIE10_DiscOn -> 0
+[OK] :: put HF4-2-QIE10_DiscOn 0x1 -> OK == get HF4-2-QIE10_DiscOn -> 1
+[OK] :: put HF4-2-QIE10_TGain 0x1 -> OK == get HF4-2-QIE10_TGain -> 1
+[OK] :: put HF4-2-QIE10_TGain 0x0 -> OK == get HF4-2-QIE10_TGain -> 0
+[OK] :: put HF4-2-QIE10_TGain 0x0 -> OK == get HF4-2-QIE10_TGain -> 0
+[OK] :: put HF4-2-QIE10_TimingThresholdDAC 0x2f -> OK == get HF4-2-QIE10_TimingThresholdDAC -> 2f
+[OK] :: put HF4-2-QIE10_TimingThresholdDAC 0x79 -> OK == get HF4-2-QIE10_TimingThresholdDAC -> 79
+[OK] :: put HF4-2-QIE10_TimingThresholdDAC 0x24 -> OK == get HF4-2-QIE10_TimingThresholdDAC -> 24
+[OK] :: put HF4-2-QIE10_TimingIref 0x4 -> OK == get HF4-2-QIE10_TimingIref -> 4
+[OK] :: put HF4-2-QIE10_TimingIref 0x0 -> OK == get HF4-2-QIE10_TimingIref -> 0
+[OK] :: put HF4-2-QIE10_TimingIref 0x0 -> OK == get HF4-2-QIE10_TimingIref -> 0
+[OK] :: put HF4-2-QIE10_PedestalDAC 0x20 -> OK == get HF4-2-QIE10_PedestalDAC -> 20
+[OK] :: put HF4-2-QIE10_PedestalDAC 0x11 -> OK == get HF4-2-QIE10_PedestalDAC -> 11
+[OK] :: put HF4-2-QIE10_PedestalDAC 0x10 -> OK == get HF4-2-QIE10_PedestalDAC -> 10
+[OK] :: put HF4-2-QIE10_CapID0pedestal 0x0 -> OK == get HF4-2-QIE10_CapID0pedestal -> 0
+[OK] :: put HF4-2-QIE10_CapID0pedestal 0x8 -> OK == get HF4-2-QIE10_CapID0pedestal -> 8
+[OK] :: put HF4-2-QIE10_CapID0pedestal 0x2 -> OK == get HF4-2-QIE10_CapID0pedestal -> 2
+[OK] :: put HF4-2-QIE10_CapID1pedestal 0x2 -> OK == get HF4-2-QIE10_CapID1pedestal -> 2
+[OK] :: put HF4-2-QIE10_CapID1pedestal 0x4 -> OK == get HF4-2-QIE10_CapID1pedestal -> 4
+[OK] :: put HF4-2-QIE10_CapID1pedestal 0x6 -> OK == get HF4-2-QIE10_CapID1pedestal -> 6
+[OK] :: put HF4-2-QIE10_CapID2pedestal 0x6 -> OK == get HF4-2-QIE10_CapID2pedestal -> 6
+[OK] :: put HF4-2-QIE10_CapID2pedestal 0x5 -> OK == get HF4-2-QIE10_CapID2pedestal -> 5
+[OK] :: put HF4-2-QIE10_CapID2pedestal 0x5 -> OK == get HF4-2-QIE10_CapID2pedestal -> 5
+[OK] :: put HF4-2-QIE10_CapID3pedestal 0x6 -> OK == get HF4-2-QIE10_CapID3pedestal -> 6
+[OK] :: put HF4-2-QIE10_CapID3pedestal 0x4 -> OK == get HF4-2-QIE10_CapID3pedestal -> 4
+[OK] :: put HF4-2-QIE10_CapID3pedestal 0x2 -> OK == get HF4-2-QIE10_CapID3pedestal -> 2
+[OK] :: put HF4-2-QIE10_FixRange 0x1 -> OK == get HF4-2-QIE10_FixRange -> 1
+[OK] :: put HF4-2-QIE10_FixRange 0x1 -> OK == get HF4-2-QIE10_FixRange -> 1
+[OK] :: put HF4-2-QIE10_FixRange 0x0 -> OK == get HF4-2-QIE10_FixRange -> 0
+[OK] :: put HF4-2-QIE10_RangeSet 0x1 -> OK == get HF4-2-QIE10_RangeSet -> 1
+[OK] :: put HF4-2-QIE10_RangeSet 0x1 -> OK == get HF4-2-QIE10_RangeSet -> 1
+[OK] :: put HF4-2-QIE10_RangeSet 0x1 -> OK == get HF4-2-QIE10_RangeSet -> 1
+[OK] :: put HF4-2-QIE10_ChargeInjectDAC 0x0 -> OK == get HF4-2-QIE10_ChargeInjectDAC -> 0
+[OK] :: put HF4-2-QIE10_ChargeInjectDAC 0x3 -> OK == get HF4-2-QIE10_ChargeInjectDAC -> 3
+[OK] :: put HF4-2-QIE10_ChargeInjectDAC 0x2 -> OK == get HF4-2-QIE10_ChargeInjectDAC -> 2
+[OK] :: put HF4-2-QIE10_RinSel 0x5 -> OK == get HF4-2-QIE10_RinSel -> 5
+[OK] :: put HF4-2-QIE10_RinSel 0x2 -> OK == get HF4-2-QIE10_RinSel -> 2
+[OK] :: put HF4-2-QIE10_RinSel 0x8 -> OK == get HF4-2-QIE10_RinSel -> 8
+[OK] :: put HF4-2-QIE10_Idcset 0x0 -> OK == get HF4-2-QIE10_Idcset -> 0
+[OK] :: put HF4-2-QIE10_Idcset 0x0 -> OK == get HF4-2-QIE10_Idcset -> 0
+[OK] :: put HF4-2-QIE10_Idcset 0xa -> OK == get HF4-2-QIE10_Idcset -> a
+[OK] :: put HF4-2-QIE10_CalMode 0x0 -> OK == get HF4-2-QIE10_CalMode -> 0
+[OK] :: put HF4-2-QIE10_CalMode 0x0 -> OK == get HF4-2-QIE10_CalMode -> 0
+[OK] :: put HF4-2-QIE10_CalMode 0x1 -> OK == get HF4-2-QIE10_CalMode -> 1
+[OK] :: put HF4-2-QIE10_CkOutEn 0x1 -> OK == get HF4-2-QIE10_CkOutEn -> 1
+[OK] :: put HF4-2-QIE10_CkOutEn 0x0 -> OK == get HF4-2-QIE10_CkOutEn -> 0
+[OK] :: put HF4-2-QIE10_CkOutEn 0x1 -> OK == get HF4-2-QIE10_CkOutEn -> 1
+[OK] :: put HF4-2-QIE10_TDCMode 0x0 -> OK == get HF4-2-QIE10_TDCMode -> 0
+[OK] :: put HF4-2-QIE10_TDCMode 0x1 -> OK == get HF4-2-QIE10_TDCMode -> 1
+[OK] :: put HF4-2-QIE10_TDCMode 0x0 -> OK == get HF4-2-QIE10_TDCMode -> 0
+[OK] :: put HF4-2-Qie10_ck_ph 0x0 -> OK == get HF4-2-Qie10_ck_ph -> 0
+[OK] :: put HF4-2-Qie10_ck_ph 0x3 -> OK == get HF4-2-Qie10_ck_ph -> 3
+[OK] :: put HF4-2-Qie10_ck_ph 0x1 -> OK == get HF4-2-Qie10_ck_ph -> 1
+[OK] :: put HF4-2-QIE11_Lvds 0x1 -> OK == get HF4-2-QIE11_Lvds -> 1
+[OK] :: put HF4-2-QIE11_Lvds 0x0 -> OK == get HF4-2-QIE11_Lvds -> 0
+[OK] :: put HF4-2-QIE11_Lvds 0x0 -> OK == get HF4-2-QIE11_Lvds -> 0
+[OK] :: put HF4-2-QIE11_Trim 0x2 -> OK == get HF4-2-QIE11_Trim -> 2
+[OK] :: put HF4-2-QIE11_Trim 0x1 -> OK == get HF4-2-QIE11_Trim -> 1
+[OK] :: put HF4-2-QIE11_Trim 0x2 -> OK == get HF4-2-QIE11_Trim -> 2
+[OK] :: put HF4-2-QIE11_DiscOn 0x1 -> OK == get HF4-2-QIE11_DiscOn -> 1
+[OK] :: put HF4-2-QIE11_DiscOn 0x1 -> OK == get HF4-2-QIE11_DiscOn -> 1
+[OK] :: put HF4-2-QIE11_DiscOn 0x0 -> OK == get HF4-2-QIE11_DiscOn -> 0
+[OK] :: put HF4-2-QIE11_TGain 0x0 -> OK == get HF4-2-QIE11_TGain -> 0
+[OK] :: put HF4-2-QIE11_TGain 0x1 -> OK == get HF4-2-QIE11_TGain -> 1
+[OK] :: put HF4-2-QIE11_TGain 0x1 -> OK == get HF4-2-QIE11_TGain -> 1
+[OK] :: put HF4-2-QIE11_TimingThresholdDAC 0x13 -> OK == get HF4-2-QIE11_TimingThresholdDAC -> 13
+[OK] :: put HF4-2-QIE11_TimingThresholdDAC 0x42 -> OK == get HF4-2-QIE11_TimingThresholdDAC -> 42
+[OK] :: put HF4-2-QIE11_TimingThresholdDAC 0x26 -> OK == get HF4-2-QIE11_TimingThresholdDAC -> 26
+[OK] :: put HF4-2-QIE11_TimingIref 0x0 -> OK == get HF4-2-QIE11_TimingIref -> 0
+[OK] :: put HF4-2-QIE11_TimingIref 0x1 -> OK == get HF4-2-QIE11_TimingIref -> 1
+[OK] :: put HF4-2-QIE11_TimingIref 0x4 -> OK == get HF4-2-QIE11_TimingIref -> 4
+[OK] :: put HF4-2-QIE11_PedestalDAC 0xe -> OK == get HF4-2-QIE11_PedestalDAC -> e
+[OK] :: put HF4-2-QIE11_PedestalDAC 0xd -> OK == get HF4-2-QIE11_PedestalDAC -> d
+[OK] :: put HF4-2-QIE11_PedestalDAC 0x15 -> OK == get HF4-2-QIE11_PedestalDAC -> 15
+[OK] :: put HF4-2-QIE11_CapID0pedestal 0x5 -> OK == get HF4-2-QIE11_CapID0pedestal -> 5
+[OK] :: put HF4-2-QIE11_CapID0pedestal 0x1 -> OK == get HF4-2-QIE11_CapID0pedestal -> 1
+[OK] :: put HF4-2-QIE11_CapID0pedestal 0x8 -> OK == get HF4-2-QIE11_CapID0pedestal -> 8
+[OK] :: put HF4-2-QIE11_CapID1pedestal 0x6 -> OK == get HF4-2-QIE11_CapID1pedestal -> 6
+[OK] :: put HF4-2-QIE11_CapID1pedestal 0x1 -> OK == get HF4-2-QIE11_CapID1pedestal -> 1
+[OK] :: put HF4-2-QIE11_CapID1pedestal 0x8 -> OK == get HF4-2-QIE11_CapID1pedestal -> 8
+[OK] :: put HF4-2-QIE11_CapID2pedestal 0x6 -> OK == get HF4-2-QIE11_CapID2pedestal -> 6
+[OK] :: put HF4-2-QIE11_CapID2pedestal 0x6 -> OK == get HF4-2-QIE11_CapID2pedestal -> 6
+[OK] :: put HF4-2-QIE11_CapID2pedestal 0x1 -> OK == get HF4-2-QIE11_CapID2pedestal -> 1
+[OK] :: put HF4-2-QIE11_CapID3pedestal 0x1 -> OK == get HF4-2-QIE11_CapID3pedestal -> 1
+[OK] :: put HF4-2-QIE11_CapID3pedestal 0x3 -> OK == get HF4-2-QIE11_CapID3pedestal -> 3
+[OK] :: put HF4-2-QIE11_CapID3pedestal 0x1 -> OK == get HF4-2-QIE11_CapID3pedestal -> 1
+[OK] :: put HF4-2-QIE11_FixRange 0x1 -> OK == get HF4-2-QIE11_FixRange -> 1
+[OK] :: put HF4-2-QIE11_FixRange 0x1 -> OK == get HF4-2-QIE11_FixRange -> 1
+[OK] :: put HF4-2-QIE11_FixRange 0x1 -> OK == get HF4-2-QIE11_FixRange -> 1
+[OK] :: put HF4-2-QIE11_RangeSet 0x0 -> OK == get HF4-2-QIE11_RangeSet -> 0
+[OK] :: put HF4-2-QIE11_RangeSet 0x1 -> OK == get HF4-2-QIE11_RangeSet -> 1
+[OK] :: put HF4-2-QIE11_RangeSet 0x2 -> OK == get HF4-2-QIE11_RangeSet -> 2
+[OK] :: put HF4-2-QIE11_ChargeInjectDAC 0x4 -> OK == get HF4-2-QIE11_ChargeInjectDAC -> 4
+[OK] :: put HF4-2-QIE11_ChargeInjectDAC 0x0 -> OK == get HF4-2-QIE11_ChargeInjectDAC -> 0
+[OK] :: put HF4-2-QIE11_ChargeInjectDAC 0x2 -> OK == get HF4-2-QIE11_ChargeInjectDAC -> 2
+[OK] :: put HF4-2-QIE11_RinSel 0x7 -> OK == get HF4-2-QIE11_RinSel -> 7
+[OK] :: put HF4-2-QIE11_RinSel 0x7 -> OK == get HF4-2-QIE11_RinSel -> 7
+[OK] :: put HF4-2-QIE11_RinSel 0x4 -> OK == get HF4-2-QIE11_RinSel -> 4
+[OK] :: put HF4-2-QIE11_Idcset 0xe -> OK == get HF4-2-QIE11_Idcset -> e
+[OK] :: put HF4-2-QIE11_Idcset 0x10 -> OK == get HF4-2-QIE11_Idcset -> 10
+[OK] :: put HF4-2-QIE11_Idcset 0x8 -> OK == get HF4-2-QIE11_Idcset -> 8
+[OK] :: put HF4-2-QIE11_CalMode 0x0 -> OK == get HF4-2-QIE11_CalMode -> 0
+[OK] :: put HF4-2-QIE11_CalMode 0x0 -> OK == get HF4-2-QIE11_CalMode -> 0
+[OK] :: put HF4-2-QIE11_CalMode 0x0 -> OK == get HF4-2-QIE11_CalMode -> 0
+[OK] :: put HF4-2-QIE11_CkOutEn 0x0 -> OK == get HF4-2-QIE11_CkOutEn -> 0
+[OK] :: put HF4-2-QIE11_CkOutEn 0x0 -> OK == get HF4-2-QIE11_CkOutEn -> 0
+[OK] :: put HF4-2-QIE11_CkOutEn 0x1 -> OK == get HF4-2-QIE11_CkOutEn -> 1
+[OK] :: put HF4-2-QIE11_TDCMode 0x0 -> OK == get HF4-2-QIE11_TDCMode -> 0
+[OK] :: put HF4-2-QIE11_TDCMode 0x0 -> OK == get HF4-2-QIE11_TDCMode -> 0
+[OK] :: put HF4-2-QIE11_TDCMode 0x1 -> OK == get HF4-2-QIE11_TDCMode -> 1
+[OK] :: put HF4-2-Qie11_ck_ph 0x0 -> OK == get HF4-2-Qie11_ck_ph -> 0
+[OK] :: put HF4-2-Qie11_ck_ph 0x2 -> OK == get HF4-2-Qie11_ck_ph -> 2
+[OK] :: put HF4-2-Qie11_ck_ph 0x0 -> OK == get HF4-2-Qie11_ck_ph -> 0
+[OK] :: put HF4-2-QIE12_Lvds 0x1 -> OK == get HF4-2-QIE12_Lvds -> 1
+[OK] :: put HF4-2-QIE12_Lvds 0x1 -> OK == get HF4-2-QIE12_Lvds -> 1
+[OK] :: put HF4-2-QIE12_Lvds 0x0 -> OK == get HF4-2-QIE12_Lvds -> 0
+[OK] :: put HF4-2-QIE12_Trim 0x1 -> OK == get HF4-2-QIE12_Trim -> 1
+[OK] :: put HF4-2-QIE12_Trim 0x1 -> OK == get HF4-2-QIE12_Trim -> 1
+[OK] :: put HF4-2-QIE12_Trim 0x0 -> OK == get HF4-2-QIE12_Trim -> 0
+[OK] :: put HF4-2-QIE12_DiscOn 0x0 -> OK == get HF4-2-QIE12_DiscOn -> 0
+[OK] :: put HF4-2-QIE12_DiscOn 0x0 -> OK == get HF4-2-QIE12_DiscOn -> 0
+[OK] :: put HF4-2-QIE12_DiscOn 0x0 -> OK == get HF4-2-QIE12_DiscOn -> 0
+[OK] :: put HF4-2-QIE12_TGain 0x0 -> OK == get HF4-2-QIE12_TGain -> 0
+[OK] :: put HF4-2-QIE12_TGain 0x0 -> OK == get HF4-2-QIE12_TGain -> 0
+[OK] :: put HF4-2-QIE12_TGain 0x0 -> OK == get HF4-2-QIE12_TGain -> 0
+[OK] :: put HF4-2-QIE12_TimingThresholdDAC 0x4 -> OK == get HF4-2-QIE12_TimingThresholdDAC -> 4
+[OK] :: put HF4-2-QIE12_TimingThresholdDAC 0x55 -> OK == get HF4-2-QIE12_TimingThresholdDAC -> 55
+[OK] :: put HF4-2-QIE12_TimingThresholdDAC 0x7c -> OK == get HF4-2-QIE12_TimingThresholdDAC -> 7c
+[OK] :: put HF4-2-QIE12_TimingIref 0x4 -> OK == get HF4-2-QIE12_TimingIref -> 4
+[OK] :: put HF4-2-QIE12_TimingIref 0x2 -> OK == get HF4-2-QIE12_TimingIref -> 2
+[OK] :: put HF4-2-QIE12_TimingIref 0x1 -> OK == get HF4-2-QIE12_TimingIref -> 1
+[OK] :: put HF4-2-QIE12_PedestalDAC 0x16 -> OK == get HF4-2-QIE12_PedestalDAC -> 16
+[OK] :: put HF4-2-QIE12_PedestalDAC 0x9 -> OK == get HF4-2-QIE12_PedestalDAC -> 9
+[OK] :: put HF4-2-QIE12_PedestalDAC 0x3 -> OK == get HF4-2-QIE12_PedestalDAC -> 3
+[OK] :: put HF4-2-QIE12_CapID0pedestal 0x7 -> OK == get HF4-2-QIE12_CapID0pedestal -> 7
+[OK] :: put HF4-2-QIE12_CapID0pedestal 0x1 -> OK == get HF4-2-QIE12_CapID0pedestal -> 1
+[OK] :: put HF4-2-QIE12_CapID0pedestal 0x2 -> OK == get HF4-2-QIE12_CapID0pedestal -> 2
+[OK] :: put HF4-2-QIE12_CapID1pedestal 0x8 -> OK == get HF4-2-QIE12_CapID1pedestal -> 8
+[OK] :: put HF4-2-QIE12_CapID1pedestal 0x7 -> OK == get HF4-2-QIE12_CapID1pedestal -> 7
+[OK] :: put HF4-2-QIE12_CapID1pedestal 0x7 -> OK == get HF4-2-QIE12_CapID1pedestal -> 7
+[OK] :: put HF4-2-QIE12_CapID2pedestal 0x2 -> OK == get HF4-2-QIE12_CapID2pedestal -> 2
+[OK] :: put HF4-2-QIE12_CapID2pedestal 0x7 -> OK == get HF4-2-QIE12_CapID2pedestal -> 7
+[OK] :: put HF4-2-QIE12_CapID2pedestal 0x2 -> OK == get HF4-2-QIE12_CapID2pedestal -> 2
+[OK] :: put HF4-2-QIE12_CapID3pedestal 0x6 -> OK == get HF4-2-QIE12_CapID3pedestal -> 6
+[OK] :: put HF4-2-QIE12_CapID3pedestal 0x0 -> OK == get HF4-2-QIE12_CapID3pedestal -> 0
+[OK] :: put HF4-2-QIE12_CapID3pedestal 0x3 -> OK == get HF4-2-QIE12_CapID3pedestal -> 3
+[OK] :: put HF4-2-QIE12_FixRange 0x0 -> OK == get HF4-2-QIE12_FixRange -> 0
+[OK] :: put HF4-2-QIE12_FixRange 0x0 -> OK == get HF4-2-QIE12_FixRange -> 0
+[OK] :: put HF4-2-QIE12_FixRange 0x0 -> OK == get HF4-2-QIE12_FixRange -> 0
+[OK] :: put HF4-2-QIE12_RangeSet 0x1 -> OK == get HF4-2-QIE12_RangeSet -> 1
+[OK] :: put HF4-2-QIE12_RangeSet 0x1 -> OK == get HF4-2-QIE12_RangeSet -> 1
+[OK] :: put HF4-2-QIE12_RangeSet 0x1 -> OK == get HF4-2-QIE12_RangeSet -> 1
+[OK] :: put HF4-2-QIE12_ChargeInjectDAC 0x4 -> OK == get HF4-2-QIE12_ChargeInjectDAC -> 4
+[OK] :: put HF4-2-QIE12_ChargeInjectDAC 0x3 -> OK == get HF4-2-QIE12_ChargeInjectDAC -> 3
+[OK] :: put HF4-2-QIE12_ChargeInjectDAC 0x3 -> OK == get HF4-2-QIE12_ChargeInjectDAC -> 3
+[OK] :: put HF4-2-QIE12_RinSel 0x3 -> OK == get HF4-2-QIE12_RinSel -> 3
+[OK] :: put HF4-2-QIE12_RinSel 0x1 -> OK == get HF4-2-QIE12_RinSel -> 1
+[OK] :: put HF4-2-QIE12_RinSel 0x1 -> OK == get HF4-2-QIE12_RinSel -> 1
+[OK] :: put HF4-2-QIE12_Idcset 0xb -> OK == get HF4-2-QIE12_Idcset -> b
+[OK] :: put HF4-2-QIE12_Idcset 0xc -> OK == get HF4-2-QIE12_Idcset -> c
+[OK] :: put HF4-2-QIE12_Idcset 0xa -> OK == get HF4-2-QIE12_Idcset -> a
+[OK] :: put HF4-2-QIE12_CalMode 0x0 -> OK == get HF4-2-QIE12_CalMode -> 0
+[OK] :: put HF4-2-QIE12_CalMode 0x0 -> OK == get HF4-2-QIE12_CalMode -> 0
+[OK] :: put HF4-2-QIE12_CalMode 0x1 -> OK == get HF4-2-QIE12_CalMode -> 1
+[OK] :: put HF4-2-QIE12_CkOutEn 0x1 -> OK == get HF4-2-QIE12_CkOutEn -> 1
+[OK] :: put HF4-2-QIE12_CkOutEn 0x0 -> OK == get HF4-2-QIE12_CkOutEn -> 0
+[OK] :: put HF4-2-QIE12_CkOutEn 0x1 -> OK == get HF4-2-QIE12_CkOutEn -> 1
+[OK] :: put HF4-2-QIE12_TDCMode 0x0 -> OK == get HF4-2-QIE12_TDCMode -> 0
+[OK] :: put HF4-2-QIE12_TDCMode 0x1 -> OK == get HF4-2-QIE12_TDCMode -> 1
+[OK] :: put HF4-2-QIE12_TDCMode 0x1 -> OK == get HF4-2-QIE12_TDCMode -> 1
+[OK] :: put HF4-2-Qie12_ck_ph 0x7 -> OK == get HF4-2-Qie12_ck_ph -> 7
+[OK] :: put HF4-2-Qie12_ck_ph 0x2 -> OK == get HF4-2-Qie12_ck_ph -> 2
+[OK] :: put HF4-2-Qie12_ck_ph 0x8 -> OK == get HF4-2-Qie12_ck_ph -> 8
+[OK] :: put HF4-2-QIE13_Lvds 0x0 -> OK == get HF4-2-QIE13_Lvds -> 0
+[OK] :: put HF4-2-QIE13_Lvds 0x0 -> OK == get HF4-2-QIE13_Lvds -> 0
+[OK] :: put HF4-2-QIE13_Lvds 0x1 -> OK == get HF4-2-QIE13_Lvds -> 1
+[OK] :: put HF4-2-QIE13_Trim 0x2 -> OK == get HF4-2-QIE13_Trim -> 2
+[OK] :: put HF4-2-QIE13_Trim 0x0 -> OK == get HF4-2-QIE13_Trim -> 0
+[OK] :: put HF4-2-QIE13_Trim 0x0 -> OK == get HF4-2-QIE13_Trim -> 0
+[OK] :: put HF4-2-QIE13_DiscOn 0x1 -> OK == get HF4-2-QIE13_DiscOn -> 1
+[OK] :: put HF4-2-QIE13_DiscOn 0x1 -> OK == get HF4-2-QIE13_DiscOn -> 1
+[OK] :: put HF4-2-QIE13_DiscOn 0x0 -> OK == get HF4-2-QIE13_DiscOn -> 0
+[OK] :: put HF4-2-QIE13_TGain 0x0 -> OK == get HF4-2-QIE13_TGain -> 0
+[OK] :: put HF4-2-QIE13_TGain 0x1 -> OK == get HF4-2-QIE13_TGain -> 1
+[OK] :: put HF4-2-QIE13_TGain 0x0 -> OK == get HF4-2-QIE13_TGain -> 0
+[OK] :: put HF4-2-QIE13_TimingThresholdDAC 0x7c -> OK == get HF4-2-QIE13_TimingThresholdDAC -> 7c
+[OK] :: put HF4-2-QIE13_TimingThresholdDAC 0x1d -> OK == get HF4-2-QIE13_TimingThresholdDAC -> 1d
+[OK] :: put HF4-2-QIE13_TimingThresholdDAC 0x56 -> OK == get HF4-2-QIE13_TimingThresholdDAC -> 56
+[OK] :: put HF4-2-QIE13_TimingIref 0x1 -> OK == get HF4-2-QIE13_TimingIref -> 1
+[OK] :: put HF4-2-QIE13_TimingIref 0x1 -> OK == get HF4-2-QIE13_TimingIref -> 1
+[OK] :: put HF4-2-QIE13_TimingIref 0x1 -> OK == get HF4-2-QIE13_TimingIref -> 1
+[OK] :: put HF4-2-QIE13_PedestalDAC 0x17 -> OK == get HF4-2-QIE13_PedestalDAC -> 17
+[OK] :: put HF4-2-QIE13_PedestalDAC 0xa -> OK == get HF4-2-QIE13_PedestalDAC -> a
+[OK] :: put HF4-2-QIE13_PedestalDAC 0x12 -> OK == get HF4-2-QIE13_PedestalDAC -> 12
+[OK] :: put HF4-2-QIE13_CapID0pedestal 0x7 -> OK == get HF4-2-QIE13_CapID0pedestal -> 7
+[OK] :: put HF4-2-QIE13_CapID0pedestal 0x1 -> OK == get HF4-2-QIE13_CapID0pedestal -> 1
+[OK] :: put HF4-2-QIE13_CapID0pedestal 0x0 -> OK == get HF4-2-QIE13_CapID0pedestal -> 0
+[OK] :: put HF4-2-QIE13_CapID1pedestal 0x3 -> OK == get HF4-2-QIE13_CapID1pedestal -> 3
+[OK] :: put HF4-2-QIE13_CapID1pedestal 0x2 -> OK == get HF4-2-QIE13_CapID1pedestal -> 2
+[OK] :: put HF4-2-QIE13_CapID1pedestal 0x8 -> OK == get HF4-2-QIE13_CapID1pedestal -> 8
+[OK] :: put HF4-2-QIE13_CapID2pedestal 0x1 -> OK == get HF4-2-QIE13_CapID2pedestal -> 1
+[OK] :: put HF4-2-QIE13_CapID2pedestal 0x8 -> OK == get HF4-2-QIE13_CapID2pedestal -> 8
+[OK] :: put HF4-2-QIE13_CapID2pedestal 0x5 -> OK == get HF4-2-QIE13_CapID2pedestal -> 5
+[OK] :: put HF4-2-QIE13_CapID3pedestal 0x7 -> OK == get HF4-2-QIE13_CapID3pedestal -> 7
+[OK] :: put HF4-2-QIE13_CapID3pedestal 0x8 -> OK == get HF4-2-QIE13_CapID3pedestal -> 8
+[OK] :: put HF4-2-QIE13_CapID3pedestal 0x2 -> OK == get HF4-2-QIE13_CapID3pedestal -> 2
+[OK] :: put HF4-2-QIE13_FixRange 0x0 -> OK == get HF4-2-QIE13_FixRange -> 0
+[OK] :: put HF4-2-QIE13_FixRange 0x1 -> OK == get HF4-2-QIE13_FixRange -> 1
+[OK] :: put HF4-2-QIE13_FixRange 0x1 -> OK == get HF4-2-QIE13_FixRange -> 1
+[OK] :: put HF4-2-QIE13_RangeSet 0x1 -> OK == get HF4-2-QIE13_RangeSet -> 1
+[OK] :: put HF4-2-QIE13_RangeSet 0x1 -> OK == get HF4-2-QIE13_RangeSet -> 1
+[OK] :: put HF4-2-QIE13_RangeSet 0x1 -> OK == get HF4-2-QIE13_RangeSet -> 1
+[OK] :: put HF4-2-QIE13_ChargeInjectDAC 0x3 -> OK == get HF4-2-QIE13_ChargeInjectDAC -> 3
+[OK] :: put HF4-2-QIE13_ChargeInjectDAC 0x3 -> OK == get HF4-2-QIE13_ChargeInjectDAC -> 3
+[OK] :: put HF4-2-QIE13_ChargeInjectDAC 0x2 -> OK == get HF4-2-QIE13_ChargeInjectDAC -> 2
+[OK] :: put HF4-2-QIE13_RinSel 0x0 -> OK == get HF4-2-QIE13_RinSel -> 0
+[OK] :: put HF4-2-QIE13_RinSel 0x6 -> OK == get HF4-2-QIE13_RinSel -> 6
+[OK] :: put HF4-2-QIE13_RinSel 0x5 -> OK == get HF4-2-QIE13_RinSel -> 5
+[OK] :: put HF4-2-QIE13_Idcset 0x10 -> OK == get HF4-2-QIE13_Idcset -> 10
+[OK] :: put HF4-2-QIE13_Idcset 0x8 -> OK == get HF4-2-QIE13_Idcset -> 8
+[OK] :: put HF4-2-QIE13_Idcset 0x4 -> OK == get HF4-2-QIE13_Idcset -> 4
+[OK] :: put HF4-2-QIE13_CalMode 0x1 -> OK == get HF4-2-QIE13_CalMode -> 1
+[OK] :: put HF4-2-QIE13_CalMode 0x0 -> OK == get HF4-2-QIE13_CalMode -> 0
+[OK] :: put HF4-2-QIE13_CalMode 0x0 -> OK == get HF4-2-QIE13_CalMode -> 0
+[OK] :: put HF4-2-QIE13_CkOutEn 0x0 -> OK == get HF4-2-QIE13_CkOutEn -> 0
+[OK] :: put HF4-2-QIE13_CkOutEn 0x0 -> OK == get HF4-2-QIE13_CkOutEn -> 0
+[OK] :: put HF4-2-QIE13_CkOutEn 0x1 -> OK == get HF4-2-QIE13_CkOutEn -> 1
+[OK] :: put HF4-2-QIE13_TDCMode 0x0 -> OK == get HF4-2-QIE13_TDCMode -> 0
+[OK] :: put HF4-2-QIE13_TDCMode 0x0 -> OK == get HF4-2-QIE13_TDCMode -> 0
+[OK] :: put HF4-2-QIE13_TDCMode 0x0 -> OK == get HF4-2-QIE13_TDCMode -> 0
+[OK] :: put HF4-2-Qie13_ck_ph 0x0 -> OK == get HF4-2-Qie13_ck_ph -> 0
+[OK] :: put HF4-2-Qie13_ck_ph 0x6 -> OK == get HF4-2-Qie13_ck_ph -> 6
+[OK] :: put HF4-2-Qie13_ck_ph 0x6 -> OK == get HF4-2-Qie13_ck_ph -> 6
+[OK] :: put HF4-2-QIE14_Lvds 0x0 -> OK == get HF4-2-QIE14_Lvds -> 0
+[OK] :: put HF4-2-QIE14_Lvds 0x0 -> OK == get HF4-2-QIE14_Lvds -> 0
+[OK] :: put HF4-2-QIE14_Lvds 0x0 -> OK == get HF4-2-QIE14_Lvds -> 0
+[OK] :: put HF4-2-QIE14_Trim 0x2 -> OK == get HF4-2-QIE14_Trim -> 2
+[OK] :: put HF4-2-QIE14_Trim 0x2 -> OK == get HF4-2-QIE14_Trim -> 2
+[OK] :: put HF4-2-QIE14_Trim 0x1 -> OK == get HF4-2-QIE14_Trim -> 1
+[OK] :: put HF4-2-QIE14_DiscOn 0x1 -> OK == get HF4-2-QIE14_DiscOn -> 1
+[OK] :: put HF4-2-QIE14_DiscOn 0x0 -> OK == get HF4-2-QIE14_DiscOn -> 0
+[OK] :: put HF4-2-QIE14_DiscOn 0x0 -> OK == get HF4-2-QIE14_DiscOn -> 0
+[OK] :: put HF4-2-QIE14_TGain 0x0 -> OK == get HF4-2-QIE14_TGain -> 0
+[OK] :: put HF4-2-QIE14_TGain 0x0 -> OK == get HF4-2-QIE14_TGain -> 0
+[OK] :: put HF4-2-QIE14_TGain 0x0 -> OK == get HF4-2-QIE14_TGain -> 0
+[OK] :: put HF4-2-QIE14_TimingThresholdDAC 0x59 -> OK == get HF4-2-QIE14_TimingThresholdDAC -> 59
+[OK] :: put HF4-2-QIE14_TimingThresholdDAC 0x28 -> OK == get HF4-2-QIE14_TimingThresholdDAC -> 28
+[OK] :: put HF4-2-QIE14_TimingThresholdDAC 0x74 -> OK == get HF4-2-QIE14_TimingThresholdDAC -> 74
+[OK] :: put HF4-2-QIE14_TimingIref 0x4 -> OK == get HF4-2-QIE14_TimingIref -> 4
+[OK] :: put HF4-2-QIE14_TimingIref 0x3 -> OK == get HF4-2-QIE14_TimingIref -> 3
+[OK] :: put HF4-2-QIE14_TimingIref 0x1 -> OK == get HF4-2-QIE14_TimingIref -> 1
+[OK] :: put HF4-2-QIE14_PedestalDAC 0xe -> OK == get HF4-2-QIE14_PedestalDAC -> e
+[OK] :: put HF4-2-QIE14_PedestalDAC 0x17 -> OK == get HF4-2-QIE14_PedestalDAC -> 17
+[OK] :: put HF4-2-QIE14_PedestalDAC 0x1a -> OK == get HF4-2-QIE14_PedestalDAC -> 1a
+[OK] :: put HF4-2-QIE14_CapID0pedestal 0x8 -> OK == get HF4-2-QIE14_CapID0pedestal -> 8
+[OK] :: put HF4-2-QIE14_CapID0pedestal 0x2 -> OK == get HF4-2-QIE14_CapID0pedestal -> 2
+[OK] :: put HF4-2-QIE14_CapID0pedestal 0x7 -> OK == get HF4-2-QIE14_CapID0pedestal -> 7
+[OK] :: put HF4-2-QIE14_CapID1pedestal 0x2 -> OK == get HF4-2-QIE14_CapID1pedestal -> 2
+[OK] :: put HF4-2-QIE14_CapID1pedestal 0x5 -> OK == get HF4-2-QIE14_CapID1pedestal -> 5
+[OK] :: put HF4-2-QIE14_CapID1pedestal 0x7 -> OK == get HF4-2-QIE14_CapID1pedestal -> 7
+[OK] :: put HF4-2-QIE14_CapID2pedestal 0x4 -> OK == get HF4-2-QIE14_CapID2pedestal -> 4
+[OK] :: put HF4-2-QIE14_CapID2pedestal 0x5 -> OK == get HF4-2-QIE14_CapID2pedestal -> 5
+[OK] :: put HF4-2-QIE14_CapID2pedestal 0x4 -> OK == get HF4-2-QIE14_CapID2pedestal -> 4
+[OK] :: put HF4-2-QIE14_CapID3pedestal 0x8 -> OK == get HF4-2-QIE14_CapID3pedestal -> 8
+[OK] :: put HF4-2-QIE14_CapID3pedestal 0x8 -> OK == get HF4-2-QIE14_CapID3pedestal -> 8
+[OK] :: put HF4-2-QIE14_CapID3pedestal 0x4 -> OK == get HF4-2-QIE14_CapID3pedestal -> 4
+[OK] :: put HF4-2-QIE14_FixRange 0x1 -> OK == get HF4-2-QIE14_FixRange -> 1
+[OK] :: put HF4-2-QIE14_FixRange 0x1 -> OK == get HF4-2-QIE14_FixRange -> 1
+[OK] :: put HF4-2-QIE14_FixRange 0x1 -> OK == get HF4-2-QIE14_FixRange -> 1
+[OK] :: put HF4-2-QIE14_RangeSet 0x0 -> OK == get HF4-2-QIE14_RangeSet -> 0
+[OK] :: put HF4-2-QIE14_RangeSet 0x1 -> OK == get HF4-2-QIE14_RangeSet -> 1
+[OK] :: put HF4-2-QIE14_RangeSet 0x2 -> OK == get HF4-2-QIE14_RangeSet -> 2
+[OK] :: put HF4-2-QIE14_ChargeInjectDAC 0x1 -> OK == get HF4-2-QIE14_ChargeInjectDAC -> 1
+[OK] :: put HF4-2-QIE14_ChargeInjectDAC 0x4 -> OK == get HF4-2-QIE14_ChargeInjectDAC -> 4
+[OK] :: put HF4-2-QIE14_ChargeInjectDAC 0x3 -> OK == get HF4-2-QIE14_ChargeInjectDAC -> 3
+[OK] :: put HF4-2-QIE14_RinSel 0x3 -> OK == get HF4-2-QIE14_RinSel -> 3
+[OK] :: put HF4-2-QIE14_RinSel 0x5 -> OK == get HF4-2-QIE14_RinSel -> 5
+[OK] :: put HF4-2-QIE14_RinSel 0x0 -> OK == get HF4-2-QIE14_RinSel -> 0
+[OK] :: put HF4-2-QIE14_Idcset 0xe -> OK == get HF4-2-QIE14_Idcset -> e
+[OK] :: put HF4-2-QIE14_Idcset 0x5 -> OK == get HF4-2-QIE14_Idcset -> 5
+[OK] :: put HF4-2-QIE14_Idcset 0x8 -> OK == get HF4-2-QIE14_Idcset -> 8
+[OK] :: put HF4-2-QIE14_CalMode 0x0 -> OK == get HF4-2-QIE14_CalMode -> 0
+[OK] :: put HF4-2-QIE14_CalMode 0x0 -> OK == get HF4-2-QIE14_CalMode -> 0
+[OK] :: put HF4-2-QIE14_CalMode 0x0 -> OK == get HF4-2-QIE14_CalMode -> 0
+[OK] :: put HF4-2-QIE14_CkOutEn 0x1 -> OK == get HF4-2-QIE14_CkOutEn -> 1
+[OK] :: put HF4-2-QIE14_CkOutEn 0x0 -> OK == get HF4-2-QIE14_CkOutEn -> 0
+[OK] :: put HF4-2-QIE14_CkOutEn 0x1 -> OK == get HF4-2-QIE14_CkOutEn -> 1
+[OK] :: put HF4-2-QIE14_TDCMode 0x0 -> OK == get HF4-2-QIE14_TDCMode -> 0
+[OK] :: put HF4-2-QIE14_TDCMode 0x1 -> OK == get HF4-2-QIE14_TDCMode -> 1
+[OK] :: put HF4-2-QIE14_TDCMode 0x1 -> OK == get HF4-2-QIE14_TDCMode -> 1
+[OK] :: put HF4-2-Qie14_ck_ph 0x0 -> OK == get HF4-2-Qie14_ck_ph -> 0
+[OK] :: put HF4-2-Qie14_ck_ph 0x8 -> OK == get HF4-2-Qie14_ck_ph -> 8
+[OK] :: put HF4-2-Qie14_ck_ph 0x1 -> OK == get HF4-2-Qie14_ck_ph -> 1
+[OK] :: put HF4-2-QIE15_Lvds 0x0 -> OK == get HF4-2-QIE15_Lvds -> 0
+[OK] :: put HF4-2-QIE15_Lvds 0x0 -> OK == get HF4-2-QIE15_Lvds -> 0
+[OK] :: put HF4-2-QIE15_Lvds 0x1 -> OK == get HF4-2-QIE15_Lvds -> 1
+[OK] :: put HF4-2-QIE15_Trim 0x0 -> OK == get HF4-2-QIE15_Trim -> 0
+[OK] :: put HF4-2-QIE15_Trim 0x0 -> OK == get HF4-2-QIE15_Trim -> 0
+[OK] :: put HF4-2-QIE15_Trim 0x2 -> OK == get HF4-2-QIE15_Trim -> 2
+[OK] :: put HF4-2-QIE15_DiscOn 0x1 -> OK == get HF4-2-QIE15_DiscOn -> 1
+[OK] :: put HF4-2-QIE15_DiscOn 0x0 -> OK == get HF4-2-QIE15_DiscOn -> 0
+[OK] :: put HF4-2-QIE15_DiscOn 0x1 -> OK == get HF4-2-QIE15_DiscOn -> 1
+[OK] :: put HF4-2-QIE15_TGain 0x1 -> OK == get HF4-2-QIE15_TGain -> 1
+[OK] :: put HF4-2-QIE15_TGain 0x0 -> OK == get HF4-2-QIE15_TGain -> 0
+[OK] :: put HF4-2-QIE15_TGain 0x1 -> OK == get HF4-2-QIE15_TGain -> 1
+[OK] :: put HF4-2-QIE15_TimingThresholdDAC 0x36 -> OK == get HF4-2-QIE15_TimingThresholdDAC -> 36
+[OK] :: put HF4-2-QIE15_TimingThresholdDAC 0xb -> OK == get HF4-2-QIE15_TimingThresholdDAC -> b
+[OK] :: put HF4-2-QIE15_TimingThresholdDAC 0x28 -> OK == get HF4-2-QIE15_TimingThresholdDAC -> 28
+[OK] :: put HF4-2-QIE15_TimingIref 0x3 -> OK == get HF4-2-QIE15_TimingIref -> 3
+[OK] :: put HF4-2-QIE15_TimingIref 0x3 -> OK == get HF4-2-QIE15_TimingIref -> 3
+[OK] :: put HF4-2-QIE15_TimingIref 0x3 -> OK == get HF4-2-QIE15_TimingIref -> 3
+[OK] :: put HF4-2-QIE15_PedestalDAC 0x20 -> OK == get HF4-2-QIE15_PedestalDAC -> 20
+[OK] :: put HF4-2-QIE15_PedestalDAC 0x1e -> OK == get HF4-2-QIE15_PedestalDAC -> 1e
+[OK] :: put HF4-2-QIE15_PedestalDAC 0x16 -> OK == get HF4-2-QIE15_PedestalDAC -> 16
+[OK] :: put HF4-2-QIE15_CapID0pedestal 0x2 -> OK == get HF4-2-QIE15_CapID0pedestal -> 2
+[OK] :: put HF4-2-QIE15_CapID0pedestal 0x6 -> OK == get HF4-2-QIE15_CapID0pedestal -> 6
+[OK] :: put HF4-2-QIE15_CapID0pedestal 0x1 -> OK == get HF4-2-QIE15_CapID0pedestal -> 1
+[OK] :: put HF4-2-QIE15_CapID1pedestal 0x2 -> OK == get HF4-2-QIE15_CapID1pedestal -> 2
+[OK] :: put HF4-2-QIE15_CapID1pedestal 0x0 -> OK == get HF4-2-QIE15_CapID1pedestal -> 0
+[OK] :: put HF4-2-QIE15_CapID1pedestal 0x5 -> OK == get HF4-2-QIE15_CapID1pedestal -> 5
+[OK] :: put HF4-2-QIE15_CapID2pedestal 0x3 -> OK == get HF4-2-QIE15_CapID2pedestal -> 3
+[OK] :: put HF4-2-QIE15_CapID2pedestal 0x7 -> OK == get HF4-2-QIE15_CapID2pedestal -> 7
+[OK] :: put HF4-2-QIE15_CapID2pedestal 0x2 -> OK == get HF4-2-QIE15_CapID2pedestal -> 2
+[OK] :: put HF4-2-QIE15_CapID3pedestal 0x1 -> OK == get HF4-2-QIE15_CapID3pedestal -> 1
+[OK] :: put HF4-2-QIE15_CapID3pedestal 0x3 -> OK == get HF4-2-QIE15_CapID3pedestal -> 3
+[OK] :: put HF4-2-QIE15_CapID3pedestal 0x7 -> OK == get HF4-2-QIE15_CapID3pedestal -> 7
+[OK] :: put HF4-2-QIE15_FixRange 0x1 -> OK == get HF4-2-QIE15_FixRange -> 1
+[OK] :: put HF4-2-QIE15_FixRange 0x1 -> OK == get HF4-2-QIE15_FixRange -> 1
+[OK] :: put HF4-2-QIE15_FixRange 0x1 -> OK == get HF4-2-QIE15_FixRange -> 1
+[OK] :: put HF4-2-QIE15_RangeSet 0x1 -> OK == get HF4-2-QIE15_RangeSet -> 1
+[OK] :: put HF4-2-QIE15_RangeSet 0x2 -> OK == get HF4-2-QIE15_RangeSet -> 2
+[OK] :: put HF4-2-QIE15_RangeSet 0x2 -> OK == get HF4-2-QIE15_RangeSet -> 2
+[OK] :: put HF4-2-QIE15_ChargeInjectDAC 0x0 -> OK == get HF4-2-QIE15_ChargeInjectDAC -> 0
+[OK] :: put HF4-2-QIE15_ChargeInjectDAC 0x1 -> OK == get HF4-2-QIE15_ChargeInjectDAC -> 1
+[OK] :: put HF4-2-QIE15_ChargeInjectDAC 0x3 -> OK == get HF4-2-QIE15_ChargeInjectDAC -> 3
+[OK] :: put HF4-2-QIE15_RinSel 0x8 -> OK == get HF4-2-QIE15_RinSel -> 8
+[OK] :: put HF4-2-QIE15_RinSel 0x4 -> OK == get HF4-2-QIE15_RinSel -> 4
+[OK] :: put HF4-2-QIE15_RinSel 0x2 -> OK == get HF4-2-QIE15_RinSel -> 2
+[OK] :: put HF4-2-QIE15_Idcset 0xc -> OK == get HF4-2-QIE15_Idcset -> c
+[OK] :: put HF4-2-QIE15_Idcset 0xb -> OK == get HF4-2-QIE15_Idcset -> b
+[OK] :: put HF4-2-QIE15_Idcset 0x1 -> OK == get HF4-2-QIE15_Idcset -> 1
+[OK] :: put HF4-2-QIE15_CalMode 0x1 -> OK == get HF4-2-QIE15_CalMode -> 1
+[OK] :: put HF4-2-QIE15_CalMode 0x0 -> OK == get HF4-2-QIE15_CalMode -> 0
+[OK] :: put HF4-2-QIE15_CalMode 0x1 -> OK == get HF4-2-QIE15_CalMode -> 1
+[OK] :: put HF4-2-QIE15_CkOutEn 0x1 -> OK == get HF4-2-QIE15_CkOutEn -> 1
+[OK] :: put HF4-2-QIE15_CkOutEn 0x0 -> OK == get HF4-2-QIE15_CkOutEn -> 0
+[OK] :: put HF4-2-QIE15_CkOutEn 0x1 -> OK == get HF4-2-QIE15_CkOutEn -> 1
+[OK] :: put HF4-2-QIE15_TDCMode 0x0 -> OK == get HF4-2-QIE15_TDCMode -> 0
+[OK] :: put HF4-2-QIE15_TDCMode 0x0 -> OK == get HF4-2-QIE15_TDCMode -> 0
+[OK] :: put HF4-2-QIE15_TDCMode 0x1 -> OK == get HF4-2-QIE15_TDCMode -> 1
+[OK] :: put HF4-2-Qie15_ck_ph 0x6 -> OK == get HF4-2-Qie15_ck_ph -> 6
+[OK] :: put HF4-2-Qie15_ck_ph 0x3 -> OK == get HF4-2-Qie15_ck_ph -> 3
+[OK] :: put HF4-2-Qie15_ck_ph 0x0 -> OK == get HF4-2-Qie15_ck_ph -> 0
+[OK] :: put HF4-2-QIE16_Lvds 0x1 -> OK == get HF4-2-QIE16_Lvds -> 1
+[OK] :: put HF4-2-QIE16_Lvds 0x1 -> OK == get HF4-2-QIE16_Lvds -> 1
+[OK] :: put HF4-2-QIE16_Lvds 0x1 -> OK == get HF4-2-QIE16_Lvds -> 1
+[OK] :: put HF4-2-QIE16_Trim 0x1 -> OK == get HF4-2-QIE16_Trim -> 1
+[OK] :: put HF4-2-QIE16_Trim 0x1 -> OK == get HF4-2-QIE16_Trim -> 1
+[OK] :: put HF4-2-QIE16_Trim 0x0 -> OK == get HF4-2-QIE16_Trim -> 0
+[OK] :: put HF4-2-QIE16_DiscOn 0x1 -> OK == get HF4-2-QIE16_DiscOn -> 1
+[OK] :: put HF4-2-QIE16_DiscOn 0x1 -> OK == get HF4-2-QIE16_DiscOn -> 1
+[OK] :: put HF4-2-QIE16_DiscOn 0x0 -> OK == get HF4-2-QIE16_DiscOn -> 0
+[OK] :: put HF4-2-QIE16_TGain 0x0 -> OK == get HF4-2-QIE16_TGain -> 0
+[OK] :: put HF4-2-QIE16_TGain 0x0 -> OK == get HF4-2-QIE16_TGain -> 0
+[OK] :: put HF4-2-QIE16_TGain 0x0 -> OK == get HF4-2-QIE16_TGain -> 0
+[OK] :: put HF4-2-QIE16_TimingThresholdDAC 0x71 -> OK == get HF4-2-QIE16_TimingThresholdDAC -> 71
+[OK] :: put HF4-2-QIE16_TimingThresholdDAC 0x38 -> OK == get HF4-2-QIE16_TimingThresholdDAC -> 38
+[OK] :: put HF4-2-QIE16_TimingThresholdDAC 0x6e -> OK == get HF4-2-QIE16_TimingThresholdDAC -> 6e
+[OK] :: put HF4-2-QIE16_TimingIref 0x0 -> OK == get HF4-2-QIE16_TimingIref -> 0
+[OK] :: put HF4-2-QIE16_TimingIref 0x2 -> OK == get HF4-2-QIE16_TimingIref -> 2
+[OK] :: put HF4-2-QIE16_TimingIref 0x0 -> OK == get HF4-2-QIE16_TimingIref -> 0
+[OK] :: put HF4-2-QIE16_PedestalDAC 0x6 -> OK == get HF4-2-QIE16_PedestalDAC -> 6
+[OK] :: put HF4-2-QIE16_PedestalDAC 0x1 -> OK == get HF4-2-QIE16_PedestalDAC -> 1
+[OK] :: put HF4-2-QIE16_PedestalDAC 0x12 -> OK == get HF4-2-QIE16_PedestalDAC -> 12
+[OK] :: put HF4-2-QIE16_CapID0pedestal 0x7 -> OK == get HF4-2-QIE16_CapID0pedestal -> 7
+[OK] :: put HF4-2-QIE16_CapID0pedestal 0x3 -> OK == get HF4-2-QIE16_CapID0pedestal -> 3
+[OK] :: put HF4-2-QIE16_CapID0pedestal 0x2 -> OK == get HF4-2-QIE16_CapID0pedestal -> 2
+[OK] :: put HF4-2-QIE16_CapID1pedestal 0x8 -> OK == get HF4-2-QIE16_CapID1pedestal -> 8
+[OK] :: put HF4-2-QIE16_CapID1pedestal 0x3 -> OK == get HF4-2-QIE16_CapID1pedestal -> 3
+[OK] :: put HF4-2-QIE16_CapID1pedestal 0x7 -> OK == get HF4-2-QIE16_CapID1pedestal -> 7
+[OK] :: put HF4-2-QIE16_CapID2pedestal 0x0 -> OK == get HF4-2-QIE16_CapID2pedestal -> 0
+[OK] :: put HF4-2-QIE16_CapID2pedestal 0x1 -> OK == get HF4-2-QIE16_CapID2pedestal -> 1
+[OK] :: put HF4-2-QIE16_CapID2pedestal 0x8 -> OK == get HF4-2-QIE16_CapID2pedestal -> 8
+[OK] :: put HF4-2-QIE16_CapID3pedestal 0x4 -> OK == get HF4-2-QIE16_CapID3pedestal -> 4
+[OK] :: put HF4-2-QIE16_CapID3pedestal 0x3 -> OK == get HF4-2-QIE16_CapID3pedestal -> 3
+[OK] :: put HF4-2-QIE16_CapID3pedestal 0x6 -> OK == get HF4-2-QIE16_CapID3pedestal -> 6
+[OK] :: put HF4-2-QIE16_FixRange 0x0 -> OK == get HF4-2-QIE16_FixRange -> 0
+[OK] :: put HF4-2-QIE16_FixRange 0x1 -> OK == get HF4-2-QIE16_FixRange -> 1
+[OK] :: put HF4-2-QIE16_FixRange 0x0 -> OK == get HF4-2-QIE16_FixRange -> 0
+[OK] :: put HF4-2-QIE16_RangeSet 0x2 -> OK == get HF4-2-QIE16_RangeSet -> 2
+[OK] :: put HF4-2-QIE16_RangeSet 0x2 -> OK == get HF4-2-QIE16_RangeSet -> 2
+[OK] :: put HF4-2-QIE16_RangeSet 0x0 -> OK == get HF4-2-QIE16_RangeSet -> 0
+[OK] :: put HF4-2-QIE16_ChargeInjectDAC 0x1 -> OK == get HF4-2-QIE16_ChargeInjectDAC -> 1
+[OK] :: put HF4-2-QIE16_ChargeInjectDAC 0x2 -> OK == get HF4-2-QIE16_ChargeInjectDAC -> 2
+[OK] :: put HF4-2-QIE16_ChargeInjectDAC 0x2 -> OK == get HF4-2-QIE16_ChargeInjectDAC -> 2
+[OK] :: put HF4-2-QIE16_RinSel 0x5 -> OK == get HF4-2-QIE16_RinSel -> 5
+[OK] :: put HF4-2-QIE16_RinSel 0x1 -> OK == get HF4-2-QIE16_RinSel -> 1
+[OK] :: put HF4-2-QIE16_RinSel 0x1 -> OK == get HF4-2-QIE16_RinSel -> 1
+[OK] :: put HF4-2-QIE16_Idcset 0x0 -> OK == get HF4-2-QIE16_Idcset -> 0
+[OK] :: put HF4-2-QIE16_Idcset 0x3 -> OK == get HF4-2-QIE16_Idcset -> 3
+[OK] :: put HF4-2-QIE16_Idcset 0xa -> OK == get HF4-2-QIE16_Idcset -> a
+[OK] :: put HF4-2-QIE16_CalMode 0x0 -> OK == get HF4-2-QIE16_CalMode -> 0
+[OK] :: put HF4-2-QIE16_CalMode 0x0 -> OK == get HF4-2-QIE16_CalMode -> 0
+[OK] :: put HF4-2-QIE16_CalMode 0x1 -> OK == get HF4-2-QIE16_CalMode -> 1
+[OK] :: put HF4-2-QIE16_CkOutEn 0x1 -> OK == get HF4-2-QIE16_CkOutEn -> 1
+[OK] :: put HF4-2-QIE16_CkOutEn 0x0 -> OK == get HF4-2-QIE16_CkOutEn -> 0
+[OK] :: put HF4-2-QIE16_CkOutEn 0x1 -> OK == get HF4-2-QIE16_CkOutEn -> 1
+[OK] :: put HF4-2-QIE16_TDCMode 0x0 -> OK == get HF4-2-QIE16_TDCMode -> 0
+[OK] :: put HF4-2-QIE16_TDCMode 0x1 -> OK == get HF4-2-QIE16_TDCMode -> 1
+[OK] :: put HF4-2-QIE16_TDCMode 0x0 -> OK == get HF4-2-QIE16_TDCMode -> 0
+[OK] :: put HF4-2-Qie16_ck_ph 0x3 -> OK == get HF4-2-Qie16_ck_ph -> 3
+[OK] :: put HF4-2-Qie16_ck_ph 0x3 -> OK == get HF4-2-Qie16_ck_ph -> 3
+[OK] :: put HF4-2-Qie16_ck_ph 0x4 -> OK == get HF4-2-Qie16_ck_ph -> 4
+[OK] :: put HF4-2-QIE17_Lvds 0x0 -> OK == get HF4-2-QIE17_Lvds -> 0
+[OK] :: put HF4-2-QIE17_Lvds 0x1 -> OK == get HF4-2-QIE17_Lvds -> 1
+[OK] :: put HF4-2-QIE17_Lvds 0x0 -> OK == get HF4-2-QIE17_Lvds -> 0
+[OK] :: put HF4-2-QIE17_Trim 0x0 -> OK == get HF4-2-QIE17_Trim -> 0
+[OK] :: put HF4-2-QIE17_Trim 0x0 -> OK == get HF4-2-QIE17_Trim -> 0
+[OK] :: put HF4-2-QIE17_Trim 0x0 -> OK == get HF4-2-QIE17_Trim -> 0
+[OK] :: put HF4-2-QIE17_DiscOn 0x0 -> OK == get HF4-2-QIE17_DiscOn -> 0
+[OK] :: put HF4-2-QIE17_DiscOn 0x0 -> OK == get HF4-2-QIE17_DiscOn -> 0
+[OK] :: put HF4-2-QIE17_DiscOn 0x0 -> OK == get HF4-2-QIE17_DiscOn -> 0
+[OK] :: put HF4-2-QIE17_TGain 0x1 -> OK == get HF4-2-QIE17_TGain -> 1
+[OK] :: put HF4-2-QIE17_TGain 0x0 -> OK == get HF4-2-QIE17_TGain -> 0
+[OK] :: put HF4-2-QIE17_TGain 0x1 -> OK == get HF4-2-QIE17_TGain -> 1
+[OK] :: put HF4-2-QIE17_TimingThresholdDAC 0x23 -> OK == get HF4-2-QIE17_TimingThresholdDAC -> 23
+[OK] :: put HF4-2-QIE17_TimingThresholdDAC 0x1d -> OK == get HF4-2-QIE17_TimingThresholdDAC -> 1d
+[OK] :: put HF4-2-QIE17_TimingThresholdDAC 0x18 -> OK == get HF4-2-QIE17_TimingThresholdDAC -> 18
+[OK] :: put HF4-2-QIE17_TimingIref 0x0 -> OK == get HF4-2-QIE17_TimingIref -> 0
+[OK] :: put HF4-2-QIE17_TimingIref 0x3 -> OK == get HF4-2-QIE17_TimingIref -> 3
+[OK] :: put HF4-2-QIE17_TimingIref 0x3 -> OK == get HF4-2-QIE17_TimingIref -> 3
+[OK] :: put HF4-2-QIE17_PedestalDAC 0x8 -> OK == get HF4-2-QIE17_PedestalDAC -> 8
+[OK] :: put HF4-2-QIE17_PedestalDAC 0x18 -> OK == get HF4-2-QIE17_PedestalDAC -> 18
+[OK] :: put HF4-2-QIE17_PedestalDAC 0x19 -> OK == get HF4-2-QIE17_PedestalDAC -> 19
+[OK] :: put HF4-2-QIE17_CapID0pedestal 0x1 -> OK == get HF4-2-QIE17_CapID0pedestal -> 1
+[OK] :: put HF4-2-QIE17_CapID0pedestal 0x2 -> OK == get HF4-2-QIE17_CapID0pedestal -> 2
+[OK] :: put HF4-2-QIE17_CapID0pedestal 0x3 -> OK == get HF4-2-QIE17_CapID0pedestal -> 3
+[OK] :: put HF4-2-QIE17_CapID1pedestal 0x5 -> OK == get HF4-2-QIE17_CapID1pedestal -> 5
+[OK] :: put HF4-2-QIE17_CapID1pedestal 0x7 -> OK == get HF4-2-QIE17_CapID1pedestal -> 7
+[OK] :: put HF4-2-QIE17_CapID1pedestal 0x5 -> OK == get HF4-2-QIE17_CapID1pedestal -> 5
+[OK] :: put HF4-2-QIE17_CapID2pedestal 0x7 -> OK == get HF4-2-QIE17_CapID2pedestal -> 7
+[OK] :: put HF4-2-QIE17_CapID2pedestal 0x2 -> OK == get HF4-2-QIE17_CapID2pedestal -> 2
+[OK] :: put HF4-2-QIE17_CapID2pedestal 0x4 -> OK == get HF4-2-QIE17_CapID2pedestal -> 4
+[OK] :: put HF4-2-QIE17_CapID3pedestal 0x0 -> OK == get HF4-2-QIE17_CapID3pedestal -> 0
+[OK] :: put HF4-2-QIE17_CapID3pedestal 0x3 -> OK == get HF4-2-QIE17_CapID3pedestal -> 3
+[OK] :: put HF4-2-QIE17_CapID3pedestal 0x0 -> OK == get HF4-2-QIE17_CapID3pedestal -> 0
+[OK] :: put HF4-2-QIE17_FixRange 0x0 -> OK == get HF4-2-QIE17_FixRange -> 0
+[OK] :: put HF4-2-QIE17_FixRange 0x0 -> OK == get HF4-2-QIE17_FixRange -> 0
+[OK] :: put HF4-2-QIE17_FixRange 0x0 -> OK == get HF4-2-QIE17_FixRange -> 0
+[OK] :: put HF4-2-QIE17_RangeSet 0x0 -> OK == get HF4-2-QIE17_RangeSet -> 0
+[OK] :: put HF4-2-QIE17_RangeSet 0x2 -> OK == get HF4-2-QIE17_RangeSet -> 2
+[OK] :: put HF4-2-QIE17_RangeSet 0x1 -> OK == get HF4-2-QIE17_RangeSet -> 1
+[OK] :: put HF4-2-QIE17_ChargeInjectDAC 0x4 -> OK == get HF4-2-QIE17_ChargeInjectDAC -> 4
+[OK] :: put HF4-2-QIE17_ChargeInjectDAC 0x4 -> OK == get HF4-2-QIE17_ChargeInjectDAC -> 4
+[OK] :: put HF4-2-QIE17_ChargeInjectDAC 0x0 -> OK == get HF4-2-QIE17_ChargeInjectDAC -> 0
+[OK] :: put HF4-2-QIE17_RinSel 0x3 -> OK == get HF4-2-QIE17_RinSel -> 3
+[OK] :: put HF4-2-QIE17_RinSel 0x7 -> OK == get HF4-2-QIE17_RinSel -> 7
+[OK] :: put HF4-2-QIE17_RinSel 0x7 -> OK == get HF4-2-QIE17_RinSel -> 7
+[OK] :: put HF4-2-QIE17_Idcset 0xd -> OK == get HF4-2-QIE17_Idcset -> d
+[OK] :: put HF4-2-QIE17_Idcset 0x0 -> OK == get HF4-2-QIE17_Idcset -> 0
+[OK] :: put HF4-2-QIE17_Idcset 0x1 -> OK == get HF4-2-QIE17_Idcset -> 1
+[OK] :: put HF4-2-QIE17_CalMode 0x0 -> OK == get HF4-2-QIE17_CalMode -> 0
+[OK] :: put HF4-2-QIE17_CalMode 0x0 -> OK == get HF4-2-QIE17_CalMode -> 0
+[OK] :: put HF4-2-QIE17_CalMode 0x0 -> OK == get HF4-2-QIE17_CalMode -> 0
+[OK] :: put HF4-2-QIE17_CkOutEn 0x0 -> OK == get HF4-2-QIE17_CkOutEn -> 0
+[OK] :: put HF4-2-QIE17_CkOutEn 0x1 -> OK == get HF4-2-QIE17_CkOutEn -> 1
+[OK] :: put HF4-2-QIE17_CkOutEn 0x1 -> OK == get HF4-2-QIE17_CkOutEn -> 1
+[OK] :: put HF4-2-QIE17_TDCMode 0x1 -> OK == get HF4-2-QIE17_TDCMode -> 1
+[OK] :: put HF4-2-QIE17_TDCMode 0x1 -> OK == get HF4-2-QIE17_TDCMode -> 1
+[OK] :: put HF4-2-QIE17_TDCMode 0x0 -> OK == get HF4-2-QIE17_TDCMode -> 0
+[OK] :: put HF4-2-Qie17_ck_ph 0x2 -> OK == get HF4-2-Qie17_ck_ph -> 2
+[OK] :: put HF4-2-Qie17_ck_ph 0x0 -> OK == get HF4-2-Qie17_ck_ph -> 0
+[OK] :: put HF4-2-Qie17_ck_ph 0x3 -> OK == get HF4-2-Qie17_ck_ph -> 3
+[OK] :: put HF4-2-QIE18_Lvds 0x0 -> OK == get HF4-2-QIE18_Lvds -> 0
+[OK] :: put HF4-2-QIE18_Lvds 0x0 -> OK == get HF4-2-QIE18_Lvds -> 0
+[OK] :: put HF4-2-QIE18_Lvds 0x1 -> OK == get HF4-2-QIE18_Lvds -> 1
+[OK] :: put HF4-2-QIE18_Trim 0x2 -> OK == get HF4-2-QIE18_Trim -> 2
+[OK] :: put HF4-2-QIE18_Trim 0x2 -> OK == get HF4-2-QIE18_Trim -> 2
+[OK] :: put HF4-2-QIE18_Trim 0x0 -> OK == get HF4-2-QIE18_Trim -> 0
+[OK] :: put HF4-2-QIE18_DiscOn 0x1 -> OK == get HF4-2-QIE18_DiscOn -> 1
+[OK] :: put HF4-2-QIE18_DiscOn 0x1 -> OK == get HF4-2-QIE18_DiscOn -> 1
+[OK] :: put HF4-2-QIE18_DiscOn 0x1 -> OK == get HF4-2-QIE18_DiscOn -> 1
+[OK] :: put HF4-2-QIE18_TGain 0x0 -> OK == get HF4-2-QIE18_TGain -> 0
+[OK] :: put HF4-2-QIE18_TGain 0x0 -> OK == get HF4-2-QIE18_TGain -> 0
+[OK] :: put HF4-2-QIE18_TGain 0x1 -> OK == get HF4-2-QIE18_TGain -> 1
+[OK] :: put HF4-2-QIE18_TimingThresholdDAC 0x5 -> OK == get HF4-2-QIE18_TimingThresholdDAC -> 5
+[OK] :: put HF4-2-QIE18_TimingThresholdDAC 0x38 -> OK == get HF4-2-QIE18_TimingThresholdDAC -> 38
+[OK] :: put HF4-2-QIE18_TimingThresholdDAC 0x10 -> OK == get HF4-2-QIE18_TimingThresholdDAC -> 10
+[OK] :: put HF4-2-QIE18_TimingIref 0x2 -> OK == get HF4-2-QIE18_TimingIref -> 2
+[OK] :: put HF4-2-QIE18_TimingIref 0x3 -> OK == get HF4-2-QIE18_TimingIref -> 3
+[OK] :: put HF4-2-QIE18_TimingIref 0x3 -> OK == get HF4-2-QIE18_TimingIref -> 3
+[OK] :: put HF4-2-QIE18_PedestalDAC 0x7 -> OK == get HF4-2-QIE18_PedestalDAC -> 7
+[OK] :: put HF4-2-QIE18_PedestalDAC 0x14 -> OK == get HF4-2-QIE18_PedestalDAC -> 14
+[OK] :: put HF4-2-QIE18_PedestalDAC 0x1e -> OK == get HF4-2-QIE18_PedestalDAC -> 1e
+[OK] :: put HF4-2-QIE18_CapID0pedestal 0x7 -> OK == get HF4-2-QIE18_CapID0pedestal -> 7
+[OK] :: put HF4-2-QIE18_CapID0pedestal 0x5 -> OK == get HF4-2-QIE18_CapID0pedestal -> 5
+[OK] :: put HF4-2-QIE18_CapID0pedestal 0x8 -> OK == get HF4-2-QIE18_CapID0pedestal -> 8
+[OK] :: put HF4-2-QIE18_CapID1pedestal 0x1 -> OK == get HF4-2-QIE18_CapID1pedestal -> 1
+[OK] :: put HF4-2-QIE18_CapID1pedestal 0x2 -> OK == get HF4-2-QIE18_CapID1pedestal -> 2
+[OK] :: put HF4-2-QIE18_CapID1pedestal 0x7 -> OK == get HF4-2-QIE18_CapID1pedestal -> 7
+[OK] :: put HF4-2-QIE18_CapID2pedestal 0x2 -> OK == get HF4-2-QIE18_CapID2pedestal -> 2
+[OK] :: put HF4-2-QIE18_CapID2pedestal 0x3 -> OK == get HF4-2-QIE18_CapID2pedestal -> 3
+[OK] :: put HF4-2-QIE18_CapID2pedestal 0x1 -> OK == get HF4-2-QIE18_CapID2pedestal -> 1
+[OK] :: put HF4-2-QIE18_CapID3pedestal 0x2 -> OK == get HF4-2-QIE18_CapID3pedestal -> 2
+[OK] :: put HF4-2-QIE18_CapID3pedestal 0x2 -> OK == get HF4-2-QIE18_CapID3pedestal -> 2
+[OK] :: put HF4-2-QIE18_CapID3pedestal 0x2 -> OK == get HF4-2-QIE18_CapID3pedestal -> 2
+[OK] :: put HF4-2-QIE18_FixRange 0x1 -> OK == get HF4-2-QIE18_FixRange -> 1
+[OK] :: put HF4-2-QIE18_FixRange 0x0 -> OK == get HF4-2-QIE18_FixRange -> 0
+[OK] :: put HF4-2-QIE18_FixRange 0x0 -> OK == get HF4-2-QIE18_FixRange -> 0
+[OK] :: put HF4-2-QIE18_RangeSet 0x1 -> OK == get HF4-2-QIE18_RangeSet -> 1
+[OK] :: put HF4-2-QIE18_RangeSet 0x1 -> OK == get HF4-2-QIE18_RangeSet -> 1
+[OK] :: put HF4-2-QIE18_RangeSet 0x2 -> OK == get HF4-2-QIE18_RangeSet -> 2
+[OK] :: put HF4-2-QIE18_ChargeInjectDAC 0x0 -> OK == get HF4-2-QIE18_ChargeInjectDAC -> 0
+[OK] :: put HF4-2-QIE18_ChargeInjectDAC 0x1 -> OK == get HF4-2-QIE18_ChargeInjectDAC -> 1
+[OK] :: put HF4-2-QIE18_ChargeInjectDAC 0x2 -> OK == get HF4-2-QIE18_ChargeInjectDAC -> 2
+[OK] :: put HF4-2-QIE18_RinSel 0x2 -> OK == get HF4-2-QIE18_RinSel -> 2
+[OK] :: put HF4-2-QIE18_RinSel 0x6 -> OK == get HF4-2-QIE18_RinSel -> 6
+[OK] :: put HF4-2-QIE18_RinSel 0x0 -> OK == get HF4-2-QIE18_RinSel -> 0
+[OK] :: put HF4-2-QIE18_Idcset 0x6 -> OK == get HF4-2-QIE18_Idcset -> 6
+[OK] :: put HF4-2-QIE18_Idcset 0xe -> OK == get HF4-2-QIE18_Idcset -> e
+[OK] :: put HF4-2-QIE18_Idcset 0xf -> OK == get HF4-2-QIE18_Idcset -> f
+[OK] :: put HF4-2-QIE18_CalMode 0x0 -> OK == get HF4-2-QIE18_CalMode -> 0
+[OK] :: put HF4-2-QIE18_CalMode 0x1 -> OK == get HF4-2-QIE18_CalMode -> 1
+[OK] :: put HF4-2-QIE18_CalMode 0x0 -> OK == get HF4-2-QIE18_CalMode -> 0
+[OK] :: put HF4-2-QIE18_CkOutEn 0x0 -> OK == get HF4-2-QIE18_CkOutEn -> 0
+[OK] :: put HF4-2-QIE18_CkOutEn 0x1 -> OK == get HF4-2-QIE18_CkOutEn -> 1
+[OK] :: put HF4-2-QIE18_CkOutEn 0x1 -> OK == get HF4-2-QIE18_CkOutEn -> 1
+[OK] :: put HF4-2-QIE18_TDCMode 0x1 -> OK == get HF4-2-QIE18_TDCMode -> 1
+[OK] :: put HF4-2-QIE18_TDCMode 0x0 -> OK == get HF4-2-QIE18_TDCMode -> 0
+[OK] :: put HF4-2-QIE18_TDCMode 0x1 -> OK == get HF4-2-QIE18_TDCMode -> 1
+[OK] :: put HF4-2-Qie18_ck_ph 0x8 -> OK == get HF4-2-Qie18_ck_ph -> 8
+[OK] :: put HF4-2-Qie18_ck_ph 0x0 -> OK == get HF4-2-Qie18_ck_ph -> 0
+[OK] :: put HF4-2-Qie18_ck_ph 0x6 -> OK == get HF4-2-Qie18_ck_ph -> 6
+[OK] :: put HF4-2-QIE19_Lvds 0x0 -> OK == get HF4-2-QIE19_Lvds -> 0
+[OK] :: put HF4-2-QIE19_Lvds 0x0 -> OK == get HF4-2-QIE19_Lvds -> 0
+[OK] :: put HF4-2-QIE19_Lvds 0x0 -> OK == get HF4-2-QIE19_Lvds -> 0
+[OK] :: put HF4-2-QIE19_Trim 0x2 -> OK == get HF4-2-QIE19_Trim -> 2
+[OK] :: put HF4-2-QIE19_Trim 0x0 -> OK == get HF4-2-QIE19_Trim -> 0
+[OK] :: put HF4-2-QIE19_Trim 0x1 -> OK == get HF4-2-QIE19_Trim -> 1
+[OK] :: put HF4-2-QIE19_DiscOn 0x1 -> OK == get HF4-2-QIE19_DiscOn -> 1
+[OK] :: put HF4-2-QIE19_DiscOn 0x1 -> OK == get HF4-2-QIE19_DiscOn -> 1
+[OK] :: put HF4-2-QIE19_DiscOn 0x0 -> OK == get HF4-2-QIE19_DiscOn -> 0
+[OK] :: put HF4-2-QIE19_TGain 0x0 -> OK == get HF4-2-QIE19_TGain -> 0
+[OK] :: put HF4-2-QIE19_TGain 0x1 -> OK == get HF4-2-QIE19_TGain -> 1
+[OK] :: put HF4-2-QIE19_TGain 0x0 -> OK == get HF4-2-QIE19_TGain -> 0
+[OK] :: put HF4-2-QIE19_TimingThresholdDAC 0x74 -> OK == get HF4-2-QIE19_TimingThresholdDAC -> 74
+[OK] :: put HF4-2-QIE19_TimingThresholdDAC 0x12 -> OK == get HF4-2-QIE19_TimingThresholdDAC -> 12
+[OK] :: put HF4-2-QIE19_TimingThresholdDAC 0x5a -> OK == get HF4-2-QIE19_TimingThresholdDAC -> 5a
+[OK] :: put HF4-2-QIE19_TimingIref 0x0 -> OK == get HF4-2-QIE19_TimingIref -> 0
+[OK] :: put HF4-2-QIE19_TimingIref 0x1 -> OK == get HF4-2-QIE19_TimingIref -> 1
+[OK] :: put HF4-2-QIE19_TimingIref 0x3 -> OK == get HF4-2-QIE19_TimingIref -> 3
+[OK] :: put HF4-2-QIE19_PedestalDAC 0x17 -> OK == get HF4-2-QIE19_PedestalDAC -> 17
+[OK] :: put HF4-2-QIE19_PedestalDAC 0x16 -> OK == get HF4-2-QIE19_PedestalDAC -> 16
+[OK] :: put HF4-2-QIE19_PedestalDAC 0x1d -> OK == get HF4-2-QIE19_PedestalDAC -> 1d
+[OK] :: put HF4-2-QIE19_CapID0pedestal 0x2 -> OK == get HF4-2-QIE19_CapID0pedestal -> 2
+[OK] :: put HF4-2-QIE19_CapID0pedestal 0x7 -> OK == get HF4-2-QIE19_CapID0pedestal -> 7
+[OK] :: put HF4-2-QIE19_CapID0pedestal 0x5 -> OK == get HF4-2-QIE19_CapID0pedestal -> 5
+[OK] :: put HF4-2-QIE19_CapID1pedestal 0x6 -> OK == get HF4-2-QIE19_CapID1pedestal -> 6
+[OK] :: put HF4-2-QIE19_CapID1pedestal 0x7 -> OK == get HF4-2-QIE19_CapID1pedestal -> 7
+[OK] :: put HF4-2-QIE19_CapID1pedestal 0x0 -> OK == get HF4-2-QIE19_CapID1pedestal -> 0
+[OK] :: put HF4-2-QIE19_CapID2pedestal 0x4 -> OK == get HF4-2-QIE19_CapID2pedestal -> 4
+[OK] :: put HF4-2-QIE19_CapID2pedestal 0x5 -> OK == get HF4-2-QIE19_CapID2pedestal -> 5
+[OK] :: put HF4-2-QIE19_CapID2pedestal 0x0 -> OK == get HF4-2-QIE19_CapID2pedestal -> 0
+[OK] :: put HF4-2-QIE19_CapID3pedestal 0x1 -> OK == get HF4-2-QIE19_CapID3pedestal -> 1
+[OK] :: put HF4-2-QIE19_CapID3pedestal 0x3 -> OK == get HF4-2-QIE19_CapID3pedestal -> 3
+[OK] :: put HF4-2-QIE19_CapID3pedestal 0x8 -> OK == get HF4-2-QIE19_CapID3pedestal -> 8
+[OK] :: put HF4-2-QIE19_FixRange 0x0 -> OK == get HF4-2-QIE19_FixRange -> 0
+[OK] :: put HF4-2-QIE19_FixRange 0x1 -> OK == get HF4-2-QIE19_FixRange -> 1
+[OK] :: put HF4-2-QIE19_FixRange 0x1 -> OK == get HF4-2-QIE19_FixRange -> 1
+[OK] :: put HF4-2-QIE19_RangeSet 0x2 -> OK == get HF4-2-QIE19_RangeSet -> 2
+[OK] :: put HF4-2-QIE19_RangeSet 0x0 -> OK == get HF4-2-QIE19_RangeSet -> 0
+[OK] :: put HF4-2-QIE19_RangeSet 0x2 -> OK == get HF4-2-QIE19_RangeSet -> 2
+[OK] :: put HF4-2-QIE19_ChargeInjectDAC 0x1 -> OK == get HF4-2-QIE19_ChargeInjectDAC -> 1
+[OK] :: put HF4-2-QIE19_ChargeInjectDAC 0x0 -> OK == get HF4-2-QIE19_ChargeInjectDAC -> 0
+[OK] :: put HF4-2-QIE19_ChargeInjectDAC 0x2 -> OK == get HF4-2-QIE19_ChargeInjectDAC -> 2
+[OK] :: put HF4-2-QIE19_RinSel 0x0 -> OK == get HF4-2-QIE19_RinSel -> 0
+[OK] :: put HF4-2-QIE19_RinSel 0x4 -> OK == get HF4-2-QIE19_RinSel -> 4
+[OK] :: put HF4-2-QIE19_RinSel 0x1 -> OK == get HF4-2-QIE19_RinSel -> 1
+[OK] :: put HF4-2-QIE19_Idcset 0xa -> OK == get HF4-2-QIE19_Idcset -> a
+[OK] :: put HF4-2-QIE19_Idcset 0x7 -> OK == get HF4-2-QIE19_Idcset -> 7
+[OK] :: put HF4-2-QIE19_Idcset 0x8 -> OK == get HF4-2-QIE19_Idcset -> 8
+[OK] :: put HF4-2-QIE19_CalMode 0x1 -> OK == get HF4-2-QIE19_CalMode -> 1
+[OK] :: put HF4-2-QIE19_CalMode 0x0 -> OK == get HF4-2-QIE19_CalMode -> 0
+[OK] :: put HF4-2-QIE19_CalMode 0x0 -> OK == get HF4-2-QIE19_CalMode -> 0
+[OK] :: put HF4-2-QIE19_CkOutEn 0x0 -> OK == get HF4-2-QIE19_CkOutEn -> 0
+[OK] :: put HF4-2-QIE19_CkOutEn 0x1 -> OK == get HF4-2-QIE19_CkOutEn -> 1
+[OK] :: put HF4-2-QIE19_CkOutEn 0x1 -> OK == get HF4-2-QIE19_CkOutEn -> 1
+[OK] :: put HF4-2-QIE19_TDCMode 0x0 -> OK == get HF4-2-QIE19_TDCMode -> 0
+[OK] :: put HF4-2-QIE19_TDCMode 0x0 -> OK == get HF4-2-QIE19_TDCMode -> 0
+[OK] :: put HF4-2-QIE19_TDCMode 0x1 -> OK == get HF4-2-QIE19_TDCMode -> 1
+[OK] :: put HF4-2-Qie19_ck_ph 0x3 -> OK == get HF4-2-Qie19_ck_ph -> 3
+[OK] :: put HF4-2-Qie19_ck_ph 0x5 -> OK == get HF4-2-Qie19_ck_ph -> 5
+[OK] :: put HF4-2-Qie19_ck_ph 0x1 -> OK == get HF4-2-Qie19_ck_ph -> 1
+[OK] :: put HF4-2-QIE20_Lvds 0x0 -> OK == get HF4-2-QIE20_Lvds -> 0
+[OK] :: put HF4-2-QIE20_Lvds 0x1 -> OK == get HF4-2-QIE20_Lvds -> 1
+[OK] :: put HF4-2-QIE20_Lvds 0x1 -> OK == get HF4-2-QIE20_Lvds -> 1
+[OK] :: put HF4-2-QIE20_Trim 0x0 -> OK == get HF4-2-QIE20_Trim -> 0
+[OK] :: put HF4-2-QIE20_Trim 0x1 -> OK == get HF4-2-QIE20_Trim -> 1
+[OK] :: put HF4-2-QIE20_Trim 0x1 -> OK == get HF4-2-QIE20_Trim -> 1
+[OK] :: put HF4-2-QIE20_DiscOn 0x1 -> OK == get HF4-2-QIE20_DiscOn -> 1
+[OK] :: put HF4-2-QIE20_DiscOn 0x0 -> OK == get HF4-2-QIE20_DiscOn -> 0
+[OK] :: put HF4-2-QIE20_DiscOn 0x1 -> OK == get HF4-2-QIE20_DiscOn -> 1
+[OK] :: put HF4-2-QIE20_TGain 0x0 -> OK == get HF4-2-QIE20_TGain -> 0
+[OK] :: put HF4-2-QIE20_TGain 0x0 -> OK == get HF4-2-QIE20_TGain -> 0
+[OK] :: put HF4-2-QIE20_TGain 0x1 -> OK == get HF4-2-QIE20_TGain -> 1
+[OK] :: put HF4-2-QIE20_TimingThresholdDAC 0x52 -> OK == get HF4-2-QIE20_TimingThresholdDAC -> 52
+[OK] :: put HF4-2-QIE20_TimingThresholdDAC 0x6c -> OK == get HF4-2-QIE20_TimingThresholdDAC -> 6c
+[OK] :: put HF4-2-QIE20_TimingThresholdDAC 0x29 -> OK == get HF4-2-QIE20_TimingThresholdDAC -> 29
+[OK] :: put HF4-2-QIE20_TimingIref 0x1 -> OK == get HF4-2-QIE20_TimingIref -> 1
+[OK] :: put HF4-2-QIE20_TimingIref 0x0 -> OK == get HF4-2-QIE20_TimingIref -> 0
+[OK] :: put HF4-2-QIE20_TimingIref 0x0 -> OK == get HF4-2-QIE20_TimingIref -> 0
+[OK] :: put HF4-2-QIE20_PedestalDAC 0x2 -> OK == get HF4-2-QIE20_PedestalDAC -> 2
+[OK] :: put HF4-2-QIE20_PedestalDAC 0x1b -> OK == get HF4-2-QIE20_PedestalDAC -> 1b
+[OK] :: put HF4-2-QIE20_PedestalDAC 0x18 -> OK == get HF4-2-QIE20_PedestalDAC -> 18
+[OK] :: put HF4-2-QIE20_CapID0pedestal 0x5 -> OK == get HF4-2-QIE20_CapID0pedestal -> 5
+[OK] :: put HF4-2-QIE20_CapID0pedestal 0x8 -> OK == get HF4-2-QIE20_CapID0pedestal -> 8
+[OK] :: put HF4-2-QIE20_CapID0pedestal 0x2 -> OK == get HF4-2-QIE20_CapID0pedestal -> 2
+[OK] :: put HF4-2-QIE20_CapID1pedestal 0x8 -> OK == get HF4-2-QIE20_CapID1pedestal -> 8
+[OK] :: put HF4-2-QIE20_CapID1pedestal 0x3 -> OK == get HF4-2-QIE20_CapID1pedestal -> 3
+[OK] :: put HF4-2-QIE20_CapID1pedestal 0x7 -> OK == get HF4-2-QIE20_CapID1pedestal -> 7
+[OK] :: put HF4-2-QIE20_CapID2pedestal 0x6 -> OK == get HF4-2-QIE20_CapID2pedestal -> 6
+[OK] :: put HF4-2-QIE20_CapID2pedestal 0x6 -> OK == get HF4-2-QIE20_CapID2pedestal -> 6
+[OK] :: put HF4-2-QIE20_CapID2pedestal 0x1 -> OK == get HF4-2-QIE20_CapID2pedestal -> 1
+[OK] :: put HF4-2-QIE20_CapID3pedestal 0x0 -> OK == get HF4-2-QIE20_CapID3pedestal -> 0
+[OK] :: put HF4-2-QIE20_CapID3pedestal 0x3 -> OK == get HF4-2-QIE20_CapID3pedestal -> 3
+[OK] :: put HF4-2-QIE20_CapID3pedestal 0x1 -> OK == get HF4-2-QIE20_CapID3pedestal -> 1
+[OK] :: put HF4-2-QIE20_FixRange 0x0 -> OK == get HF4-2-QIE20_FixRange -> 0
+[OK] :: put HF4-2-QIE20_FixRange 0x1 -> OK == get HF4-2-QIE20_FixRange -> 1
+[OK] :: put HF4-2-QIE20_FixRange 0x1 -> OK == get HF4-2-QIE20_FixRange -> 1
+[OK] :: put HF4-2-QIE20_RangeSet 0x2 -> OK == get HF4-2-QIE20_RangeSet -> 2
+[OK] :: put HF4-2-QIE20_RangeSet 0x1 -> OK == get HF4-2-QIE20_RangeSet -> 1
+[OK] :: put HF4-2-QIE20_RangeSet 0x1 -> OK == get HF4-2-QIE20_RangeSet -> 1
+[OK] :: put HF4-2-QIE20_ChargeInjectDAC 0x1 -> OK == get HF4-2-QIE20_ChargeInjectDAC -> 1
+[OK] :: put HF4-2-QIE20_ChargeInjectDAC 0x1 -> OK == get HF4-2-QIE20_ChargeInjectDAC -> 1
+[OK] :: put HF4-2-QIE20_ChargeInjectDAC 0x4 -> OK == get HF4-2-QIE20_ChargeInjectDAC -> 4
+[OK] :: put HF4-2-QIE20_RinSel 0x4 -> OK == get HF4-2-QIE20_RinSel -> 4
+[OK] :: put HF4-2-QIE20_RinSel 0x5 -> OK == get HF4-2-QIE20_RinSel -> 5
+[OK] :: put HF4-2-QIE20_RinSel 0x5 -> OK == get HF4-2-QIE20_RinSel -> 5
+[OK] :: put HF4-2-QIE20_Idcset 0xb -> OK == get HF4-2-QIE20_Idcset -> b
+[OK] :: put HF4-2-QIE20_Idcset 0xf -> OK == get HF4-2-QIE20_Idcset -> f
+[OK] :: put HF4-2-QIE20_Idcset 0xc -> OK == get HF4-2-QIE20_Idcset -> c
+[OK] :: put HF4-2-QIE20_CalMode 0x0 -> OK == get HF4-2-QIE20_CalMode -> 0
+[OK] :: put HF4-2-QIE20_CalMode 0x0 -> OK == get HF4-2-QIE20_CalMode -> 0
+[OK] :: put HF4-2-QIE20_CalMode 0x0 -> OK == get HF4-2-QIE20_CalMode -> 0
+[OK] :: put HF4-2-QIE20_CkOutEn 0x1 -> OK == get HF4-2-QIE20_CkOutEn -> 1
+[OK] :: put HF4-2-QIE20_CkOutEn 0x0 -> OK == get HF4-2-QIE20_CkOutEn -> 0
+[OK] :: put HF4-2-QIE20_CkOutEn 0x1 -> OK == get HF4-2-QIE20_CkOutEn -> 1
+[OK] :: put HF4-2-QIE20_TDCMode 0x0 -> OK == get HF4-2-QIE20_TDCMode -> 0
+[OK] :: put HF4-2-QIE20_TDCMode 0x0 -> OK == get HF4-2-QIE20_TDCMode -> 0
+[OK] :: put HF4-2-QIE20_TDCMode 0x0 -> OK == get HF4-2-QIE20_TDCMode -> 0
+[OK] :: put HF4-2-Qie20_ck_ph 0x7 -> OK == get HF4-2-Qie20_ck_ph -> 7
+[OK] :: put HF4-2-Qie20_ck_ph 0x5 -> OK == get HF4-2-Qie20_ck_ph -> 5
+[OK] :: put HF4-2-Qie20_ck_ph 0x5 -> OK == get HF4-2-Qie20_ck_ph -> 5
+[OK] :: put HF4-2-QIE21_Lvds 0x1 -> OK == get HF4-2-QIE21_Lvds -> 1
+[OK] :: put HF4-2-QIE21_Lvds 0x1 -> OK == get HF4-2-QIE21_Lvds -> 1
+[OK] :: put HF4-2-QIE21_Lvds 0x1 -> OK == get HF4-2-QIE21_Lvds -> 1
+[OK] :: put HF4-2-QIE21_Trim 0x0 -> OK == get HF4-2-QIE21_Trim -> 0
+[OK] :: put HF4-2-QIE21_Trim 0x2 -> OK == get HF4-2-QIE21_Trim -> 2
+[OK] :: put HF4-2-QIE21_Trim 0x0 -> OK == get HF4-2-QIE21_Trim -> 0
+[OK] :: put HF4-2-QIE21_DiscOn 0x1 -> OK == get HF4-2-QIE21_DiscOn -> 1
+[OK] :: put HF4-2-QIE21_DiscOn 0x0 -> OK == get HF4-2-QIE21_DiscOn -> 0
+[OK] :: put HF4-2-QIE21_DiscOn 0x0 -> OK == get HF4-2-QIE21_DiscOn -> 0
+[OK] :: put HF4-2-QIE21_TGain 0x0 -> OK == get HF4-2-QIE21_TGain -> 0
+[OK] :: put HF4-2-QIE21_TGain 0x1 -> OK == get HF4-2-QIE21_TGain -> 1
+[OK] :: put HF4-2-QIE21_TGain 0x0 -> OK == get HF4-2-QIE21_TGain -> 0
+[OK] :: put HF4-2-QIE21_TimingThresholdDAC 0x37 -> OK == get HF4-2-QIE21_TimingThresholdDAC -> 37
+[OK] :: put HF4-2-QIE21_TimingThresholdDAC 0x4b -> OK == get HF4-2-QIE21_TimingThresholdDAC -> 4b
+[OK] :: put HF4-2-QIE21_TimingThresholdDAC 0x50 -> OK == get HF4-2-QIE21_TimingThresholdDAC -> 50
+[OK] :: put HF4-2-QIE21_TimingIref 0x4 -> OK == get HF4-2-QIE21_TimingIref -> 4
+[OK] :: put HF4-2-QIE21_TimingIref 0x3 -> OK == get HF4-2-QIE21_TimingIref -> 3
+[OK] :: put HF4-2-QIE21_TimingIref 0x0 -> OK == get HF4-2-QIE21_TimingIref -> 0
+[OK] :: put HF4-2-QIE21_PedestalDAC 0x6 -> OK == get HF4-2-QIE21_PedestalDAC -> 6
+[OK] :: put HF4-2-QIE21_PedestalDAC 0xc -> OK == get HF4-2-QIE21_PedestalDAC -> c
+[OK] :: put HF4-2-QIE21_PedestalDAC 0x1a -> OK == get HF4-2-QIE21_PedestalDAC -> 1a
+[OK] :: put HF4-2-QIE21_CapID0pedestal 0x6 -> OK == get HF4-2-QIE21_CapID0pedestal -> 6
+[OK] :: put HF4-2-QIE21_CapID0pedestal 0x0 -> OK == get HF4-2-QIE21_CapID0pedestal -> 0
+[OK] :: put HF4-2-QIE21_CapID0pedestal 0x7 -> OK == get HF4-2-QIE21_CapID0pedestal -> 7
+[OK] :: put HF4-2-QIE21_CapID1pedestal 0x8 -> OK == get HF4-2-QIE21_CapID1pedestal -> 8
+[OK] :: put HF4-2-QIE21_CapID1pedestal 0x0 -> OK == get HF4-2-QIE21_CapID1pedestal -> 0
+[OK] :: put HF4-2-QIE21_CapID1pedestal 0x1 -> OK == get HF4-2-QIE21_CapID1pedestal -> 1
+[OK] :: put HF4-2-QIE21_CapID2pedestal 0x3 -> OK == get HF4-2-QIE21_CapID2pedestal -> 3
+[OK] :: put HF4-2-QIE21_CapID2pedestal 0x5 -> OK == get HF4-2-QIE21_CapID2pedestal -> 5
+[OK] :: put HF4-2-QIE21_CapID2pedestal 0x1 -> OK == get HF4-2-QIE21_CapID2pedestal -> 1
+[OK] :: put HF4-2-QIE21_CapID3pedestal 0x5 -> OK == get HF4-2-QIE21_CapID3pedestal -> 5
+[OK] :: put HF4-2-QIE21_CapID3pedestal 0x3 -> OK == get HF4-2-QIE21_CapID3pedestal -> 3
+[OK] :: put HF4-2-QIE21_CapID3pedestal 0x5 -> OK == get HF4-2-QIE21_CapID3pedestal -> 5
+[OK] :: put HF4-2-QIE21_FixRange 0x1 -> OK == get HF4-2-QIE21_FixRange -> 1
+[OK] :: put HF4-2-QIE21_FixRange 0x0 -> OK == get HF4-2-QIE21_FixRange -> 0
+[OK] :: put HF4-2-QIE21_FixRange 0x1 -> OK == get HF4-2-QIE21_FixRange -> 1
+[OK] :: put HF4-2-QIE21_RangeSet 0x1 -> OK == get HF4-2-QIE21_RangeSet -> 1
+[OK] :: put HF4-2-QIE21_RangeSet 0x1 -> OK == get HF4-2-QIE21_RangeSet -> 1
+[OK] :: put HF4-2-QIE21_RangeSet 0x0 -> OK == get HF4-2-QIE21_RangeSet -> 0
+[OK] :: put HF4-2-QIE21_ChargeInjectDAC 0x4 -> OK == get HF4-2-QIE21_ChargeInjectDAC -> 4
+[OK] :: put HF4-2-QIE21_ChargeInjectDAC 0x1 -> OK == get HF4-2-QIE21_ChargeInjectDAC -> 1
+[OK] :: put HF4-2-QIE21_ChargeInjectDAC 0x1 -> OK == get HF4-2-QIE21_ChargeInjectDAC -> 1
+[OK] :: put HF4-2-QIE21_RinSel 0x3 -> OK == get HF4-2-QIE21_RinSel -> 3
+[OK] :: put HF4-2-QIE21_RinSel 0x2 -> OK == get HF4-2-QIE21_RinSel -> 2
+[OK] :: put HF4-2-QIE21_RinSel 0x3 -> OK == get HF4-2-QIE21_RinSel -> 3
+[OK] :: put HF4-2-QIE21_Idcset 0x9 -> OK == get HF4-2-QIE21_Idcset -> 9
+[OK] :: put HF4-2-QIE21_Idcset 0xa -> OK == get HF4-2-QIE21_Idcset -> a
+[OK] :: put HF4-2-QIE21_Idcset 0x7 -> OK == get HF4-2-QIE21_Idcset -> 7
+[OK] :: put HF4-2-QIE21_CalMode 0x0 -> OK == get HF4-2-QIE21_CalMode -> 0
+[OK] :: put HF4-2-QIE21_CalMode 0x1 -> OK == get HF4-2-QIE21_CalMode -> 1
+[OK] :: put HF4-2-QIE21_CalMode 0x0 -> OK == get HF4-2-QIE21_CalMode -> 0
+[OK] :: put HF4-2-QIE21_CkOutEn 0x0 -> OK == get HF4-2-QIE21_CkOutEn -> 0
+[OK] :: put HF4-2-QIE21_CkOutEn 0x1 -> OK == get HF4-2-QIE21_CkOutEn -> 1
+[OK] :: put HF4-2-QIE21_CkOutEn 0x0 -> OK == get HF4-2-QIE21_CkOutEn -> 0
+[OK] :: put HF4-2-QIE21_TDCMode 0x1 -> OK == get HF4-2-QIE21_TDCMode -> 1
+[OK] :: put HF4-2-QIE21_TDCMode 0x1 -> OK == get HF4-2-QIE21_TDCMode -> 1
+[OK] :: put HF4-2-QIE21_TDCMode 0x1 -> OK == get HF4-2-QIE21_TDCMode -> 1
+[OK] :: put HF4-2-Qie21_ck_ph 0x2 -> OK == get HF4-2-Qie21_ck_ph -> 2
+[OK] :: put HF4-2-Qie21_ck_ph 0x4 -> OK == get HF4-2-Qie21_ck_ph -> 4
+[OK] :: put HF4-2-Qie21_ck_ph 0x1 -> OK == get HF4-2-Qie21_ck_ph -> 1
+[OK] :: put HF4-2-QIE22_Lvds 0x0 -> OK == get HF4-2-QIE22_Lvds -> 0
+[OK] :: put HF4-2-QIE22_Lvds 0x0 -> OK == get HF4-2-QIE22_Lvds -> 0
+[OK] :: put HF4-2-QIE22_Lvds 0x1 -> OK == get HF4-2-QIE22_Lvds -> 1
+[OK] :: put HF4-2-QIE22_Trim 0x1 -> OK == get HF4-2-QIE22_Trim -> 1
+[OK] :: put HF4-2-QIE22_Trim 0x2 -> OK == get HF4-2-QIE22_Trim -> 2
+[OK] :: put HF4-2-QIE22_Trim 0x2 -> OK == get HF4-2-QIE22_Trim -> 2
+[OK] :: put HF4-2-QIE22_DiscOn 0x0 -> OK == get HF4-2-QIE22_DiscOn -> 0
+[OK] :: put HF4-2-QIE22_DiscOn 0x0 -> OK == get HF4-2-QIE22_DiscOn -> 0
+[OK] :: put HF4-2-QIE22_DiscOn 0x1 -> OK == get HF4-2-QIE22_DiscOn -> 1
+[OK] :: put HF4-2-QIE22_TGain 0x0 -> OK == get HF4-2-QIE22_TGain -> 0
+[OK] :: put HF4-2-QIE22_TGain 0x1 -> OK == get HF4-2-QIE22_TGain -> 1
+[OK] :: put HF4-2-QIE22_TGain 0x0 -> OK == get HF4-2-QIE22_TGain -> 0
+[OK] :: put HF4-2-QIE22_TimingThresholdDAC 0x3c -> OK == get HF4-2-QIE22_TimingThresholdDAC -> 3c
+[OK] :: put HF4-2-QIE22_TimingThresholdDAC 0x5c -> OK == get HF4-2-QIE22_TimingThresholdDAC -> 5c
+[OK] :: put HF4-2-QIE22_TimingThresholdDAC 0x53 -> OK == get HF4-2-QIE22_TimingThresholdDAC -> 53
+[OK] :: put HF4-2-QIE22_TimingIref 0x2 -> OK == get HF4-2-QIE22_TimingIref -> 2
+[OK] :: put HF4-2-QIE22_TimingIref 0x0 -> OK == get HF4-2-QIE22_TimingIref -> 0
+[OK] :: put HF4-2-QIE22_TimingIref 0x3 -> OK == get HF4-2-QIE22_TimingIref -> 3
+[OK] :: put HF4-2-QIE22_PedestalDAC 0x3 -> OK == get HF4-2-QIE22_PedestalDAC -> 3
+[OK] :: put HF4-2-QIE22_PedestalDAC 0x14 -> OK == get HF4-2-QIE22_PedestalDAC -> 14
+[OK] :: put HF4-2-QIE22_PedestalDAC 0x1a -> OK == get HF4-2-QIE22_PedestalDAC -> 1a
+[OK] :: put HF4-2-QIE22_CapID0pedestal 0x1 -> OK == get HF4-2-QIE22_CapID0pedestal -> 1
+[OK] :: put HF4-2-QIE22_CapID0pedestal 0x7 -> OK == get HF4-2-QIE22_CapID0pedestal -> 7
+[OK] :: put HF4-2-QIE22_CapID0pedestal 0x2 -> OK == get HF4-2-QIE22_CapID0pedestal -> 2
+[OK] :: put HF4-2-QIE22_CapID1pedestal 0x0 -> OK == get HF4-2-QIE22_CapID1pedestal -> 0
+[OK] :: put HF4-2-QIE22_CapID1pedestal 0x7 -> OK == get HF4-2-QIE22_CapID1pedestal -> 7
+[OK] :: put HF4-2-QIE22_CapID1pedestal 0x8 -> OK == get HF4-2-QIE22_CapID1pedestal -> 8
+[OK] :: put HF4-2-QIE22_CapID2pedestal 0x2 -> OK == get HF4-2-QIE22_CapID2pedestal -> 2
+[OK] :: put HF4-2-QIE22_CapID2pedestal 0x7 -> OK == get HF4-2-QIE22_CapID2pedestal -> 7
+[OK] :: put HF4-2-QIE22_CapID2pedestal 0x2 -> OK == get HF4-2-QIE22_CapID2pedestal -> 2
+[OK] :: put HF4-2-QIE22_CapID3pedestal 0x6 -> OK == get HF4-2-QIE22_CapID3pedestal -> 6
+[OK] :: put HF4-2-QIE22_CapID3pedestal 0x8 -> OK == get HF4-2-QIE22_CapID3pedestal -> 8
+[OK] :: put HF4-2-QIE22_CapID3pedestal 0x6 -> OK == get HF4-2-QIE22_CapID3pedestal -> 6
+[OK] :: put HF4-2-QIE22_FixRange 0x0 -> OK == get HF4-2-QIE22_FixRange -> 0
+[OK] :: put HF4-2-QIE22_FixRange 0x0 -> OK == get HF4-2-QIE22_FixRange -> 0
+[OK] :: put HF4-2-QIE22_FixRange 0x0 -> OK == get HF4-2-QIE22_FixRange -> 0
+[OK] :: put HF4-2-QIE22_RangeSet 0x1 -> OK == get HF4-2-QIE22_RangeSet -> 1
+[OK] :: put HF4-2-QIE22_RangeSet 0x1 -> OK == get HF4-2-QIE22_RangeSet -> 1
+[OK] :: put HF4-2-QIE22_RangeSet 0x1 -> OK == get HF4-2-QIE22_RangeSet -> 1
+[OK] :: put HF4-2-QIE22_ChargeInjectDAC 0x1 -> OK == get HF4-2-QIE22_ChargeInjectDAC -> 1
+[OK] :: put HF4-2-QIE22_ChargeInjectDAC 0x3 -> OK == get HF4-2-QIE22_ChargeInjectDAC -> 3
+[OK] :: put HF4-2-QIE22_ChargeInjectDAC 0x4 -> OK == get HF4-2-QIE22_ChargeInjectDAC -> 4
+[OK] :: put HF4-2-QIE22_RinSel 0x7 -> OK == get HF4-2-QIE22_RinSel -> 7
+[OK] :: put HF4-2-QIE22_RinSel 0x4 -> OK == get HF4-2-QIE22_RinSel -> 4
+[OK] :: put HF4-2-QIE22_RinSel 0x5 -> OK == get HF4-2-QIE22_RinSel -> 5
+[OK] :: put HF4-2-QIE22_Idcset 0x5 -> OK == get HF4-2-QIE22_Idcset -> 5
+[OK] :: put HF4-2-QIE22_Idcset 0x9 -> OK == get HF4-2-QIE22_Idcset -> 9
+[OK] :: put HF4-2-QIE22_Idcset 0x10 -> OK == get HF4-2-QIE22_Idcset -> 10
+[OK] :: put HF4-2-QIE22_CalMode 0x1 -> OK == get HF4-2-QIE22_CalMode -> 1
+[OK] :: put HF4-2-QIE22_CalMode 0x0 -> OK == get HF4-2-QIE22_CalMode -> 0
+[OK] :: put HF4-2-QIE22_CalMode 0x0 -> OK == get HF4-2-QIE22_CalMode -> 0
+[OK] :: put HF4-2-QIE22_CkOutEn 0x0 -> OK == get HF4-2-QIE22_CkOutEn -> 0
+[OK] :: put HF4-2-QIE22_CkOutEn 0x1 -> OK == get HF4-2-QIE22_CkOutEn -> 1
+[OK] :: put HF4-2-QIE22_CkOutEn 0x1 -> OK == get HF4-2-QIE22_CkOutEn -> 1
+[OK] :: put HF4-2-QIE22_TDCMode 0x1 -> OK == get HF4-2-QIE22_TDCMode -> 1
+[OK] :: put HF4-2-QIE22_TDCMode 0x1 -> OK == get HF4-2-QIE22_TDCMode -> 1
+[OK] :: put HF4-2-QIE22_TDCMode 0x1 -> OK == get HF4-2-QIE22_TDCMode -> 1
+[OK] :: put HF4-2-Qie22_ck_ph 0x4 -> OK == get HF4-2-Qie22_ck_ph -> 4
+[OK] :: put HF4-2-Qie22_ck_ph 0x0 -> OK == get HF4-2-Qie22_ck_ph -> 0
+[OK] :: put HF4-2-Qie22_ck_ph 0x4 -> OK == get HF4-2-Qie22_ck_ph -> 4
+[OK] :: put HF4-2-QIE23_Lvds 0x1 -> OK == get HF4-2-QIE23_Lvds -> 1
+[OK] :: put HF4-2-QIE23_Lvds 0x1 -> OK == get HF4-2-QIE23_Lvds -> 1
+[OK] :: put HF4-2-QIE23_Lvds 0x0 -> OK == get HF4-2-QIE23_Lvds -> 0
+[OK] :: put HF4-2-QIE23_Trim 0x2 -> OK == get HF4-2-QIE23_Trim -> 2
+[OK] :: put HF4-2-QIE23_Trim 0x1 -> OK == get HF4-2-QIE23_Trim -> 1
+[OK] :: put HF4-2-QIE23_Trim 0x1 -> OK == get HF4-2-QIE23_Trim -> 1
+[OK] :: put HF4-2-QIE23_DiscOn 0x1 -> OK == get HF4-2-QIE23_DiscOn -> 1
+[OK] :: put HF4-2-QIE23_DiscOn 0x0 -> OK == get HF4-2-QIE23_DiscOn -> 0
+[OK] :: put HF4-2-QIE23_DiscOn 0x0 -> OK == get HF4-2-QIE23_DiscOn -> 0
+[OK] :: put HF4-2-QIE23_TGain 0x1 -> OK == get HF4-2-QIE23_TGain -> 1
+[OK] :: put HF4-2-QIE23_TGain 0x0 -> OK == get HF4-2-QIE23_TGain -> 0
+[OK] :: put HF4-2-QIE23_TGain 0x0 -> OK == get HF4-2-QIE23_TGain -> 0
+[OK] :: put HF4-2-QIE23_TimingThresholdDAC 0x38 -> OK == get HF4-2-QIE23_TimingThresholdDAC -> 38
+[OK] :: put HF4-2-QIE23_TimingThresholdDAC 0x74 -> OK == get HF4-2-QIE23_TimingThresholdDAC -> 74
+[OK] :: put HF4-2-QIE23_TimingThresholdDAC 0x6e -> OK == get HF4-2-QIE23_TimingThresholdDAC -> 6e
+[OK] :: put HF4-2-QIE23_TimingIref 0x1 -> OK == get HF4-2-QIE23_TimingIref -> 1
+[OK] :: put HF4-2-QIE23_TimingIref 0x2 -> OK == get HF4-2-QIE23_TimingIref -> 2
+[OK] :: put HF4-2-QIE23_TimingIref 0x0 -> OK == get HF4-2-QIE23_TimingIref -> 0
+[OK] :: put HF4-2-QIE23_PedestalDAC 0x5 -> OK == get HF4-2-QIE23_PedestalDAC -> 5
+[OK] :: put HF4-2-QIE23_PedestalDAC 0x19 -> OK == get HF4-2-QIE23_PedestalDAC -> 19
+[OK] :: put HF4-2-QIE23_PedestalDAC 0x2 -> OK == get HF4-2-QIE23_PedestalDAC -> 2
+[OK] :: put HF4-2-QIE23_CapID0pedestal 0x5 -> OK == get HF4-2-QIE23_CapID0pedestal -> 5
+[OK] :: put HF4-2-QIE23_CapID0pedestal 0x2 -> OK == get HF4-2-QIE23_CapID0pedestal -> 2
+[OK] :: put HF4-2-QIE23_CapID0pedestal 0x3 -> OK == get HF4-2-QIE23_CapID0pedestal -> 3
+[OK] :: put HF4-2-QIE23_CapID1pedestal 0x4 -> OK == get HF4-2-QIE23_CapID1pedestal -> 4
+[OK] :: put HF4-2-QIE23_CapID1pedestal 0x3 -> OK == get HF4-2-QIE23_CapID1pedestal -> 3
+[OK] :: put HF4-2-QIE23_CapID1pedestal 0x3 -> OK == get HF4-2-QIE23_CapID1pedestal -> 3
+[OK] :: put HF4-2-QIE23_CapID2pedestal 0x7 -> OK == get HF4-2-QIE23_CapID2pedestal -> 7
+[OK] :: put HF4-2-QIE23_CapID2pedestal 0x1 -> OK == get HF4-2-QIE23_CapID2pedestal -> 1
+[OK] :: put HF4-2-QIE23_CapID2pedestal 0x0 -> OK == get HF4-2-QIE23_CapID2pedestal -> 0
+[OK] :: put HF4-2-QIE23_CapID3pedestal 0x3 -> OK == get HF4-2-QIE23_CapID3pedestal -> 3
+[OK] :: put HF4-2-QIE23_CapID3pedestal 0x5 -> OK == get HF4-2-QIE23_CapID3pedestal -> 5
+[OK] :: put HF4-2-QIE23_CapID3pedestal 0x3 -> OK == get HF4-2-QIE23_CapID3pedestal -> 3
+[OK] :: put HF4-2-QIE23_FixRange 0x0 -> OK == get HF4-2-QIE23_FixRange -> 0
+[OK] :: put HF4-2-QIE23_FixRange 0x0 -> OK == get HF4-2-QIE23_FixRange -> 0
+[OK] :: put HF4-2-QIE23_FixRange 0x1 -> OK == get HF4-2-QIE23_FixRange -> 1
+[OK] :: put HF4-2-QIE23_RangeSet 0x1 -> OK == get HF4-2-QIE23_RangeSet -> 1
+[OK] :: put HF4-2-QIE23_RangeSet 0x2 -> OK == get HF4-2-QIE23_RangeSet -> 2
+[OK] :: put HF4-2-QIE23_RangeSet 0x0 -> OK == get HF4-2-QIE23_RangeSet -> 0
+[OK] :: put HF4-2-QIE23_ChargeInjectDAC 0x0 -> OK == get HF4-2-QIE23_ChargeInjectDAC -> 0
+[OK] :: put HF4-2-QIE23_ChargeInjectDAC 0x4 -> OK == get HF4-2-QIE23_ChargeInjectDAC -> 4
+[OK] :: put HF4-2-QIE23_ChargeInjectDAC 0x3 -> OK == get HF4-2-QIE23_ChargeInjectDAC -> 3
+[OK] :: put HF4-2-QIE23_RinSel 0x3 -> OK == get HF4-2-QIE23_RinSel -> 3
+[OK] :: put HF4-2-QIE23_RinSel 0x4 -> OK == get HF4-2-QIE23_RinSel -> 4
+[OK] :: put HF4-2-QIE23_RinSel 0x3 -> OK == get HF4-2-QIE23_RinSel -> 3
+[OK] :: put HF4-2-QIE23_Idcset 0xe -> OK == get HF4-2-QIE23_Idcset -> e
+[OK] :: put HF4-2-QIE23_Idcset 0x7 -> OK == get HF4-2-QIE23_Idcset -> 7
+[OK] :: put HF4-2-QIE23_Idcset 0x9 -> OK == get HF4-2-QIE23_Idcset -> 9
+[OK] :: put HF4-2-QIE23_CalMode 0x0 -> OK == get HF4-2-QIE23_CalMode -> 0
+[OK] :: put HF4-2-QIE23_CalMode 0x0 -> OK == get HF4-2-QIE23_CalMode -> 0
+[OK] :: put HF4-2-QIE23_CalMode 0x0 -> OK == get HF4-2-QIE23_CalMode -> 0
+[OK] :: put HF4-2-QIE23_CkOutEn 0x1 -> OK == get HF4-2-QIE23_CkOutEn -> 1
+[OK] :: put HF4-2-QIE23_CkOutEn 0x1 -> OK == get HF4-2-QIE23_CkOutEn -> 1
+[OK] :: put HF4-2-QIE23_CkOutEn 0x0 -> OK == get HF4-2-QIE23_CkOutEn -> 0
+[OK] :: put HF4-2-QIE23_TDCMode 0x0 -> OK == get HF4-2-QIE23_TDCMode -> 0
+[OK] :: put HF4-2-QIE23_TDCMode 0x0 -> OK == get HF4-2-QIE23_TDCMode -> 0
+[OK] :: put HF4-2-QIE23_TDCMode 0x0 -> OK == get HF4-2-QIE23_TDCMode -> 0
+[OK] :: put HF4-2-Qie23_ck_ph 0x7 -> OK == get HF4-2-Qie23_ck_ph -> 7
+[OK] :: put HF4-2-Qie23_ck_ph 0x8 -> OK == get HF4-2-Qie23_ck_ph -> 8
+[OK] :: put HF4-2-Qie23_ck_ph 0x6 -> OK == get HF4-2-Qie23_ck_ph -> 6
+[OK] :: put HF4-2-QIE24_Lvds 0x1 -> OK == get HF4-2-QIE24_Lvds -> 1
+[OK] :: put HF4-2-QIE24_Lvds 0x1 -> OK == get HF4-2-QIE24_Lvds -> 1
+[OK] :: put HF4-2-QIE24_Lvds 0x1 -> OK == get HF4-2-QIE24_Lvds -> 1
+[OK] :: put HF4-2-QIE24_Trim 0x2 -> OK == get HF4-2-QIE24_Trim -> 2
+[OK] :: put HF4-2-QIE24_Trim 0x2 -> OK == get HF4-2-QIE24_Trim -> 2
+[OK] :: put HF4-2-QIE24_Trim 0x1 -> OK == get HF4-2-QIE24_Trim -> 1
+[OK] :: put HF4-2-QIE24_DiscOn 0x1 -> OK == get HF4-2-QIE24_DiscOn -> 1
+[OK] :: put HF4-2-QIE24_DiscOn 0x1 -> OK == get HF4-2-QIE24_DiscOn -> 1
+[OK] :: put HF4-2-QIE24_DiscOn 0x1 -> OK == get HF4-2-QIE24_DiscOn -> 1
+[OK] :: put HF4-2-QIE24_TGain 0x1 -> OK == get HF4-2-QIE24_TGain -> 1
+[OK] :: put HF4-2-QIE24_TGain 0x1 -> OK == get HF4-2-QIE24_TGain -> 1
+[OK] :: put HF4-2-QIE24_TGain 0x1 -> OK == get HF4-2-QIE24_TGain -> 1
+[OK] :: put HF4-2-QIE24_TimingThresholdDAC 0x36 -> OK == get HF4-2-QIE24_TimingThresholdDAC -> 36
+[OK] :: put HF4-2-QIE24_TimingThresholdDAC 0xd -> OK == get HF4-2-QIE24_TimingThresholdDAC -> d
+[OK] :: put HF4-2-QIE24_TimingThresholdDAC 0x3a -> OK == get HF4-2-QIE24_TimingThresholdDAC -> 3a
+[OK] :: put HF4-2-QIE24_TimingIref 0x4 -> OK == get HF4-2-QIE24_TimingIref -> 4
+[OK] :: put HF4-2-QIE24_TimingIref 0x2 -> OK == get HF4-2-QIE24_TimingIref -> 2
+[OK] :: put HF4-2-QIE24_TimingIref 0x3 -> OK == get HF4-2-QIE24_TimingIref -> 3
+[OK] :: put HF4-2-QIE24_PedestalDAC 0x17 -> OK == get HF4-2-QIE24_PedestalDAC -> 17
+[OK] :: put HF4-2-QIE24_PedestalDAC 0x4 -> OK == get HF4-2-QIE24_PedestalDAC -> 4
+[OK] :: put HF4-2-QIE24_PedestalDAC 0xa -> OK == get HF4-2-QIE24_PedestalDAC -> a
+[OK] :: put HF4-2-QIE24_CapID0pedestal 0x0 -> OK == get HF4-2-QIE24_CapID0pedestal -> 0
+[OK] :: put HF4-2-QIE24_CapID0pedestal 0x7 -> OK == get HF4-2-QIE24_CapID0pedestal -> 7
+[OK] :: put HF4-2-QIE24_CapID0pedestal 0x5 -> OK == get HF4-2-QIE24_CapID0pedestal -> 5
+[OK] :: put HF4-2-QIE24_CapID1pedestal 0x3 -> OK == get HF4-2-QIE24_CapID1pedestal -> 3
+[OK] :: put HF4-2-QIE24_CapID1pedestal 0x0 -> OK == get HF4-2-QIE24_CapID1pedestal -> 0
+[OK] :: put HF4-2-QIE24_CapID1pedestal 0x6 -> OK == get HF4-2-QIE24_CapID1pedestal -> 6
+[OK] :: put HF4-2-QIE24_CapID2pedestal 0x2 -> OK == get HF4-2-QIE24_CapID2pedestal -> 2
+[OK] :: put HF4-2-QIE24_CapID2pedestal 0x1 -> OK == get HF4-2-QIE24_CapID2pedestal -> 1
+[OK] :: put HF4-2-QIE24_CapID2pedestal 0x5 -> OK == get HF4-2-QIE24_CapID2pedestal -> 5
+[OK] :: put HF4-2-QIE24_CapID3pedestal 0x2 -> OK == get HF4-2-QIE24_CapID3pedestal -> 2
+[OK] :: put HF4-2-QIE24_CapID3pedestal 0x6 -> OK == get HF4-2-QIE24_CapID3pedestal -> 6
+[OK] :: put HF4-2-QIE24_CapID3pedestal 0x3 -> OK == get HF4-2-QIE24_CapID3pedestal -> 3
+[OK] :: put HF4-2-QIE24_FixRange 0x1 -> OK == get HF4-2-QIE24_FixRange -> 1
+[OK] :: put HF4-2-QIE24_FixRange 0x1 -> OK == get HF4-2-QIE24_FixRange -> 1
+[OK] :: put HF4-2-QIE24_FixRange 0x0 -> OK == get HF4-2-QIE24_FixRange -> 0
+[OK] :: put HF4-2-QIE24_RangeSet 0x2 -> OK == get HF4-2-QIE24_RangeSet -> 2
+[OK] :: put HF4-2-QIE24_RangeSet 0x2 -> OK == get HF4-2-QIE24_RangeSet -> 2
+[OK] :: put HF4-2-QIE24_RangeSet 0x0 -> OK == get HF4-2-QIE24_RangeSet -> 0
+[OK] :: put HF4-2-QIE24_ChargeInjectDAC 0x0 -> OK == get HF4-2-QIE24_ChargeInjectDAC -> 0
+[OK] :: put HF4-2-QIE24_ChargeInjectDAC 0x3 -> OK == get HF4-2-QIE24_ChargeInjectDAC -> 3
+[OK] :: put HF4-2-QIE24_ChargeInjectDAC 0x1 -> OK == get HF4-2-QIE24_ChargeInjectDAC -> 1
+[OK] :: put HF4-2-QIE24_RinSel 0x0 -> OK == get HF4-2-QIE24_RinSel -> 0
+[OK] :: put HF4-2-QIE24_RinSel 0x2 -> OK == get HF4-2-QIE24_RinSel -> 2
+[OK] :: put HF4-2-QIE24_RinSel 0x2 -> OK == get HF4-2-QIE24_RinSel -> 2
+[OK] :: put HF4-2-QIE24_Idcset 0xf -> OK == get HF4-2-QIE24_Idcset -> f
+[OK] :: put HF4-2-QIE24_Idcset 0xd -> OK == get HF4-2-QIE24_Idcset -> d
+[OK] :: put HF4-2-QIE24_Idcset 0x2 -> OK == get HF4-2-QIE24_Idcset -> 2
+[OK] :: put HF4-2-QIE24_CalMode 0x1 -> OK == get HF4-2-QIE24_CalMode -> 1
+[OK] :: put HF4-2-QIE24_CalMode 0x1 -> OK == get HF4-2-QIE24_CalMode -> 1
+[OK] :: put HF4-2-QIE24_CalMode 0x0 -> OK == get HF4-2-QIE24_CalMode -> 0
+[OK] :: put HF4-2-QIE24_CkOutEn 0x1 -> OK == get HF4-2-QIE24_CkOutEn -> 1
+[OK] :: put HF4-2-QIE24_CkOutEn 0x0 -> OK == get HF4-2-QIE24_CkOutEn -> 0
+[OK] :: put HF4-2-QIE24_CkOutEn 0x1 -> OK == get HF4-2-QIE24_CkOutEn -> 1
+[OK] :: put HF4-2-QIE24_TDCMode 0x1 -> OK == get HF4-2-QIE24_TDCMode -> 1
+[OK] :: put HF4-2-QIE24_TDCMode 0x1 -> OK == get HF4-2-QIE24_TDCMode -> 1
+[OK] :: put HF4-2-QIE24_TDCMode 0x1 -> OK == get HF4-2-QIE24_TDCMode -> 1
+[OK] :: put HF4-2-Qie24_ck_ph 0x6 -> OK == get HF4-2-Qie24_ck_ph -> 6
+[OK] :: put HF4-2-Qie24_ck_ph 0x5 -> OK == get HF4-2-Qie24_ck_ph -> 5
+[OK] :: put HF4-2-Qie24_ck_ph 0x2 -> OK == get HF4-2-Qie24_ck_ph -> 2
+[OK] :: put HF4-2-iTop_CntrReg_CImode 0x1 -> OK == get HF4-2-iTop_CntrReg_CImode -> 1
+[OK] :: put HF4-2-iTop_CntrReg_CImode 0x1 -> OK == get HF4-2-iTop_CntrReg_CImode -> 1
+[OK] :: put HF4-2-iTop_CntrReg_CImode 0x0 -> OK == get HF4-2-iTop_CntrReg_CImode -> 0
+[OK] :: put HF4-2-iTop_CntrReg_InternalQIER 0x0 -> OK == get HF4-2-iTop_CntrReg_InternalQIER -> 0
+[OK] :: put HF4-2-iTop_CntrReg_InternalQIER 0x1 -> OK == get HF4-2-iTop_CntrReg_InternalQIER -> 1
+[OK] :: put HF4-2-iTop_CntrReg_InternalQIER 0x1 -> OK == get HF4-2-iTop_CntrReg_InternalQIER -> 1
+[OK] :: put HF4-2-iTop_CntrReg_OrbHistoClear 0x0 -> OK == get HF4-2-iTop_CntrReg_OrbHistoClear -> 0
+[OK] :: put HF4-2-iTop_CntrReg_OrbHistoClear 0x1 -> OK == get HF4-2-iTop_CntrReg_OrbHistoClear -> 1
+[OK] :: put HF4-2-iTop_CntrReg_OrbHistoClear 0x0 -> OK == get HF4-2-iTop_CntrReg_OrbHistoClear -> 0
+[OK] :: put HF4-2-iTop_CntrReg_OrbHistoRun 0x0 -> OK == get HF4-2-iTop_CntrReg_OrbHistoRun -> 0
+[OK] :: put HF4-2-iTop_CntrReg_OrbHistoRun 0x1 -> OK == get HF4-2-iTop_CntrReg_OrbHistoRun -> 1
+[OK] :: put HF4-2-iTop_CntrReg_OrbHistoRun 0x0 -> OK == get HF4-2-iTop_CntrReg_OrbHistoRun -> 0
+[OK] :: put HF4-2-iTop_CntrReg_WrEn_InputSpy 0x0 -> OK == get HF4-2-iTop_CntrReg_WrEn_InputSpy -> 0
+[OK] :: put HF4-2-iTop_CntrReg_WrEn_InputSpy 0x0 -> OK == get HF4-2-iTop_CntrReg_WrEn_InputSpy -> 0
+[OK] :: put HF4-2-iTop_CntrReg_WrEn_InputSpy 0x0 -> OK == get HF4-2-iTop_CntrReg_WrEn_InputSpy -> 0
+[OK] :: put HF4-2-iTop_AddrToSERDES 0x7ae3 -> OK == get HF4-2-iTop_AddrToSERDES -> 7ae3
+[OK] :: put HF4-2-iTop_AddrToSERDES 0x8aa -> OK == get HF4-2-iTop_AddrToSERDES -> 8aa
+[OK] :: put HF4-2-iTop_AddrToSERDES 0x38ac -> OK == get HF4-2-iTop_AddrToSERDES -> 38ac
+[OK] :: put HF4-2-iTop_CtrlToSERDES_i2c_go 0x0 -> OK == get HF4-2-iTop_CtrlToSERDES_i2c_go -> 0
+[OK] :: put HF4-2-iTop_CtrlToSERDES_i2c_go 0x0 -> OK == get HF4-2-iTop_CtrlToSERDES_i2c_go -> 0
+[OK] :: put HF4-2-iTop_CtrlToSERDES_i2c_go 0x1 -> OK == get HF4-2-iTop_CtrlToSERDES_i2c_go -> 1
+[OK] :: put HF4-2-iTop_CtrlToSERDES_i2c_write 0x0 -> OK == get HF4-2-iTop_CtrlToSERDES_i2c_write -> 0
+[OK] :: put HF4-2-iTop_CtrlToSERDES_i2c_write 0x1 -> OK == get HF4-2-iTop_CtrlToSERDES_i2c_write -> 1
+[OK] :: put HF4-2-iTop_CtrlToSERDES_i2c_write 0x0 -> OK == get HF4-2-iTop_CtrlToSERDES_i2c_write -> 0
+[OK] :: put HF4-2-iTop_DataToSERDES 0x8986f059 -> OK == get HF4-2-iTop_DataToSERDES -> 8986f059
+[OK] :: put HF4-2-iTop_DataToSERDES 0xcb6020c8 -> OK == get HF4-2-iTop_DataToSERDES -> cb6020c8
+[OK] :: put HF4-2-iTop_DataToSERDES 0xa65488f2 -> OK == get HF4-2-iTop_DataToSERDES -> a65488f2
+[OK] :: put HF4-2-iTop_LinkTestMode 0x3a -> OK == get HF4-2-iTop_LinkTestMode -> 3a
+[OK] :: put HF4-2-iTop_LinkTestMode 0x15 -> OK == get HF4-2-iTop_LinkTestMode -> 15
+[OK] :: put HF4-2-iTop_LinkTestMode 0x1e -> OK == get HF4-2-iTop_LinkTestMode -> 1e
+[OK] :: put HF4-2-iTop_LinkTestPattern 0x9627b5b0 -> OK == get HF4-2-iTop_LinkTestPattern -> 9627b5b0
+[OK] :: put HF4-2-iTop_LinkTestPattern 0xa153d2cd -> OK == get HF4-2-iTop_LinkTestPattern -> a153d2cd
+[OK] :: put HF4-2-iTop_LinkTestPattern 0x205d1e9f -> OK == get HF4-2-iTop_LinkTestPattern -> 205d1e9f
+[OK] :: put HF4-2-iTop_scratch 0x1ad9f12d -> OK == get HF4-2-iTop_scratch -> 1ad9f12d
+[OK] :: put HF4-2-iTop_scratch 0x2a49efca -> OK == get HF4-2-iTop_scratch -> 2a49efca
+[OK] :: put HF4-2-iTop_scratch 0x2de964f -> OK == get HF4-2-iTop_scratch -> 2de964f
+[OK] :: put HF4-2-iTop_UniqueID 0x8b8c6ac9 0x80769f41 -> OK == get HF4-2-iTop_UniqueID -> 8b8c6ac9 80769f41
+[OK] :: put HF4-2-iTop_UniqueID 0xb98a9dd7 0x2e4e8410 -> OK == get HF4-2-iTop_UniqueID -> b98a9dd7 2e4e8410
+[OK] :: put HF4-2-iTop_UniqueID 0xbd8eff20 0x14c97309 -> OK == get HF4-2-iTop_UniqueID -> bd8eff20 14c97309
+[OK] :: put HF4-2-iBot_CntrReg_CImode 0x0 -> OK == get HF4-2-iBot_CntrReg_CImode -> 0
+[OK] :: put HF4-2-iBot_CntrReg_CImode 0x1 -> OK == get HF4-2-iBot_CntrReg_CImode -> 1
+[OK] :: put HF4-2-iBot_CntrReg_CImode 0x1 -> OK == get HF4-2-iBot_CntrReg_CImode -> 1
+[OK] :: put HF4-2-iBot_CntrReg_InternalQIER 0x0 -> OK == get HF4-2-iBot_CntrReg_InternalQIER -> 0
+[OK] :: put HF4-2-iBot_CntrReg_InternalQIER 0x0 -> OK == get HF4-2-iBot_CntrReg_InternalQIER -> 0
+[OK] :: put HF4-2-iBot_CntrReg_InternalQIER 0x0 -> OK == get HF4-2-iBot_CntrReg_InternalQIER -> 0
+[OK] :: put HF4-2-iBot_CntrReg_OrbHistoClear 0x1 -> OK == get HF4-2-iBot_CntrReg_OrbHistoClear -> 1
+[OK] :: put HF4-2-iBot_CntrReg_OrbHistoClear 0x1 -> OK == get HF4-2-iBot_CntrReg_OrbHistoClear -> 1
+[OK] :: put HF4-2-iBot_CntrReg_OrbHistoClear 0x0 -> OK == get HF4-2-iBot_CntrReg_OrbHistoClear -> 0
+[OK] :: put HF4-2-iBot_CntrReg_OrbHistoRun 0x1 -> OK == get HF4-2-iBot_CntrReg_OrbHistoRun -> 1
+[OK] :: put HF4-2-iBot_CntrReg_OrbHistoRun 0x0 -> OK == get HF4-2-iBot_CntrReg_OrbHistoRun -> 0
+[OK] :: put HF4-2-iBot_CntrReg_OrbHistoRun 0x0 -> OK == get HF4-2-iBot_CntrReg_OrbHistoRun -> 0
+[OK] :: put HF4-2-iBot_CntrReg_WrEn_InputSpy 0x1 -> OK == get HF4-2-iBot_CntrReg_WrEn_InputSpy -> 1
+[OK] :: put HF4-2-iBot_CntrReg_WrEn_InputSpy 0x1 -> OK == get HF4-2-iBot_CntrReg_WrEn_InputSpy -> 1
+[OK] :: put HF4-2-iBot_CntrReg_WrEn_InputSpy 0x0 -> OK == get HF4-2-iBot_CntrReg_WrEn_InputSpy -> 0
+[OK] :: put HF4-2-iBot_AddrToSERDES 0x5010 -> OK == get HF4-2-iBot_AddrToSERDES -> 5010
+[OK] :: put HF4-2-iBot_AddrToSERDES 0x3be1 -> OK == get HF4-2-iBot_AddrToSERDES -> 3be1
+[OK] :: put HF4-2-iBot_AddrToSERDES 0x60c7 -> OK == get HF4-2-iBot_AddrToSERDES -> 60c7
+[OK] :: put HF4-2-iBot_CtrlToSERDES_i2c_go 0x1 -> OK == get HF4-2-iBot_CtrlToSERDES_i2c_go -> 1
+[OK] :: put HF4-2-iBot_CtrlToSERDES_i2c_go 0x1 -> OK == get HF4-2-iBot_CtrlToSERDES_i2c_go -> 1
+[OK] :: put HF4-2-iBot_CtrlToSERDES_i2c_go 0x0 -> OK == get HF4-2-iBot_CtrlToSERDES_i2c_go -> 0
+[OK] :: put HF4-2-iBot_CtrlToSERDES_i2c_write 0x1 -> OK == get HF4-2-iBot_CtrlToSERDES_i2c_write -> 1
+[OK] :: put HF4-2-iBot_CtrlToSERDES_i2c_write 0x0 -> OK == get HF4-2-iBot_CtrlToSERDES_i2c_write -> 0
+[OK] :: put HF4-2-iBot_CtrlToSERDES_i2c_write 0x0 -> OK == get HF4-2-iBot_CtrlToSERDES_i2c_write -> 0
+[OK] :: put HF4-2-iBot_DataToSERDES 0x9afa6299 -> OK == get HF4-2-iBot_DataToSERDES -> 9afa6299
+[OK] :: put HF4-2-iBot_DataToSERDES 0xe34990ae -> OK == get HF4-2-iBot_DataToSERDES -> e34990ae
+[OK] :: put HF4-2-iBot_DataToSERDES 0xd17526ef -> OK == get HF4-2-iBot_DataToSERDES -> d17526ef
+[OK] :: put HF4-2-iBot_LinkTestMode 0x6b -> OK == get HF4-2-iBot_LinkTestMode -> 6b
+[OK] :: put HF4-2-iBot_LinkTestMode 0x75 -> OK == get HF4-2-iBot_LinkTestMode -> 75
+[OK] :: put HF4-2-iBot_LinkTestMode 0x2f -> OK == get HF4-2-iBot_LinkTestMode -> 2f
+[OK] :: put HF4-2-iBot_LinkTestPattern 0xee2ffad4 -> OK == get HF4-2-iBot_LinkTestPattern -> ee2ffad4
+[OK] :: put HF4-2-iBot_LinkTestPattern 0x49c0bc5c -> OK == get HF4-2-iBot_LinkTestPattern -> 49c0bc5c
+[OK] :: put HF4-2-iBot_LinkTestPattern 0xd5ee876f -> OK == get HF4-2-iBot_LinkTestPattern -> d5ee876f
+[OK] :: put HF4-2-iBot_scratch 0x739c2436 -> OK == get HF4-2-iBot_scratch -> 739c2436
+[OK] :: put HF4-2-iBot_scratch 0xc5394d81 -> OK == get HF4-2-iBot_scratch -> c5394d81
+[OK] :: put HF4-2-iBot_scratch 0x19cda604 -> OK == get HF4-2-iBot_scratch -> 19cda604
+[OK] :: put HF4-2-iBot_UniqueID 0x194bf01 0x68f027ac -> OK == get HF4-2-iBot_UniqueID -> 194bf01 68f027ac
+[OK] :: put HF4-2-iBot_UniqueID 0xb2284d0e 0xb57cb790 -> OK == get HF4-2-iBot_UniqueID -> b2284d0e b57cb790
+[OK] :: put HF4-2-iBot_UniqueID 0x7df27ac0 0xf2d318c2 -> OK == get HF4-2-iBot_UniqueID -> 7df27ac0 f2d318c2

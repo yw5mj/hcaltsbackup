@@ -1,0 +1,16 @@
+#! /bin/bash
+sttime=`date -d 23:59 +%s`
+nwtime=`date +%s`
+declare -i sltime=$(($sttime-$nwtime))
+if [ $sltime -gt 0 ]
+then
+    echo "waiting for $sltime seconds..."
+    sleep $sltime
+fi
+echo '>> back up script is now active'
+while :
+do
+    date
+    .runscp -D &
+    sleep 1d
+done

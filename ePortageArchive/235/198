@@ -1,0 +1,23 @@
+
+Running the ped acceptance test ...
+	QIE card: ID = 0xad000000 0xba2a9070 (FE Crate 3, Slot 2)
+	uHTR: Links = [12, 13, 14, 15, 16, 17] (BE Crate 53, Slot 2)
+Fetching FW version information ...
+	[OK] QIE card: FW = ['03.04', '03.04', '01.11.0000']
+	[OK] uHTR: FW = [('HF-4800.41', '000.017.050'), ('HF-4800.41', '000.018.000')]
+	[OK] ngCCM: FW = 02.08, ID = 0x644d 0x5520326f 0x6f6c6769
+	[OK] AMC13: FW = [4033, 27], SW = 38957
+	[OK] FC7: FW = 07.03.07 (14, 9, 10)
+Checking the unique ID ...
+	[OK]
+Saving output to /nfshome0/elhughes/public/data/at_results/0xad000000_0xba2a9070/at_ped/151021_145020 ...
+	[OK]
+
+====== SUMMARY ============================
+Teststand: 904at
+QIE card: 0xad000000 0xba2a9070 (FE Crate 3, Slot 2)
+[!!] Errors:
+	* Link 13, Channel 3, QIE 8, Cap ID 0: Mean 6.56037151703
+	* Link 13, Channel 3, QIE 8, Cap ID 3: Mean 7.92796092796
+===========================================
+

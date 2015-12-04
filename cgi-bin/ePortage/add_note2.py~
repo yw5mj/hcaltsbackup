@@ -1,0 +1,20 @@
+#!/usr/bin/python
+
+import cgi
+import base
+import home_page_list
+
+# Print basic HTML stuff:
+base.begin()
+base.header(title='Adding a note...')
+base.top()
+
+form = cgi.FieldStorage()
+
+if form.getvalue('note'):
+	note = cgi.escape(form.getvalue('note'))
+	serial_num = cgi.escape(form.getvalue('serial_num'))
+	home_page_list.add_id(serial_num, qid)
+#	print card_id, serial_num, qid
+
+base.bottom()

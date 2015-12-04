@@ -1,0 +1,51 @@
+
+Running the ped acceptance test ...
+	QIE card: ID = 0x67000000 0x9b32c370 (FE Crate 2, Slot 2)
+	uHTR: Links = [12, 13, 14, 15, 16, 17] (BE Crate 53, Slot 1)
+Fetching FW version information ...
+	[OK] QIE card: FW = ['03.04', '03.04', '01.11.0000']
+	[OK] uHTR: FW = ['fws']
+	[OK] ngCCM: FW = 02.08, ID = 0x644d 0x5520326f 0x6f6c6769
+Checking the unique ID ...
+	[OK]
+---------------------------
+link: 12
+---------------------------
+---------------------------
+link: 13
+---------------------------
+---------------------------
+link: 14
+---------------------------
+---------------------------
+link: 15
+---------------------------
+---------------------------
+link: 16
+---------------------------
+---------------------------
+link: 17
+---------------------------
+Saving output to /nfshome0/elhughes/public/data/at_results/0x67000000_0x9b32c370/at_ped/151009_122802 ...
+	[OK]
+
+====== SUMMARY ============================
+Teststand: 904at
+QIE card: 0x67000000 0x9b32c370 (FE Crate 2, Slot 2)
+[!!] Errors:
+	* Link: 14 Channel: 9 Cap ID: 0 Mean: 0.0
+	* Link: 14 Channel: 9 Cap ID: 1 Mean: 0.0
+	* Link: 14 Channel: 9 Cap ID: 2 Mean: 0.0
+	* Link: 14 Channel: 9 Cap ID: 3 Mean: 0.0
+	* Link: 14 Channel: 10 Cap ID: 0 Mean: 0.0
+	* Link: 14 Channel: 10 Cap ID: 1 Mean: 0.0
+	* Link: 14 Channel: 10 Cap ID: 2 Mean: 0.0
+	* Link: 14 Channel: 10 Cap ID: 3 Mean: 0.0
+	* Link: 14 Channel: 11 Cap ID: 1 Mean: 0.0
+	* Link: 14 Channel: 11 Cap ID: 2 Mean: 0.0
+	* Link: 14 Channel: 11 Cap ID: 3 Mean: 0.0
+	* Link: 14 Channel: 12 Cap ID: 1 Mean: 0.0
+	* Link: 14 Channel: 12 Cap ID: 2 Mean: 0.0
+	* Link: 14 Channel: 12 Cap ID: 3 Mean: 0.0
+===========================================
+
