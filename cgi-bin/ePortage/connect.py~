@@ -1,7 +1,0 @@
-import mysql.connector 
-def connect( num ):
-    if(num==1):
-       cnx = mysql.connector.connect(user='Inserter', host='localhost' , password='hcalInserter', database='eportage')
-    if(num==0):
-       cnx = mysql.connector.connect(user='ReadUser', host='localhost' , unix_socket='' , password='hcalReader', database='eportage')
-    return cnx
